@@ -1,0 +1,14 @@
+{
+  "indicator_id": "population",
+  "indicator_name": "総人口",
+  "unit": "千人",
+  "source": "e-Stat 人口推計",
+  "updated": "2026-03-08",
+  "data": [
+    {
+      "year": 1991,
+      "value": 124043.0,
+      "unit": "千人"
+    }
+  ]
+}

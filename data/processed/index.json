@@ -1,0 +1,53 @@
+{
+  "updated": "2026-03-08",
+  "indicators": [
+    {
+      "id": "population",
+      "name": "総人口",
+      "unit": "千人",
+      "source": "e-Stat 人口推計",
+      "file": "population.json",
+      "years": 1,
+      "latest_year": 1991,
+      "latest_value": 124043.0
+    },
+    {
+      "id": "manufacturing-products",
+      "name": "製造業品目別データ",
+      "unit": "",
+      "source": "e-Stat 生産動態統計",
+      "file": "manufacturing.json",
+      "total_items": 388
+    },
+    {
+      "id": "retail-sales",
+      "name": "小売業販売額",
+      "unit": "10億円",
+      "source": "e-Stat 商業動態統計",
+      "file": "retail-sales.json",
+      "years": 3,
+      "latest_year": 2015,
+      "latest_value": 7859.0
+    },
+    {
+      "id": "avg-wage",
+      "name": "賃金指数（現金給与総額）",
+      "unit": "指数（平成17年=100）",
+      "source": "e-Stat 毎月勤労統計",
+      "file": "avg-wage.json",
+      "years": 21,
+      "latest_year": 2010,
+      "latest_value": 95.7
+    },
+    {
+      "id": "housing-starts",
+      "name": "新設住宅着工戸数",
+      "unit": "戸",
+      "source": "e-Stat 住宅着工統計",
+      "file": "housing-starts.json",
+      "years": 1,
+      "latest_year": 2023,
+      "latest_value": 281988.0
+    }
+  ]
+}

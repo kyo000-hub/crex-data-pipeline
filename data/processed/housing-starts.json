@@ -1,0 +1,14 @@
+{
+  "indicator_id": "housing-starts",
+  "indicator_name": "新設住宅着工戸数",
+  "unit": "戸",
+  "source": "e-Stat 住宅着工統計",
+  "updated": "2026-03-08",
+  "data": [
+    {
+      "year": 2023,
+      "value": 281988.0,
+      "unit": "戸"
+    }
+  ]
+}
