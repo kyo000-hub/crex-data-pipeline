@@ -15,7 +15,10 @@ on:
           - phase1_manufacturing
           - phase2_macro
           - all
-
+          
+permissions:
+  contents: write
+  
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
