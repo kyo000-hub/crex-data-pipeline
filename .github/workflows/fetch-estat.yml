@@ -14,6 +14,7 @@ on:
           - phase0_test
           - phase1_manufacturing
           - phase2_macro
+          - phase3_process
           - all
           
 permissions:
@@ -53,6 +54,10 @@ jobs:
         env:
           ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
         run: python scripts/phase2_macro.py
+
+      - name: Phase 3 - データ加工（raw→JSON）
+        if: github.event.inputs.phase == 'phase3_process' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+        run: python scripts/phase3_process.py
 
       - name: データをコミット
         run: |
