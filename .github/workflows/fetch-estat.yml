@@ -1,0 +1,60 @@
+name: CREX e-Stat データ取得
+
+on:
+  schedule:
+    - cron: '0 18 1,15 * *'
+  workflow_dispatch:
+    inputs:
+      phase:
+        description: '実行フェーズ'
+        required: true
+        default: 'phase0_test'
+        type: choice
+        options:
+          - phase0_test
+          - phase1_manufacturing
+          - phase2_macro
+          - all
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 依存パッケージインストール
+        run: pip install requests pandas
+
+      - name: Phase 0 - API疎通テスト
+        if: github.event.inputs.phase == 'phase0_test' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+        env:
+          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
+        run: python scripts/phase0_test.py
+
+      - name: Phase 1 - 生産動態統計
+        if: github.event.inputs.phase == 'phase1_manufacturing' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+        env:
+          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
+        run: python scripts/phase1_manufacturing.py
+
+      - name: Phase 2 - マクロ統計
+        if: github.event.inputs.phase == 'phase2_macro' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+        env:
+          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
+        run: python scripts/phase2_macro.py
+
+      - name: データをコミット
+        run: |
+          git config user.name "CREX Data Bot"
+          git config user.email "bot@crexgroup.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "📊 データ更新: $(date '+%Y-%m-%d %H:%M')"
+          git push
