@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-03-08T08:24:54.933614",
+  "targets": 8,
+  "success": 4,
+  "total_rows": 102946,
+  "results": [
+    {
+      "name": "消費者物価指数（CPI）",
+      "crex_id": "cpi",
+      "table_id": "0000010103",
+      "title": "Ｃ　経済基盤",
+      "rows": 100000,
+      "status": "OK"
+    },
+    {
+      "name": "労働力調査（完全失業率）",
+      "status": "NOT_FOUND",
+      "rows": 0
+    },
+    {
+      "name": "毎月勤労統計（賃金）",
+      "status": "dict contains fields not in fieldnames: 'unit'",
+      "rows": 0
+    },
+    {
+      "name": "人口推計",
+      "crex_id": "population",
+      "table_id": "0000150002",
+      "title": "年齢５歳階級（４６），男女別（３），年（５），人口数及び割合－総人口（各年１０月１日現在），全国",
+      "rows": 690,
+      "status": "OK"
+    },
+    {
+      "name": "家計調査（消費支出）",
+      "status": "HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
+      "rows": 0
+    },
+    {
+      "name": "住宅着工統計",
+      "crex_id": "housing-starts",
+      "table_id": "0004023580",
+      "title": "（新設住宅）利用関係別、建築を伴う除却住宅の利用関係別",
+      "rows": 1920,
+      "status": "OK"
+    },
+    {
+      "name": "鉱工業指数（生産指数）",
+      "status": "NOT_FOUND",
+      "rows": 0
+    },
+    {
+      "name": "商業動態統計（小売販売額）",
+      "crex_id": "retail-sales",
+      "table_id": "0003147742",
+      "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+      "rows": 336,
+      "status": "OK"
+    }
+  ]
+}
