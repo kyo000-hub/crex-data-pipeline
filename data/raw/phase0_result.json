@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-03-08T08:01:30.365990",
+  "api_key_prefix": "8939cff3...",
+  "results": [
+    {
+      "label": "半導体の出荷額・生産量",
+      "keyword": "生産動態統計 半導体",
+      "count": 5,
+      "status": "OK"
+    },
+    {
+      "label": "GDP統計",
+      "keyword": "国民経済計算 国内総生産",
+      "count": 5,
+      "status": "OK"
+    },
+    {
+      "label": "CPI",
+      "keyword": "消費者物価指数 全国",
+      "count": 5,
+      "status": "OK"
+    },
+    {
+      "label": "失業率",
+      "keyword": "労働力調査 完全失業率",
+      "count": 5,
+      "status": "OK"
+    },
+    {
+      "label": "経済センサス",
+      "keyword": "経済センサス 製造業",
+      "count": 5,
+      "status": "OK"
+    }
+  ]
+}
