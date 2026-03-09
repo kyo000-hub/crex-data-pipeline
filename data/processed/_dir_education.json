@@ -1,0 +1,287 @@
+{
+  "directory": "education",
+  "updated": "2026-03-09",
+  "file_count": 5,
+  "tables": [
+    {
+      "table_id": "0003017946",
+      "rows": 171,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 3,
+          "samples": [
+            "女",
+            "男",
+            "計"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "公立",
+            "私立",
+            "計"
+          ]
+        },
+        "area_label": {
+          "count": 19,
+          "samples": [
+            "さいたま市",
+            "京都市",
+            "仙台市",
+            "北九州市",
+            "千葉市",
+            "名古屋市",
+            "堺市",
+            "大阪市",
+            "川崎市",
+            "広島市",
+            "新潟市",
+            "札幌市",
+            "東京（23区）",
+            "横浜市",
+            "浜松市"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003017953",
+      "rows": 114,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 2,
+          "samples": [
+            "女",
+            "計"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "公立",
+            "私立",
+            "計"
+          ]
+        },
+        "area_label": {
+          "count": 19,
+          "samples": [
+            "さいたま市",
+            "京都市",
+            "仙台市",
+            "北九州市",
+            "千葉市",
+            "名古屋市",
+            "堺市",
+            "大阪市",
+            "川崎市",
+            "広島市",
+            "新潟市",
+            "札幌市",
+            "東京（23区）",
+            "横浜市",
+            "浜松市"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003017954",
+      "rows": 114,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 2,
+          "samples": [
+            "全日制",
+            "計（高等・専門・一般課程）"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "公立",
+            "私立",
+            "計"
+          ]
+        },
+        "area_label": {
+          "count": 19,
+          "samples": [
+            "さいたま市",
+            "京都市",
+            "仙台市",
+            "北九州市",
+            "千葉市",
+            "名古屋市",
+            "堺市",
+            "大阪市",
+            "川崎市",
+            "広島市",
+            "新潟市",
+            "札幌市",
+            "東京（23区）",
+            "横浜市",
+            "浜松市"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003061540",
+      "rows": 526,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2006-2006",
+      "year_count": 1,
+      "categories": {
+        "tab_label": {
+          "count": 1,
+          "samples": [
+            "学校数・学級数・児童生徒数・教職員数"
+          ]
+        },
+        "cat01_label": {
+          "count": 48,
+          "samples": [
+            "中学校-公立",
+            "中学校-国立",
+            "中学校-私立",
+            "中学校-計",
+            "中等教育学校-公立",
+            "中等教育学校-前期課程",
+            "中等教育学校-国立",
+            "中等教育学校-後期課程",
+            "中等教育学校-私立",
+            "中等教育学校-計",
+            "各種学校-公立",
+            "各種学校-国立",
+            "各種学校-私立",
+            "各種学校-計",
+            "専修学校-一般課程"
+          ]
+        },
+        "cat02_label": {
+          "count": 12,
+          "samples": [
+            "児童生徒数-女",
+            "児童生徒数-男",
+            "児童生徒数-計",
+            "学校数-分校",
+            "学校数-本校",
+            "学校数-計",
+            "学級数",
+            "教員数（兼務者）",
+            "教員数（本務者）-女",
+            "教員数（本務者）-男",
+            "教員数（本務者）-計",
+            "職員数（本務者）"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2006年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003175400",
+      "rows": 4,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2016-2016",
+      "year_count": 1,
+      "categories": {
+        "tab_label": {
+          "count": 1,
+          "samples": [
+            "学級数・生徒数・教員数"
+          ]
+        },
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "学級数",
+            "教員数‐兼務者",
+            "教員数‐本務者",
+            "生徒数"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "計"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2016年"
+          ]
+        }
+      }
+    }
+  ],
+  "total_rows": 929
+}
