@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-09T11:25:16.945788",
+  "files": {
+    "B_macro_annual.csv": {
+      "rows": 26,
+      "size_kb": 1.5
+    },
+    "C1_manufacturing_products.csv": {
+      "rows": 4395,
+      "size_kb": 446.4
+    },
+    "C_industry_summary.csv": {
+      "rows": 203,
+      "size_kb": 19.2
+    },
+    "economic_census.csv": {
+      "rows": 77505,
+      "size_kb": 6076.1
+    },
+    "national_census_industry.csv": {
+      "rows": 17106,
+      "size_kb": 1104.0
+    },
+    "wage_structure.csv": {
+      "rows": 12733,
+      "size_kb": 1102.8
+    }
+  }
+}
