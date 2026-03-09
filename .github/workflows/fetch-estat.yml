@@ -5,25 +5,19 @@ on:
     - cron: '0 18 1,15 * *'
   workflow_dispatch:
     inputs:
-      phase:
-        description: '実行フェーズ'
+      target:
+        description: '取得対象（all / ソースID / カンマ区切りで複数指定）'
         required: true
-        default: 'phase0_test'
-        type: choice
-        options:
-          - phase0_test
-          - phase1_manufacturing
-          - phase2_macro
-          - phase3_process
-          - all
-          
+        default: 'all'
+        type: string
+
 permissions:
   contents: write
-  
+
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
 
     steps:
       - name: チェックアウト
@@ -37,26 +31,19 @@ jobs:
       - name: 依存パッケージインストール
         run: pip install requests pandas
 
-      - name: Phase 0 - API疎通テスト
-        if: github.event.inputs.phase == 'phase0_test' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+      - name: データ取得
         env:
           ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
-        run: python scripts/phase0_test.py
+        run: |
+          TARGET="${{ github.event.inputs.target || 'all' }}"
+          if [ "$TARGET" = "all" ]; then
+            python scripts/fetch_all.py
+          else
+            ARGS=$(echo "$TARGET" | tr ',' ' ')
+            python scripts/fetch_all.py $ARGS
+          fi
 
-      - name: Phase 1 - 生産動態統計
-        if: github.event.inputs.phase == 'phase1_manufacturing' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
-        env:
-          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
-        run: python scripts/phase1_manufacturing.py
-
-      - name: Phase 2 - マクロ統計
-        if: github.event.inputs.phase == 'phase2_macro' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
-        env:
-          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
-        run: python scripts/phase2_macro.py
-
-      - name: Phase 3 - データ加工（raw→JSON）
-        if: github.event.inputs.phase == 'phase3_process' || github.event.inputs.phase == 'all' || github.event_name == 'schedule'
+      - name: データ加工（raw→JSON）
         run: python scripts/phase3_process.py
 
       - name: データをコミット
