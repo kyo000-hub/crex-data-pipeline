@@ -42,17 +42,17 @@ jobs:
             ARGS=$(echo "$TARGET" | tr ',' ' ')
             python scripts/fetch_all.py $ARGS
           fi
-          
-      - name: マクロ指標直接取得
-        env:
-          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
-        run: python scripts/fetch_macro_direct.py
         
       - name: データ加工（raw→JSON）
         run: python scripts/phase3_process.py
 
       - name: Googleスプレッドシート用集約
         run: python scripts/aggregate_for_gsheet.py
+
+      - name: マクロ指標直接取得
+        env:
+          ESTAT_API_KEY: ${{ secrets.ESTAT_API_KEY }}
+        run: python scripts/fetch_macro_direct.py
 
       - name: データをコミット
         run: |
