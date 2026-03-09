@@ -45,6 +45,9 @@ jobs:
 
       - name: データ加工（raw→JSON）
         run: python scripts/phase3_process.py
+        
+      - name: Googleスプレッドシート用集約
+        run: python scripts/aggregate_for_gsheet.py
 
       - name: データをコミット
         run: |
