@@ -1,204 +1,204 @@
-directory,table_id,table_title,total_rows,year_range,categories,source_id
-agriculture,0003050523,,30,—,cat01_label(3種) / cat02_label(10種),estat-agri
-agriculture,0003093186,,30,—,cat01_label(3種) / cat02_label(10種),estat-agri
-agriculture,0003104636,,30,—,cat01_label(3種) / cat02_label(10種),estat-agri
-agriculture,0003117386,,28272,—,cat01_label(2種),estat-agri
-agriculture,0003117418,,26942,—,cat01_label(2種),estat-agri
-agriculture,0003117424,,29868,—,cat01_label(2種),estat-agri
-agriculture,0003117490,,26258,—,cat01_label(2種),estat-agri
-agriculture,0003117514,,28234,—,cat01_label(2種),estat-agri
-agriculture,0003130947,,30,—,cat01_label(3種) / cat02_label(10種),estat-agri
-agriculture,0003175942,,30,—,cat01_label(3種) / cat02_label(10種),estat-agri
-agriculture,0003194860,,5544,2015-2015,cat01_label(3種) / cat02_label(6種),estat-agri
-agriculture,0003195083,,5544,2015-2015,cat01_label(3種) / cat03_label(6種),estat-agri
-agriculture,0003195093,,5280,2015-2015,cat01_label(2種) / cat03_label(8種),estat-agri
-agriculture,0003195151,,6831,2015-2015,cat01_label(2種) / cat03_label(9種),estat-agri
-agriculture,0003195162,,12144,2015-2015,cat03_label(6種) / cat04_label(4種),estat-agri
-census,0003111245,,56609,2014-2014,cat01_label(17種),estat-census
-census,0003216724,,13104,2016-2016,cat02_label(17種),estat-census
-census,0003389413,,224,2016-2016,cat01_label(9種) / cat02_label(25種),estat-census
-census,0003389782,,225,2012-2012,cat01_label(9種) / cat02_label(25種),estat-census
-census,0003389783,,432,2012-2012,cat01_label(9種) / area_label(48種),estat-census
-census,0003413553,,8568,2012-2012,cat02_label(15種),estat-census
-construction,0003125915,,50000,2007-2025,cat02_label(5種),estat-construction
-construction,0003126456,,33620,2005-2024,cat01_label(2種) / area_label(41種) / time_label(20種),estat-construction
-construction,0003126559,,10580,2005-2024,cat01_label(3種) / cat02_label(23種) / time_label(20種),estat-construction
-construction,0003126568,,10752,2007-2025,tab_label(2種) / cat01_label(4種),estat-construction
-construction,0003422893,,558,1994-2024,tab_label(4種) / cat01_label(3種) / cat02_label(6種) / time_label(31種),estat-construction
-construction,0003458612,,50000,2021-2023,cat04_label(6種) / time_label(3種),estat-construction
-construction,0003458613,,50000,2021-2023,cat04_label(6種) / time_label(3種),estat-construction
-construction,0003458614,,50000,2021-2023,cat04_label(6種) / time_label(3種),estat-construction
-construction,0003458615,,23760,2021-2023,cat03_label(10種) / cat04_label(36種) / time_label(3種),estat-construction
-construction,0003458616,,23760,2021-2023,cat03_label(10種) / cat04_label(36種) / time_label(3種),estat-construction
-corporate,0003014193,,140,1999-2008,cat01_label(14種) / time_label(10種),estat-corp-finance
-corporate,0003014199,,825,—,cat01_label(33種) / cat02_label(25種),estat-corp-finance
-corporate,0003015306,,30000,2008-2018,cat02_label(3種) / cat03_label(42種) / time_label(11種),estat-corp-finance
-corporate,0003015598,,30000,2003-2007,cat02_label(5種) / cat03_label(42種) / time_label(5種),estat-corp-finance
-corporate,0003033209,,364,1900-2100,cat01_label(6種) / cat02_label(4種) / time_label(26種),estat-corp-finance
-corporate,0003033210,,364,1900-2100,cat01_label(14種) / time_label(26種),estat-corp-finance
-corporate,0003033211,,572,1900-2100,cat02_label(22種) / time_label(26種),estat-corp-finance
-corporate,0003033212,,468,1900-2100,cat01_label(2種) / cat02_label(9種) / time_label(26種),estat-corp-finance
-corporate,0003033213,,182,1900-2100,cat02_label(7種) / time_label(26種),estat-corp-finance
-corporate,0003059049,,2460,—,cat01_label(7種),estat-corp-finance
-corporate,0003094240,,132,2007-2008,cat01_label(2種) / cat02_label(11種) / cat03_label(3種) / time_label(2種),estat-corp-finance
-corporate,0003094258,,66,2007-2008,cat02_label(11種) / cat03_label(3種) / time_label(2種),estat-corp-finance
-corporate,0003094259,,99,2008-2008,cat01_label(3種) / cat02_label(11種) / cat03_label(3種),estat-corp-finance
-corporate,0003239543,,9162,—,,estat-corp-finance
-corporate,0003240110,,2475,—,cat01_label(7種),estat-corp-finance
-corporate,0003287200,,7110,2014-2016,cat01_label(12種) / cat02_label(15種) / cat03_label(2種) / time_label(3種),estat-corp-finance
-corporate,0003317770,,11664,2014-2016,cat01_label(4種) / cat03_label(9種) / cat04_label(12種) / time_label(3種),estat-corp-finance
-corporate,0003317771,,11232,2014-2016,cat01_label(4種) / cat03_label(12種) / cat04_label(12種) / time_label(3種),estat-corp-finance
-corporate,0003317788,,9720,2014-2016,cat01_label(2種) / cat02_label(2種) / cat03_label(9種) / cat04_label(12種) / time_label(3種),estat-corp-finance
-corporate,0003317789,,7560,2014-2016,cat01_label(2種) / cat02_label(2種) / cat03_label(7種) / cat04_label(12種) / time_label(3種),estat-corp-finance
-corporate,0003327332,,2475,—,cat01_label(7種),estat-corp-finance
-corporate,0003340749,,2490,—,cat01_label(7種),estat-corp-finance
-corporate,0003421677,,16758,2019-2025,tab_label(2種) / cat01_label(7種) / cat02_label(18種) / time_label(7種),estat-corp-finance
-corporate,0003448679,,1035,2019-2019,cat04_label(15種),estat-corp-finance
-corporate,0003448680,,915,2019-2019,cat04_label(15種),estat-corp-finance
-corporate,0003448681,,915,2019-2019,cat04_label(15種),estat-corp-finance
-corporate,0003448682,,915,2019-2019,cat04_label(15種),estat-corp-finance
-corporate,0003448683,,915,2019-2019,cat04_label(15種),estat-corp-finance
-corporate,0004048482,,5880,2019-2025,tab_label(4種) / cat01_label(7種) / cat02_label(6種) / time_label(7種),estat-corp-finance
-corporate,0004048483,,7056,2019-2025,tab_label(4種) / cat01_label(7種) / cat02_label(6種) / time_label(7種),estat-corp-finance
-education,0003017946,,171,—,cat01_label(3種) / cat02_label(3種) / area_label(19種),estat-school
-education,0003017953,,114,—,cat01_label(2種) / cat02_label(3種) / area_label(19種),estat-school
-education,0003017954,,114,—,cat01_label(2種) / cat02_label(3種) / area_label(19種),estat-school
-education,0003061540,,526,2006-2006,cat01_label(48種) / cat02_label(12種),estat-school
-education,0003175400,,4,2016-2016,cat01_label(4種),estat-school
-employment,0003004104,,13020,2007-2007,cat01_label(2種) / cat02_label(17種) / cat03_label(7種) / cat04_label(3種),estat-employment
-employment,0003004106,,10500,2007-2007,cat01_label(2種) / cat02_label(14種) / cat03_label(3種) / cat04_label(7種),estat-employment
-employment,0003004537,,100000,2007-2007,cat02_label(2種) / cat03_label(3種) / cat04_label(2種),estat-employment
-employment,0003005472,,100000,2007-2007,cat02_label(13種) / cat04_label(26種) / cat05_label(3種),estat-employment
-employment,0003005473,,100000,2007-2007,cat02_label(5種) / cat03_label(5種) / cat04_label(16種) / cat05_label(3種),estat-employment
-employment,0003109558,,24624,2007-2024,cat01_label(28種) / cat02_label(2種) / time_label(18種),estat-employment
-employment,0003109570,,7792,2005-2020,tab_label(2種) / cat02_label(2種) / time_label(4種),estat-employment
-energy,0003046635,,34,—,cat01_label(2種) / cat02_label(16種),estat-energy
-energy,0003047173,,34,—,cat01_label(2種) / cat02_label(16種),estat-energy
-energy,0003047567,,34,—,cat01_label(2種) / cat02_label(16種),estat-energy
-energy,0003048081,,34,—,cat01_label(2種) / cat02_label(16種),estat-energy
-energy,0003048832,,34,—,cat01_label(2種) / cat02_label(16種),estat-energy
-energy,0003171988,,3519,2007-2024,cat01_label(5種),estat-energy
-energy,0003171992,,3519,2007-2024,cat01_label(5種),estat-energy
-macro,0000010103,,50000,1985-2024,cat01_label(2種) / area_label(48種) / time_label(14種),estat-macro
-macro,0000010112,,30000,1975-2024,area_label(35種) / time_label(29種),estat-macro
-macro,0000010212,,50000,1975-2024,area_label(35種) / time_label(29種),estat-macro
-macro,0000150271,,2538,2006-2006,cat01_label(38種) / cat02_label(3種) / cat03_label(9種),estat-macro
-macro,0002060004,,50000,1968-2026,cat04_label(2種),estat-macro
-macro,0002060006,,27887,1985-2026,cat04_label(4種),estat-macro
-macro,0002070001,,30000,1985-2025,area_label(3種),estat-macro
-macro,0002070002,,30000,1985-2025,cat01_label(2種) / cat02_label(4種),estat-macro
-macro,0002070003,,30000,1985-2025,area_label(28種) / time_label(41種),estat-macro
-macro,0002070004,,30000,1985-2025,cat03_label(3種),estat-macro
-macro,0003005865,,2493,2000-2026,cat02_label(2種) / cat03_label(3種),estat-macro
-macro,0003005867,,50000,2006-2026,cat04_label(2種) / cat05_label(4種),estat-macro
-macro,0003006300,,29208,2000-2026,cat04_label(4種),estat-macro
-macro,0003014721,,2490,—,cat01_label(4種) / cat02_label(3種),estat-macro
-macro,0003046410,,2490,—,cat01_label(4種) / cat02_label(3種),estat-macro
-macro,0003080204,,2490,—,cat01_label(4種) / cat02_label(3種),estat-macro
-macro,0003094423,,2490,—,cat01_label(4種) / cat02_label(3種),estat-macro
-macro,0003114496,,100000,2011-2024,area_label(6種),estat-macro
-macro,0003114540,,100000,2011-2024,cat03_label(2種) / area_label(49種) / time_label(14種),estat-macro
-macro,0003114627,,100000,2011-2023,cat03_label(2種) / area_label(49種) / time_label(13種),estat-macro
-macro,0003147742,,336,2013-2015,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-macro,0003199746,,336,2014-2016,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-macro,0003223698,,336,2015-2017,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-macro,0003272944,,19500,—,cat01_label(7種),estat-macro
-macro,0003272948,,19500,—,cat01_label(7種),estat-macro
-macro,0003272952,,13520,—,cat01_label(10種),estat-macro
-macro,0003272956,,13520,—,cat01_label(10種),estat-macro
-macro,0003272960,,50000,—,cat01_label(3種),estat-macro
-macro,0003344270,,336,2016-2018,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-macro,0003411559,,1591,2015-2023,cat01_label(7種) / cat02_label(17種) / time_label(9種),estat-macro
-macro,0003411560,,225,2015-2023,cat01_label(2種) / cat02_label(3種) / cat03_label(5種) / time_label(9種),estat-macro
-macro,0003411563,,33796,1995-2023,time_label(18種),estat-macro
-macro,0003411564,,100000,2015-2023,time_label(9種),estat-macro
-macro,0003411565,,100000,1995-2023,time_label(18種),estat-macro
-macro,0003419448,,336,2017-2019,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-macro,0003421913,,50000,2000-2026,area_label(4種),estat-macro
-macro,0003449368,,3542,2000-2024,time_label(25種),estat-macro
-macro,0003449369,,45197,2000-2026,cat01_label(7種),estat-macro
-macro,0004003340,,21,2019-2019,tab_label(3種) / cat01_label(7種),estat-macro
-macro,0004003341,,50000,2019-2019,cat02_label(2種) / cat03_label(19種) / cat04_label(38種),estat-macro
-macro,0004003349,,51,2019-2019,tab_label(3種) / cat01_label(10種),estat-macro
-macro,0004003350,,11,2019-2019,cat01_label(11種),estat-macro
-macro,0004003360,,72,2019-2019,tab_label(3種) / cat01_label(3種) / cat02_label(8種),estat-macro
-macro,0004023580,,1920,2023-2023,tab_label(2種) / cat01_label(5種) / cat02_label(4種) / area_label(48種),estat-macro
-macro,0004039718,,1920,2024-2024,tab_label(2種) / cat01_label(5種) / cat02_label(4種) / area_label(48種),estat-macro
-macro,avg-wage,,2356,1970-2010,cat01_label(17種) / cat03_label(2種) / time_label(41種),estat-macro
-macro,cpi,,100000,1975-2024,cat01_label(2種) / area_label(48種) / time_label(14種),estat-macro
-macro,housing-starts,,1920,2023-2023,tab_label(2種) / cat01_label(5種) / cat02_label(4種) / area_label(48種),estat-macro
-macro,population,,690,1991-1991,cat01_label(46種) / cat02_label(3種) / cat03_label(5種),estat-macro
-macro,retail-sales,,336,2013-2015,cat01_label(2種) / area_label(8種) / time_label(21種),estat-macro
-manufacturing,0003097058,,133,—,cat01_label(7種) / cat02_label(19種),estat-manufacturing
-manufacturing,0003097059,,7,—,cat01_label(7種),estat-manufacturing
-manufacturing,0003097060,,294,—,cat01_label(7種) / cat02_label(42種),estat-manufacturing
-manufacturing,0003097154,,168,—,cat01_label(7種) / cat02_label(24種),estat-manufacturing
-manufacturing,0003097155,,77,—,cat01_label(7種) / cat02_label(11種),estat-manufacturing
-manufacturing,0003097156,,273,—,cat01_label(7種) / cat02_label(39種),estat-manufacturing
-manufacturing,0003097157,,259,—,cat01_label(7種) / cat02_label(37種),estat-manufacturing
-manufacturing,0003097158,,3864,2008-2012,cat01_label(2種) / cat02_label(24種) / time_label(23種),estat-manufacturing
-manufacturing,0003097167,,119,—,cat01_label(7種) / cat02_label(17種),estat-manufacturing
-manufacturing,0003097168,,70,—,cat01_label(7種) / cat02_label(10種),estat-manufacturing
-manufacturing,0003097172,,1771,2008-2012,cat01_label(4種) / cat02_label(11種) / time_label(23種),estat-manufacturing
-manufacturing,0003097183,,154,—,cat01_label(7種) / cat02_label(22種),estat-manufacturing
-manufacturing,0003097184,,371,—,cat01_label(7種),estat-manufacturing
-manufacturing,0003097185,,266,—,cat01_label(7種) / cat02_label(38種),estat-manufacturing
-manufacturing,0003097186,,406,—,cat01_label(7種),estat-manufacturing
-manufacturing,0003097190,,2737,2008-2012,cat01_label(3種) / cat02_label(17種) / time_label(23種),estat-manufacturing
-manufacturing,0003097191,,3542,2008-2012,cat01_label(2種) / cat02_label(22種) / time_label(23種),estat-manufacturing
-manufacturing,0003097192,,6279,2008-2012,cat01_label(2種) / cat02_label(39種) / time_label(23種),estat-manufacturing
-manufacturing,0003097202,,3059,2008-2012,cat01_label(3種) / cat02_label(19種) / time_label(23種),estat-manufacturing
-manufacturing,0003097221,,8533,2008-2012,cat02_label(44種) / time_label(23種),estat-manufacturing
-manufacturing,0003097399,,5106,2008-2012,cat01_label(2種) / cat02_label(42種) / time_label(23種),estat-manufacturing
-manufacturing,0003097427,,1610,2008-2012,cat01_label(5種) / cat02_label(10種) / time_label(23種),estat-manufacturing
-manufacturing,0003097432,,195,2011-2012,cat01_label(3種) / cat02_label(5種) / time_label(13種),estat-manufacturing
-manufacturing,0003097441,,161,2008-2012,cat01_label(7種) / time_label(23種),estat-manufacturing
-manufacturing,0003097450,,153,2008-2012,cat01_label(9種) / time_label(17種),estat-manufacturing
-manufacturing,0003097463,,6118,2008-2012,cat01_label(2種) / cat02_label(38種) / time_label(23種),estat-manufacturing
-manufacturing,0003097464,,5957,2008-2012,cat01_label(2種) / cat02_label(37種) / time_label(23種),estat-manufacturing
-manufacturing,0003097467,,364,2011-2012,cat01_label(2種) / cat02_label(14種) / time_label(13種),estat-manufacturing
-manufacturing,0003097468,,78,2011-2012,cat01_label(2種) / cat02_label(3種) / time_label(13種),estat-manufacturing
-manufacturing,0003097469,,26,2011-2012,cat01_label(2種) / time_label(13種),estat-manufacturing
-medical,0003027254,,11623,2008-2008,cat01_label(17種),estat-medical
-medical,0003027307,,944,2008-2008,cat01_label(16種),estat-medical
-medical,0003027317,,944,2008-2008,cat01_label(16種),estat-medical
-medical,0003029498,,4350,2008-2008,cat02_label(18種),estat-medical
-medical,0003031863,,1566,—,cat01_label(6種) / cat02_label(3種),estat-medical
-medical,0003125474,,54,2014-2014,cat01_label(6種) / cat02_label(9種),estat-medical
-medical,0003154342,,54,2015-2015,cat01_label(6種) / cat02_label(9種),estat-medical
-medical,0003211380,,54,2016-2016,cat01_label(6種) / cat02_label(9種),estat-medical
-medical,0003300645,,27,2017-2017,cat01_label(3種) / cat02_label(9種),estat-medical
-medical,0003385932,,50000,2015-2024,cat01_label(2種) / time_label(10種),estat-medical
-medical,0003385942,,50000,2015-2024,cat02_label(18種) / cat04_label(6種) / time_label(10種),estat-medical
-medical,0003385950,,15300,2015-2024,cat01_label(2種) / cat02_label(3種) / cat03_label(3種) / cat04_label(10種) / time_label(10種),estat-medical
-medical,0003385951,,1530,2015-2024,cat01_label(12種) / cat02_label(9種) / time_label(10種),estat-medical
-medical,0003403632,,54,2018-2018,cat01_label(6種) / cat02_label(9種),estat-medical
-medical,0004029342,,292,1952-2024,tab_label(2種) / cat01_label(2種) / cat02_label(2種),estat-medical
-national-census,0003410395,,1152,1995-2020,tab_label(2種) / cat01_label(24種) / cat02_label(3種) / time_label(8種),estat-national-census
-national-census,0003410396,,1512,1920-2000,tab_label(2種) / cat01_label(18種) / cat02_label(3種) / time_label(14種),estat-national-census
-national-census,0003411341,,720,1995-2015,tab_label(2種) / cat01_label(3種) / cat02_label(24種) / time_label(5種),estat-national-census
-national-census,0003411342,,1512,1920-2000,tab_label(2種) / cat01_label(3種) / cat02_label(18種) / time_label(14種),estat-national-census
-national-census,0004008860,,25380,1980-2000,cat01_label(2種) / cat02_label(3種) / area_label(47種) / time_label(5種),estat-national-census
-rd,0003325664,,1728,2008-2025,cat02_label(2種) / cat03_label(48種) / time_label(18種),estat-rd
-safety,0003191320,,2310,2006-2016,cat01_label(3種) / cat02_label(42種) / time_label(11種),estat-crime
-safety,0003191340,,4158,2006-2016,tab_label(2種) / cat01_label(3種) / cat02_label(42種) / time_label(11種),estat-crime
-safety,0003194968,,4620,2006-2016,cat01_label(2種) / time_label(11種),estat-crime
-safety,0003195002,,2640,2006-2016,cat01_label(2種) / time_label(11種),estat-crime
-service,0003033222,,14061,2008-2012,cat01_label(14種),estat-service
-service,0003067917,,5355,2009-2012,tab_label(2種) / time_label(7種),estat-service
-service,0003102823,,1197,2013-2013,tab_label(8種),estat-service
-service,0003102867,,1179,2013-2013,tab_label(8種),estat-service
-service,0003102908,,315,2013-2013,tab_label(9種) / cat02_label(35種),estat-service
-trade,0003425293,,51,2021-2025,cat02_label(3種) / area_label(6種) / time_label(5種),estat-trade
-trade,0004002160,,5574,2023-2026,cat03_label(9種) / time_label(4種),estat-trade
-trade,0004002163,,9548,2023-2026,cat03_label(3種) / time_label(4種),estat-trade
-transport,0003175401,,864,2006-2015,tab_label(2種) / cat01_label(6種) / cat02_label(3種) / cat03_label(3種) / time_label(8種),estat-transport
-transport,0003175402,,1536,2006-2015,tab_label(2種) / cat01_label(15種) / area_label(14種) / time_label(8種),estat-transport
-transport,0003175403,,80,2006-2015,cat01_label(10種) / time_label(8種),estat-transport
-transport,0003175404,,320,2005-2015,cat01_label(4種) / area_label(12種) / time_label(10種),estat-transport
-transport,0003175405,,112,2006-2015,cat01_label(2種) / cat02_label(7種) / time_label(8種),estat-transport
-wage-structure,0003029886,,100000,2009-2009,cat03_label(4種) / cat04_label(13種) / cat05_label(17種) / cat06_label(2種),estat-wage-structure
-wage-structure,0003130236,,100000,2004-2007,cat04_label(2種) / cat05_label(5種) / cat06_label(3種) / cat07_label(3種) / cat08_label(16種),estat-wage-structure
-wage-structure,0003130256,,100000,1999-2003,cat04_label(2種) / cat05_label(5種) / cat06_label(3種) / cat07_label(3種) / cat08_label(11種),estat-wage-structure
-wage-structure,0003130276,,94848,—,cat04_label(5種) / cat05_label(5種) / cat06_label(3種) / cat07_label(3種) / cat08_label(16種),estat-wage-structure
-wage-structure,0003446118,,78336,2020-2023,cat03_label(6種) / area_label(48種) / time_label(4種),estat-wage-structure
+directory,table_id,total_rows,year_range,categories,source_id
+agriculture,0003050523,30,—,cat01_label(3) / cat02_label(10),estat-agri
+agriculture,0003093186,30,—,cat01_label(3) / cat02_label(10),estat-agri
+agriculture,0003104636,30,—,cat01_label(3) / cat02_label(10),estat-agri
+agriculture,0003117386,28272,—,cat01_label(2),estat-agri
+agriculture,0003117418,26942,—,cat01_label(2),estat-agri
+agriculture,0003117424,29868,—,cat01_label(2),estat-agri
+agriculture,0003117490,26258,—,cat01_label(2),estat-agri
+agriculture,0003117514,28234,—,cat01_label(2),estat-agri
+agriculture,0003130947,30,—,cat01_label(3) / cat02_label(10),estat-agri
+agriculture,0003175942,30,—,cat01_label(3) / cat02_label(10),estat-agri
+agriculture,0003194860,5544,2015-2015,cat01_label(3) / cat02_label(6),estat-agri
+agriculture,0003195083,5544,2015-2015,cat01_label(3) / cat03_label(6),estat-agri
+agriculture,0003195093,5280,2015-2015,cat01_label(2) / cat03_label(8),estat-agri
+agriculture,0003195151,6831,2015-2015,cat01_label(2) / cat03_label(9),estat-agri
+agriculture,0003195162,12144,2015-2015,cat03_label(6) / cat04_label(4),estat-agri
+census,0003111245,56609,2014-2014,cat01_label(17),estat-census
+census,0003216724,13104,2016-2016,cat02_label(17),estat-census
+census,0003389413,224,2016-2016,cat01_label(9) / cat02_label(25),estat-census
+census,0003389782,225,2012-2012,cat01_label(9) / cat02_label(25),estat-census
+census,0003389783,432,2012-2012,cat01_label(9) / area_label(48),estat-census
+census,0003413553,8568,2012-2012,cat02_label(15),estat-census
+construction,0003125915,50000,2007-2025,cat02_label(5),estat-construction
+construction,0003126456,33620,2005-2024,cat01_label(2) / area_label(41) / time_label(20),estat-construction
+construction,0003126559,10580,2005-2024,cat01_label(3) / cat02_label(23) / time_label(20),estat-construction
+construction,0003126568,10752,2007-2025,tab_label(2) / cat01_label(4),estat-construction
+construction,0003422893,558,1994-2024,tab_label(4) / cat01_label(3) / cat02_label(6) / time_label(31),estat-construction
+construction,0003458612,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
+construction,0003458613,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
+construction,0003458614,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
+construction,0003458615,23760,2021-2023,cat03_label(10) / cat04_label(36) / time_label(3),estat-construction
+construction,0003458616,23760,2021-2023,cat03_label(10) / cat04_label(36) / time_label(3),estat-construction
+corporate,0003014193,140,1999-2008,cat01_label(14) / time_label(10),estat-corp-finance
+corporate,0003014199,825,—,cat01_label(33) / cat02_label(25),estat-corp-finance
+corporate,0003015306,30000,2008-2018,cat02_label(3) / cat03_label(42) / time_label(11),estat-corp-finance
+corporate,0003015598,30000,2003-2007,cat02_label(5) / cat03_label(42) / time_label(5),estat-corp-finance
+corporate,0003033209,364,1900-2100,cat01_label(6) / cat02_label(4) / time_label(26),estat-corp-finance
+corporate,0003033210,364,1900-2100,cat01_label(14) / time_label(26),estat-corp-finance
+corporate,0003033211,572,1900-2100,cat02_label(22) / time_label(26),estat-corp-finance
+corporate,0003033212,468,1900-2100,cat01_label(2) / cat02_label(9) / time_label(26),estat-corp-finance
+corporate,0003033213,182,1900-2100,cat02_label(7) / time_label(26),estat-corp-finance
+corporate,0003059049,2460,—,cat01_label(7),estat-corp-finance
+corporate,0003094240,132,2007-2008,cat01_label(2) / cat02_label(11) / cat03_label(3) / time_label(2),estat-corp-finance
+corporate,0003094258,66,2007-2008,cat02_label(11) / cat03_label(3) / time_label(2),estat-corp-finance
+corporate,0003094259,99,2008-2008,cat01_label(3) / cat02_label(11) / cat03_label(3),estat-corp-finance
+corporate,0003239543,9162,—,,estat-corp-finance
+corporate,0003240110,2475,—,cat01_label(7),estat-corp-finance
+corporate,0003287200,7110,2014-2016,cat01_label(12) / cat02_label(15) / cat03_label(2) / time_label(3),estat-corp-finance
+corporate,0003317770,11664,2014-2016,cat01_label(4) / cat03_label(9) / cat04_label(12) / time_label(3),estat-corp-finance
+corporate,0003317771,11232,2014-2016,cat01_label(4) / cat03_label(12) / cat04_label(12) / time_label(3),estat-corp-finance
+corporate,0003317788,9720,2014-2016,cat01_label(2) / cat02_label(2) / cat03_label(9) / cat04_label(12) / time_label(3),estat-corp-finance
+corporate,0003317789,7560,2014-2016,cat01_label(2) / cat02_label(2) / cat03_label(7) / cat04_label(12) / time_label(3),estat-corp-finance
+corporate,0003327332,2475,—,cat01_label(7),estat-corp-finance
+corporate,0003340749,2490,—,cat01_label(7),estat-corp-finance
+corporate,0003421677,16758,2019-2025,tab_label(2) / cat01_label(7) / cat02_label(18) / time_label(7),estat-corp-finance
+corporate,0003448679,1035,2019-2019,cat04_label(15),estat-corp-finance
+corporate,0003448680,915,2019-2019,cat04_label(15),estat-corp-finance
+corporate,0003448681,915,2019-2019,cat04_label(15),estat-corp-finance
+corporate,0003448682,915,2019-2019,cat04_label(15),estat-corp-finance
+corporate,0003448683,915,2019-2019,cat04_label(15),estat-corp-finance
+corporate,0004048482,5880,2019-2025,tab_label(4) / cat01_label(7) / cat02_label(6) / time_label(7),estat-corp-finance
+corporate,0004048483,7056,2019-2025,tab_label(4) / cat01_label(7) / cat02_label(6) / time_label(7),estat-corp-finance
+education,0003017946,171,—,cat01_label(3) / cat02_label(3) / area_label(19),estat-school
+education,0003017953,114,—,cat01_label(2) / cat02_label(3) / area_label(19),estat-school
+education,0003017954,114,—,cat01_label(2) / cat02_label(3) / area_label(19),estat-school
+education,0003061540,526,2006-2006,cat01_label(48) / cat02_label(12),estat-school
+education,0003175400,4,2016-2016,cat01_label(4),estat-school
+employment,0003004104,13020,2007-2007,cat01_label(2) / cat02_label(17) / cat03_label(7) / cat04_label(3),estat-employment
+employment,0003004106,10500,2007-2007,cat01_label(2) / cat02_label(14) / cat03_label(3) / cat04_label(7),estat-employment
+employment,0003004537,100000,2007-2007,cat02_label(2) / cat03_label(3) / cat04_label(2),estat-employment
+employment,0003005472,100000,2007-2007,cat02_label(13) / cat04_label(26) / cat05_label(3),estat-employment
+employment,0003005473,100000,2007-2007,cat02_label(5) / cat03_label(5) / cat04_label(16) / cat05_label(3),estat-employment
+employment,0003109558,24624,2007-2024,cat01_label(28) / cat02_label(2) / time_label(18),estat-employment
+employment,0003109570,7792,2005-2020,tab_label(2) / cat02_label(2) / time_label(4),estat-employment
+energy,0003046635,34,—,cat01_label(2) / cat02_label(16),estat-energy
+energy,0003047173,34,—,cat01_label(2) / cat02_label(16),estat-energy
+energy,0003047567,34,—,cat01_label(2) / cat02_label(16),estat-energy
+energy,0003048081,34,—,cat01_label(2) / cat02_label(16),estat-energy
+energy,0003048832,34,—,cat01_label(2) / cat02_label(16),estat-energy
+energy,0003171988,3519,2007-2024,cat01_label(5),estat-energy
+energy,0003171992,3519,2007-2024,cat01_label(5),estat-energy
+macro,0000010103,50000,1985-2024,cat01_label(2) / area_label(48) / time_label(14),estat-macro
+macro,0000010112,30000,1975-2024,area_label(35) / time_label(29),estat-macro
+macro,0000010212,50000,1975-2024,area_label(35) / time_label(29),estat-macro
+macro,0000150271,2538,2006-2006,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
+macro,0002060004,50000,1968-2026,cat04_label(2),estat-macro
+macro,0002060006,27887,1985-2026,cat04_label(4),estat-macro
+macro,0002070001,30000,1985-2025,area_label(3),estat-macro
+macro,0002070002,30000,1985-2025,cat01_label(2) / cat02_label(4),estat-macro
+macro,0002070003,30000,1985-2025,area_label(28) / time_label(41),estat-macro
+macro,0002070004,30000,1985-2025,cat03_label(3),estat-macro
+macro,0003005865,2493,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
+macro,0003005867,50000,2006-2026,cat04_label(2) / cat05_label(4),estat-macro
+macro,0003006300,29208,2000-2026,cat04_label(4),estat-macro
+macro,0003014721,2490,—,cat01_label(4) / cat02_label(3),estat-macro
+macro,0003046410,2490,—,cat01_label(4) / cat02_label(3),estat-macro
+macro,0003080204,2490,—,cat01_label(4) / cat02_label(3),estat-macro
+macro,0003094423,2490,—,cat01_label(4) / cat02_label(3),estat-macro
+macro,0003114496,100000,2011-2024,area_label(6),estat-macro
+macro,0003114540,100000,2011-2024,cat03_label(2) / area_label(49) / time_label(14),estat-macro
+macro,0003114627,100000,2011-2023,cat03_label(2) / area_label(49) / time_label(13),estat-macro
+macro,0003147742,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+macro,0003199746,336,2014-2016,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+macro,0003223698,336,2015-2017,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+macro,0003272944,19500,—,cat01_label(7),estat-macro
+macro,0003272948,19500,—,cat01_label(7),estat-macro
+macro,0003272952,13520,—,cat01_label(10),estat-macro
+macro,0003272956,13520,—,cat01_label(10),estat-macro
+macro,0003272960,50000,—,cat01_label(3),estat-macro
+macro,0003344270,336,2016-2018,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+macro,0003411559,1591,2015-2023,cat01_label(7) / cat02_label(17) / time_label(9),estat-macro
+macro,0003411560,225,2015-2023,cat01_label(2) / cat02_label(3) / cat03_label(5) / time_label(9),estat-macro
+macro,0003411563,33796,1995-2023,time_label(18),estat-macro
+macro,0003411564,100000,2015-2023,time_label(9),estat-macro
+macro,0003411565,100000,1995-2023,time_label(18),estat-macro
+macro,0003419448,336,2017-2019,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+macro,0003421913,50000,2000-2026,area_label(4),estat-macro
+macro,0003449368,3542,2000-2024,time_label(25),estat-macro
+macro,0003449369,45197,2000-2026,cat01_label(7),estat-macro
+macro,0004003340,21,2019-2019,tab_label(3) / cat01_label(7),estat-macro
+macro,0004003341,50000,2019-2019,cat02_label(2) / cat03_label(19) / cat04_label(38),estat-macro
+macro,0004003349,51,2019-2019,tab_label(3) / cat01_label(10),estat-macro
+macro,0004003350,11,2019-2019,cat01_label(11),estat-macro
+macro,0004003360,72,2019-2019,tab_label(3) / cat01_label(3) / cat02_label(8),estat-macro
+macro,0004023580,1920,2023-2023,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
+macro,0004039718,1920,2024-2024,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
+macro,avg-wage,2356,1970-2010,cat01_label(17) / cat03_label(2) / time_label(41),estat-macro
+macro,cpi,100000,1975-2024,cat01_label(2) / area_label(48) / time_label(14),estat-macro
+macro,housing-starts,1920,2023-2023,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
+macro,population,690,1991-1991,cat01_label(46) / cat02_label(3) / cat03_label(5),estat-macro
+macro,retail-sales,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+manufacturing,0003097058,133,—,cat01_label(7) / cat02_label(19),estat-manufacturing
+manufacturing,0003097059,7,—,cat01_label(7),estat-manufacturing
+manufacturing,0003097060,294,—,cat01_label(7) / cat02_label(42),estat-manufacturing
+manufacturing,0003097154,168,—,cat01_label(7) / cat02_label(24),estat-manufacturing
+manufacturing,0003097155,77,—,cat01_label(7) / cat02_label(11),estat-manufacturing
+manufacturing,0003097156,273,—,cat01_label(7) / cat02_label(39),estat-manufacturing
+manufacturing,0003097157,259,—,cat01_label(7) / cat02_label(37),estat-manufacturing
+manufacturing,0003097158,3864,2008-2012,cat01_label(2) / cat02_label(24) / time_label(23),estat-manufacturing
+manufacturing,0003097167,119,—,cat01_label(7) / cat02_label(17),estat-manufacturing
+manufacturing,0003097168,70,—,cat01_label(7) / cat02_label(10),estat-manufacturing
+manufacturing,0003097172,1771,2008-2012,cat01_label(4) / cat02_label(11) / time_label(23),estat-manufacturing
+manufacturing,0003097183,154,—,cat01_label(7) / cat02_label(22),estat-manufacturing
+manufacturing,0003097184,371,—,cat01_label(7),estat-manufacturing
+manufacturing,0003097185,266,—,cat01_label(7) / cat02_label(38),estat-manufacturing
+manufacturing,0003097186,406,—,cat01_label(7),estat-manufacturing
+manufacturing,0003097190,2737,2008-2012,cat01_label(3) / cat02_label(17) / time_label(23),estat-manufacturing
+manufacturing,0003097191,3542,2008-2012,cat01_label(2) / cat02_label(22) / time_label(23),estat-manufacturing
+manufacturing,0003097192,6279,2008-2012,cat01_label(2) / cat02_label(39) / time_label(23),estat-manufacturing
+manufacturing,0003097202,3059,2008-2012,cat01_label(3) / cat02_label(19) / time_label(23),estat-manufacturing
+manufacturing,0003097221,8533,2008-2012,cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003097399,5106,2008-2012,cat01_label(2) / cat02_label(42) / time_label(23),estat-manufacturing
+manufacturing,0003097427,1610,2008-2012,cat01_label(5) / cat02_label(10) / time_label(23),estat-manufacturing
+manufacturing,0003097432,195,2011-2012,cat01_label(3) / cat02_label(5) / time_label(13),estat-manufacturing
+manufacturing,0003097441,161,2008-2012,cat01_label(7) / time_label(23),estat-manufacturing
+manufacturing,0003097450,153,2008-2012,cat01_label(9) / time_label(17),estat-manufacturing
+manufacturing,0003097463,6118,2008-2012,cat01_label(2) / cat02_label(38) / time_label(23),estat-manufacturing
+manufacturing,0003097464,5957,2008-2012,cat01_label(2) / cat02_label(37) / time_label(23),estat-manufacturing
+manufacturing,0003097467,364,2011-2012,cat01_label(2) / cat02_label(14) / time_label(13),estat-manufacturing
+manufacturing,0003097468,78,2011-2012,cat01_label(2) / cat02_label(3) / time_label(13),estat-manufacturing
+manufacturing,0003097469,26,2011-2012,cat01_label(2) / time_label(13),estat-manufacturing
+medical,0003027254,11623,2008-2008,cat01_label(17),estat-medical
+medical,0003027307,944,2008-2008,cat01_label(16),estat-medical
+medical,0003027317,944,2008-2008,cat01_label(16),estat-medical
+medical,0003029498,4350,2008-2008,cat02_label(18),estat-medical
+medical,0003031863,1566,—,cat01_label(6) / cat02_label(3),estat-medical
+medical,0003125474,54,2014-2014,cat01_label(6) / cat02_label(9),estat-medical
+medical,0003154342,54,2015-2015,cat01_label(6) / cat02_label(9),estat-medical
+medical,0003211380,54,2016-2016,cat01_label(6) / cat02_label(9),estat-medical
+medical,0003300645,27,2017-2017,cat01_label(3) / cat02_label(9),estat-medical
+medical,0003385932,50000,2015-2024,cat01_label(2) / time_label(10),estat-medical
+medical,0003385942,50000,2015-2024,cat02_label(18) / cat04_label(6) / time_label(10),estat-medical
+medical,0003385950,15300,2015-2024,cat01_label(2) / cat02_label(3) / cat03_label(3) / cat04_label(10) / time_label(10),estat-medical
+medical,0003385951,1530,2015-2024,cat01_label(12) / cat02_label(9) / time_label(10),estat-medical
+medical,0003403632,54,2018-2018,cat01_label(6) / cat02_label(9),estat-medical
+medical,0004029342,292,1952-2024,tab_label(2) / cat01_label(2) / cat02_label(2),estat-medical
+national-census,0003410395,1152,1995-2020,tab_label(2) / cat01_label(24) / cat02_label(3) / time_label(8),estat-national-census
+national-census,0003410396,1512,1920-2000,tab_label(2) / cat01_label(18) / cat02_label(3) / time_label(14),estat-national-census
+national-census,0003411341,720,1995-2015,tab_label(2) / cat01_label(3) / cat02_label(24) / time_label(5),estat-national-census
+national-census,0003411342,1512,1920-2000,tab_label(2) / cat01_label(3) / cat02_label(18) / time_label(14),estat-national-census
+national-census,0004008860,25380,1980-2000,cat01_label(2) / cat02_label(3) / area_label(47) / time_label(5),estat-national-census
+rd,0003325664,1728,2008-2025,cat02_label(2) / cat03_label(48) / time_label(18),estat-rd
+safety,0003191320,2310,2006-2016,cat01_label(3) / cat02_label(42) / time_label(11),estat-crime
+safety,0003191340,4158,2006-2016,tab_label(2) / cat01_label(3) / cat02_label(42) / time_label(11),estat-crime
+safety,0003194968,4620,2006-2016,cat01_label(2) / time_label(11),estat-crime
+safety,0003195002,2640,2006-2016,cat01_label(2) / time_label(11),estat-crime
+service,0003033222,14061,2008-2012,cat01_label(14),estat-service
+service,0003067917,5355,2009-2012,tab_label(2) / time_label(7),estat-service
+service,0003102823,1197,2013-2013,tab_label(8),estat-service
+service,0003102867,1179,2013-2013,tab_label(8),estat-service
+service,0003102908,315,2013-2013,tab_label(9) / cat02_label(35),estat-service
+trade,0003425293,51,2021-2025,cat02_label(3) / area_label(6) / time_label(5),estat-trade
+trade,0004002160,5574,2023-2026,cat03_label(9) / time_label(4),estat-trade
+trade,0004002163,9548,2023-2026,cat03_label(3) / time_label(4),estat-trade
+transport,0003175401,864,2006-2015,tab_label(2) / cat01_label(6) / cat02_label(3) / cat03_label(3) / time_label(8),estat-transport
+transport,0003175402,1536,2006-2015,tab_label(2) / cat01_label(15) / area_label(14) / time_label(8),estat-transport
+transport,0003175403,80,2006-2015,cat01_label(10) / time_label(8),estat-transport
+transport,0003175404,320,2005-2015,cat01_label(4) / area_label(12) / time_label(10),estat-transport
+transport,0003175405,112,2006-2015,cat01_label(2) / cat02_label(7) / time_label(8),estat-transport
+wage-structure,0003029886,100000,2009-2009,cat03_label(4) / cat04_label(13) / cat05_label(17) / cat06_label(2),estat-wage-structure
+wage-structure,0003130236,100000,2004-2007,cat04_label(2) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(16),estat-wage-structure
+wage-structure,0003130256,100000,1999-2003,cat04_label(2) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(11),estat-wage-structure
+wage-structure,0003130276,94848,—,cat04_label(5) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(16),estat-wage-structure
+wage-structure,0003446118,78336,2020-2023,cat03_label(6) / area_label(48) / time_label(4),estat-wage-structure

@@ -1,9 +1,4 @@
 year,indicator_id,indicator_name,value,unit,source_id,notes
-1991,population,総人口,111940.0,千人,estat-population,
-2023,housing-starts,住宅着工戸数,40206.0,戸,estat-housing,
-2013,retail-sales,小売販売額,7446.0,10億円,estat-retail,
-2014,retail-sales,小売販売額,7636.0,10億円,estat-retail,
-2015,retail-sales,小売販売額,7859.0,10億円,estat-retail,
 1990,avg-wage,賃金指数,96.4,指数,estat-wage,
 1991,avg-wage,賃金指数,100.7,指数,estat-wage,
 1992,avg-wage,賃金指数,102.7,指数,estat-wage,
@@ -25,3 +20,8 @@ year,indicator_id,indicator_name,value,unit,source_id,notes
 2008,avg-wage,賃金指数,98.9,指数,estat-wage,
 2009,avg-wage,賃金指数,95.1,指数,estat-wage,
 2010,avg-wage,賃金指数,95.7,指数,estat-wage,
+2023,housing-starts,住宅着工戸数,281988.0,戸,estat-housing,
+1991,population,総人口,100.0,千人,estat-population,
+2013,retail-sales,小売販売額,7446.0,10億円,estat-retail,
+2014,retail-sales,小売販売額,7636.0,10億円,estat-retail,
+2015,retail-sales,小売販売額,7859.0,10億円,estat-retail,

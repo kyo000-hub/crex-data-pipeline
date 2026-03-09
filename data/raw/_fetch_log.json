@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T11:24:04.105416",
+  "timestamp": "2026-03-09T11:41:19.145417",
   "targets": 1,
   "total_success": 5,
   "total_rows": 12498,
@@ -8,7 +8,7 @@
     {
       "source_id": "estat-population",
       "name": "人口推計",
-      "timestamp": "2026-03-09T11:23:37.147117",
+      "timestamp": "2026-03-09T11:40:56.293980",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
