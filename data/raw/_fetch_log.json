@@ -1,14 +1,206 @@
 {
-  "timestamp": "2026-03-09T07:54:47.989789",
-  "targets": 3,
-  "total_success": 15,
-  "total_rows": 425628,
-  "total_errors": 0,
+  "timestamp": "2026-03-09T08:32:06.056510",
+  "targets": 48,
+  "total_success": 185,
+  "total_rows": 3021858,
+  "total_errors": 25,
   "results": [
+    {
+      "source_id": "estat-population",
+      "name": "人口推計",
+      "timestamp": "2026-03-09T07:59:03.848311",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 12498,
+      "files": [
+        {
+          "table_id": "0003046410",
+          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
+          "rows": 2490,
+          "file": "data/raw/macro/0003046410.csv"
+        },
+        {
+          "table_id": "0003080204",
+          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
+          "rows": 2490,
+          "file": "data/raw/macro/0003080204.csv"
+        },
+        {
+          "table_id": "0003094423",
+          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
+          "rows": 2490,
+          "file": "data/raw/macro/0003094423.csv"
+        },
+        {
+          "table_id": "0003014721",
+          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
+          "rows": 2490,
+          "file": "data/raw/macro/0003014721.csv"
+        },
+        {
+          "table_id": "0000150271",
+          "title": "[参考表]年齢各歳（９４）、男女別（３）、人口数、死亡者数、入国超過－総人口、日本人人口（９）、人口数、死亡者数、入国超過数及び国籍異動による純増－総人口、日本",
+          "rows": 2538,
+          "file": "data/raw/macro/0000150271.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-cpi",
+      "name": "消費者物価指数",
+      "timestamp": "2026-03-09T07:59:29.105866",
+      "tables_found": 2,
+      "tables_processed": 2,
+      "tables_success": 2,
+      "total_rows": 100000,
+      "files": [
+        {
+          "table_id": "0000010103",
+          "title": "Ｃ　経済基盤",
+          "rows": 50000,
+          "file": "data/raw/macro/0000010103.csv"
+        },
+        {
+          "table_id": "0000010212",
+          "title": "Ｌ　家計",
+          "rows": 50000,
+          "file": "data/raw/macro/0000010212.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-wage",
+      "name": "毎月勤労統計",
+      "timestamp": "2026-03-09T07:59:56.756731",
+      "tables_found": 35,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 235612,
+      "files": [
+        {
+          "table_id": "0003411563",
+          "title": "中巻 人口動態総覧，都道府県（特別区－指定都市再掲）別(1995年～)",
+          "rows": 33796,
+          "file": "data/raw/macro/0003411563.csv"
+        },
+        {
+          "table_id": "0003411564",
+          "title": "中巻 人口動態総覧（件数），都道府県・市部－郡部－保健所－市区町村別（都道府県・市区町村）(2006年～)",
+          "rows": 100000,
+          "file": "data/raw/macro/0003411564.csv"
+        },
+        {
+          "table_id": "0003411565",
+          "title": "中巻 人口動態総覧（件数），都道府県・市部－郡部－保健所－市区町村別（都道府県・保健所）(1995年～)",
+          "rows": 100000,
+          "file": "data/raw/macro/0003411565.csv"
+        },
+        {
+          "table_id": "0003411559",
+          "title": "上巻 人口動態総覧及び平均発生間隔 －対前年比較－",
+          "rows": 1591,
+          "file": "data/raw/macro/0003411559.csv"
+        },
+        {
+          "table_id": "0003411560",
+          "title": "上巻 本報告において別掲とした件数",
+          "rows": 225,
+          "file": "data/raw/macro/0003411560.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-housing",
+      "name": "住宅着工統計",
+      "timestamp": "2026-03-09T08:00:37.617050",
+      "tables_found": 29,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 303840,
+      "files": [
+        {
+          "table_id": "0004023580",
+          "title": "（新設住宅）利用関係別、建築を伴う除却住宅の利用関係別",
+          "rows": 1920,
+          "file": "data/raw/macro/0004023580.csv"
+        },
+        {
+          "table_id": "0004039718",
+          "title": "着工新設住宅利用関係別、建築を伴う除却住宅の利用関係別(建築により除却住宅を伴う新設住宅着工戸数、建築を伴う除却住宅戸数）",
+          "rows": 1920,
+          "file": "data/raw/macro/0004039718.csv"
+        },
+        {
+          "table_id": "0003114496",
+          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "rows": 100000,
+          "file": "data/raw/macro/0003114496.csv"
+        },
+        {
+          "table_id": "0003114540",
+          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "rows": 100000,
+          "file": "data/raw/macro/0003114540.csv"
+        },
+        {
+          "table_id": "0003114627",
+          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "rows": 100000,
+          "file": "data/raw/macro/0003114627.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-retail",
+      "name": "商業動態統計",
+      "timestamp": "2026-03-09T08:01:31.833709",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 1680,
+      "files": [
+        {
+          "table_id": "0003147742",
+          "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+          "rows": 336,
+          "file": "data/raw/macro/0003147742.csv"
+        },
+        {
+          "table_id": "0003199746",
+          "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+          "rows": 336,
+          "file": "data/raw/macro/0003199746.csv"
+        },
+        {
+          "table_id": "0003223698",
+          "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+          "rows": 336,
+          "file": "data/raw/macro/0003223698.csv"
+        },
+        {
+          "table_id": "0003344270",
+          "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+          "rows": 336,
+          "file": "data/raw/macro/0003344270.csv"
+        },
+        {
+          "table_id": "0003419448",
+          "title": "参考 経済産業局別小売業販売額 経済産業局別小売業販売額及び前年（度・同期・同月）比",
+          "rows": 336,
+          "file": "data/raw/macro/0003419448.csv"
+        }
+      ],
+      "errors": []
+    },
     {
       "source_id": "estat-labor",
       "name": "労働力調査（失業率）",
-      "timestamp": "2026-03-09T07:52:32.880385",
+      "timestamp": "2026-03-09T08:01:55.474683",
       "tables_found": 28,
       "tables_processed": 5,
       "tables_success": 5,
@@ -50,7 +242,7 @@
     {
       "source_id": "estat-iip",
       "name": "鉱工業指数",
-      "timestamp": "2026-03-09T07:53:18.170725",
+      "timestamp": "2026-03-09T08:02:41.949727",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -92,7 +284,7 @@
     {
       "source_id": "estat-household",
       "name": "家計調査",
-      "timestamp": "2026-03-09T07:53:55.722989",
+      "timestamp": "2026-03-09T08:03:20.708888",
       "tables_found": 29,
       "tables_processed": 5,
       "tables_success": 5,
@@ -127,6 +319,1401 @@
           "title": "用途分類 用途分類（年間収入五分位階級別）",
           "rows": 30000,
           "file": "data/raw/macro/0002070004.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-census-activity",
+      "name": "経済センサス-活動調査",
+      "timestamp": "2026-03-09T08:04:09.715710",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "0003216724: dict contains fields not in fieldnames: 'unit'",
+        "0003413553: dict contains fields not in fieldnames: 'unit'",
+        "0003389782: dict contains fields not in fieldnames: 'unit'",
+        "0003389783: dict contains fields not in fieldnames: 'unit'",
+        "0003389413: dict contains fields not in fieldnames: 'unit'"
+      ]
+    },
+    {
+      "source_id": "estat-census-basic",
+      "name": "経済センサス-基礎調査",
+      "timestamp": "2026-03-09T08:04:46.613349",
+      "tables_found": 1,
+      "tables_processed": 1,
+      "tables_success": 1,
+      "total_rows": 56609,
+      "files": [
+        {
+          "table_id": "0003111245",
+          "title": "企業産業（中分類）、企業の第２順位産業（中分類）別法人数、事業所数及び従業上の地位（２区分）、男女別従業者数（国内複数事業所企業）－全国（企業の第２順位産業別）",
+          "rows": 56609,
+          "file": "data/raw/census/0003111245.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-trade",
+      "name": "貿易統計",
+      "timestamp": "2026-03-09T08:05:07.238252",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "0004002162: Timeout (120s)",
+        "0004002161: Timeout (120s)",
+        "0004002160: dict contains fields not in fieldnames: 'unit'",
+        "0004002163: dict contains fields not in fieldnames: 'unit'",
+        "0003425293: dict contains fields not in fieldnames: 'unit'"
+      ]
+    },
+    {
+      "source_id": "estat-corp-finance",
+      "name": "法人企業統計",
+      "timestamp": "2026-03-09T08:10:41.328085",
+      "tables_found": 50,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 1262,
+      "files": [
+        {
+          "table_id": "0003014193",
+          "title": "時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、　付加価値額、有形固定資産投資総額） 従業者4人以上の事業所に関する統計（但し、在庫",
+          "rows": 140,
+          "file": "data/raw/corporate/0003014193.csv"
+        },
+        {
+          "table_id": "0003014199",
+          "title": "産業中分類別（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、年末在庫合計額、製造品年末在庫額、半製品・仕掛品年末価額、原材料・燃",
+          "rows": 825,
+          "file": "data/raw/corporate/0003014199.csv"
+        },
+        {
+          "table_id": "0003094240",
+          "title": "従業者規模別（事業所数、従業者数） 従業者4人以上の事業所に関する統計（但し、在庫及び有形固定資産関連は従業者30人以上）",
+          "rows": 132,
+          "file": "data/raw/corporate/0003094240.csv"
+        },
+        {
+          "table_id": "0003094258",
+          "title": "従業者規模別（現金給与総額） 従業者4人以上の事業所に関する統計（但し、在庫及び有形固定資産関連は従業者30人以上）",
+          "rows": 66,
+          "file": "data/raw/corporate/0003094258.csv"
+        },
+        {
+          "table_id": "0003094259",
+          "title": "従業者規模別（原材料使用額等、製造品出荷額等、付加価値額） 従業者4人以上の事業所に関する統計（但し、在庫及び有形固定資産関連は従業者30人以上）",
+          "rows": 99,
+          "file": "data/raw/corporate/0003094259.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-manufacturing",
+      "name": "生産動態統計",
+      "timestamp": "2026-03-09T08:11:08.091351",
+      "tables_found": 297,
+      "tables_processed": 30,
+      "tables_success": 30,
+      "total_rows": 52150,
+      "files": [
+        {
+          "table_id": "0003097058",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 133,
+          "file": "data/raw/manufacturing/0003097058.csv"
+        },
+        {
+          "table_id": "0003097059",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （９）写真感光材料",
+          "rows": 7,
+          "file": "data/raw/manufacturing/0003097059.csv"
+        },
+        {
+          "table_id": "0003097060",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （10）油脂製品、石けん・合成洗剤等及び界面活性剤",
+          "rows": 294,
+          "file": "data/raw/manufacturing/0003097060.csv"
+        },
+        {
+          "table_id": "0003097154",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （２）無機薬品・火薬類",
+          "rows": 168,
+          "file": "data/raw/manufacturing/0003097154.csv"
+        },
+        {
+          "table_id": "0003097155",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （３）触媒",
+          "rows": 77,
+          "file": "data/raw/manufacturing/0003097155.csv"
+        },
+        {
+          "table_id": "0003097156",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （６）有機薬品",
+          "rows": 273,
+          "file": "data/raw/manufacturing/0003097156.csv"
+        },
+        {
+          "table_id": "0003097157",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （12）塗料及び印刷インキ",
+          "rows": 259,
+          "file": "data/raw/manufacturing/0003097157.csv"
+        },
+        {
+          "table_id": "0003097158",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （２）無機薬品・火薬類",
+          "rows": 3864,
+          "file": "data/raw/manufacturing/0003097158.csv"
+        },
+        {
+          "table_id": "0003097167",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （４）高圧ガス",
+          "rows": 119,
+          "file": "data/raw/manufacturing/0003097167.csv"
+        },
+        {
+          "table_id": "0003097168",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （８）合成ゴム",
+          "rows": 70,
+          "file": "data/raw/manufacturing/0003097168.csv"
+        },
+        {
+          "table_id": "0003097172",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （３）触媒",
+          "rows": 1771,
+          "file": "data/raw/manufacturing/0003097172.csv"
+        },
+        {
+          "table_id": "0003097183",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （５）石油系芳香族・コールタール製品・環式中間物及び合成染料",
+          "rows": 154,
+          "file": "data/raw/manufacturing/0003097183.csv"
+        },
+        {
+          "table_id": "0003097184",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （７）プラスチック",
+          "rows": 371,
+          "file": "data/raw/manufacturing/0003097184.csv"
+        },
+        {
+          "table_id": "0003097185",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （11）化粧品",
+          "rows": 266,
+          "file": "data/raw/manufacturing/0003097185.csv"
+        },
+        {
+          "table_id": "0003097186",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （特掲）石油化学製品",
+          "rows": 406,
+          "file": "data/raw/manufacturing/0003097186.csv"
+        },
+        {
+          "table_id": "0003097190",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （４）高圧ガス",
+          "rows": 2737,
+          "file": "data/raw/manufacturing/0003097190.csv"
+        },
+        {
+          "table_id": "0003097191",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （５）石油系芳香族・コールタール製品・環式中間物及び合成染料",
+          "rows": 3542,
+          "file": "data/raw/manufacturing/0003097191.csv"
+        },
+        {
+          "table_id": "0003097192",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （６）有機薬品",
+          "rows": 6279,
+          "file": "data/raw/manufacturing/0003097192.csv"
+        },
+        {
+          "table_id": "0003097202",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 3059,
+          "file": "data/raw/manufacturing/0003097202.csv"
+        },
+        {
+          "table_id": "0003097221",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （７）プラスチック",
+          "rows": 8533,
+          "file": "data/raw/manufacturing/0003097221.csv"
+        },
+        {
+          "table_id": "0003097399",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （10）油脂製品、石けん・合成洗剤等及び界面活性剤",
+          "rows": 5106,
+          "file": "data/raw/manufacturing/0003097399.csv"
+        },
+        {
+          "table_id": "0003097427",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （８）合成ゴム",
+          "rows": 1610,
+          "file": "data/raw/manufacturing/0003097427.csv"
+        },
+        {
+          "table_id": "0003097432",
+          "title": "平成24年 生産能力統計 （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 195,
+          "file": "data/raw/manufacturing/0003097432.csv"
+        },
+        {
+          "table_id": "0003097441",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （９）写真感光材料",
+          "rows": 161,
+          "file": "data/raw/manufacturing/0003097441.csv"
+        },
+        {
+          "table_id": "0003097450",
+          "title": "平成24年 原材料統計 （触媒）",
+          "rows": 153,
+          "file": "data/raw/manufacturing/0003097450.csv"
+        },
+        {
+          "table_id": "0003097463",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （11）化粧品",
+          "rows": 6118,
+          "file": "data/raw/manufacturing/0003097463.csv"
+        },
+        {
+          "table_id": "0003097464",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （12）塗料及び印刷インキ",
+          "rows": 5957,
+          "file": "data/raw/manufacturing/0003097464.csv"
+        },
+        {
+          "table_id": "0003097467",
+          "title": "平成24年 生産能力統計 （２）無機薬品・火薬類",
+          "rows": 364,
+          "file": "data/raw/manufacturing/0003097467.csv"
+        },
+        {
+          "table_id": "0003097468",
+          "title": "平成24年 生産能力統計 （３）高圧ガス",
+          "rows": 78,
+          "file": "data/raw/manufacturing/0003097468.csv"
+        },
+        {
+          "table_id": "0003097469",
+          "title": "平成24年 生産能力統計 （８）写真感光材料",
+          "rows": 26,
+          "file": "data/raw/manufacturing/0003097469.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-wage-structure",
+      "name": "賃金構造基本統計",
+      "timestamp": "2026-03-09T08:15:36.099820",
+      "tables_found": 31,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 473184,
+      "files": [
+        {
+          "table_id": "0003029886",
+          "title": "年齢階級別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額 （産業計・産業別）",
+          "rows": 100000,
+          "file": "data/raw/wage-structure/0003029886.csv"
+        },
+        {
+          "table_id": "0003446118",
+          "title": "令和２年以降 一般_都道府県別_企業規模5～9人_産業別",
+          "rows": 78336,
+          "file": "data/raw/wage-structure/0003446118.csv"
+        },
+        {
+          "table_id": "0003130236",
+          "title": "令和元年以前 年齢階級別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額 平成16年-平成19年 一般労働者 産業大分類",
+          "rows": 100000,
+          "file": "data/raw/wage-structure/0003130236.csv"
+        },
+        {
+          "table_id": "0003130256",
+          "title": "令和元年以前 年齢階級別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額 平成11年-平成15年 一般労働者 産業大分類",
+          "rows": 100000,
+          "file": "data/raw/wage-structure/0003130256.csv"
+        },
+        {
+          "table_id": "0003130276",
+          "title": "平成20年 年齢階級別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額 一般労働者 産業大分類",
+          "rows": 94848,
+          "file": "data/raw/wage-structure/0003130276.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-employment-trend",
+      "name": "雇用動向調査",
+      "timestamp": "2026-03-09T08:16:59.806492",
+      "tables_found": 2,
+      "tables_processed": 2,
+      "tables_success": 2,
+      "total_rows": 32416,
+      "files": [
+        {
+          "table_id": "0003109570",
+          "title": "完全生命表",
+          "rows": 7792,
+          "file": "data/raw/employment/0003109570.csv"
+        },
+        {
+          "table_id": "0003109558",
+          "title": "簡易生命表",
+          "rows": 24624,
+          "file": "data/raw/employment/0003109558.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-employment-structure",
+      "name": "就業構造基本調査",
+      "timestamp": "2026-03-09T08:17:15.237361",
+      "tables_found": 22,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 323520,
+      "files": [
+        {
+          "table_id": "0003005472",
+          "title": "前職の離職時期，年齢，男女，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（平成14年10月以降に前職を辞めた転職就業者及",
+          "rows": 100000,
+          "file": "data/raw/employment/0003005472.csv"
+        },
+        {
+          "table_id": "0003005473",
+          "title": "前職の離職時期，年齢，男女，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（平成14年10月以降に前職を辞めた転職就業者及",
+          "rows": 100000,
+          "file": "data/raw/employment/0003005473.csv"
+        },
+        {
+          "table_id": "0003004104",
+          "title": "年齢，男女，就業状態，前職の離職時期，前職の産業別15歳以上人口（平成18年10月以降に前職を辞めた転職就業者及び離職非就業者）",
+          "rows": 13020,
+          "file": "data/raw/employment/0003004104.csv"
+        },
+        {
+          "table_id": "0003004106",
+          "title": "男女，年齢，就業状態，前職の従業上の地位，前職の雇用形態，前職の産業別15歳以上人口（平成18年10月以降に前職を辞めた転職就業者及び離職非就業者）",
+          "rows": 10500,
+          "file": "data/raw/employment/0003004106.csv"
+        },
+        {
+          "table_id": "0003004537",
+          "title": "男女，配偶関係，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（転職就業者及び離職非就業者）",
+          "rows": 100000,
+          "file": "data/raw/employment/0003004537.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-national-census",
+      "name": "国勢調査",
+      "timestamp": "2026-03-09T08:18:16.310841",
+      "tables_found": 51,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 30276,
+      "files": [
+        {
+          "table_id": "0003411341",
+          "title": "産業（大分類），男女別15歳以上就業者数－全国（大正９年～平成27年）　就業者数及び産業別割合（平成７年～平成27年）＊平成27年調査の産業分類",
+          "rows": 720,
+          "file": "data/raw/national-census/0003411341.csv"
+        },
+        {
+          "table_id": "0003411342",
+          "title": "産業（大分類），男女別15歳以上就業者数－全国（大正９年～平成27年）　就業者数及び産業別割合（大正９年～平成12年）＊平成12年調査の産業分類",
+          "rows": 1512,
+          "file": "data/raw/national-census/0003411342.csv"
+        },
+        {
+          "table_id": "0003410395",
+          "title": "産業（大分類），男女別就業者数及び人口構成比［産業別］（15歳以上就業者）－全国（平成7年～令和2年）※平成19年11月改訂後",
+          "rows": 1152,
+          "file": "data/raw/national-census/0003410395.csv"
+        },
+        {
+          "table_id": "0003410396",
+          "title": "【参考】産業（旧大分類），男女別就業者数及び人口構成比［産業別］（15歳以上就業者）－全国（大正9年～平成12年）　※平成14年3月改訂前",
+          "rows": 1512,
+          "file": "data/raw/national-census/0003410396.csv"
+        },
+        {
+          "table_id": "0004008860",
+          "title": "【参考】産業（旧大分類），男女別就業者数及び人口構成比［産業別］（15歳以上就業者） － 都道府県（昭和55年～平成12年）　※平成14年3月改訂前",
+          "rows": 25380,
+          "file": "data/raw/national-census/0004008860.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-service",
+      "name": "サービス産業動向調査",
+      "timestamp": "2026-03-09T08:19:00.352308",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 22107,
+      "files": [
+        {
+          "table_id": "0003033222",
+          "title": "産業（中分類）別売上高（収入額）および事業従事者数【2008年10月～2012年12月まで】",
+          "rows": 14061,
+          "file": "data/raw/service/0003033222.csv"
+        },
+        {
+          "table_id": "0003067917",
+          "title": "産業（一部小分類）別売上高（収入額）・産業（一部小分類），従業上の地位別事業従事者数【2009年～2012年まで】",
+          "rows": 5355,
+          "file": "data/raw/service/0003067917.csv"
+        },
+        {
+          "table_id": "0003102823",
+          "title": "事業活動の産業（詳細分類）別年間売上高（総数，１事業従事者当たり）及び従業上の地位別事業従事者数",
+          "rows": 1197,
+          "file": "data/raw/service/0003102823.csv"
+        },
+        {
+          "table_id": "0003102867",
+          "title": "事業所・企業等の産業（詳細分類）別年間売上高（総数，１事業従事者当たり）及び従業上の地位別事業従事者数",
+          "rows": 1179,
+          "file": "data/raw/service/0003102867.csv"
+        },
+        {
+          "table_id": "0003102908",
+          "title": "事業活動の産業（特殊分類）別年間売上高（総数，１事業従事者当たり）及び従業上の地位別事業従事者数",
+          "rows": 315,
+          "file": "data/raw/service/0003102908.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-ict",
+      "name": "情報通信業基本調査",
+      "timestamp": "2026-03-09T08:19:27.952023",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "Search '情報通信業基本調査 売上高 従業者': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-rd",
+      "name": "科学技術研究調査",
+      "timestamp": "2026-03-09T08:19:59.153139",
+      "tables_found": 1,
+      "tables_processed": 1,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "0003325664: dict contains fields not in fieldnames: 'unit'"
+      ]
+    },
+    {
+      "source_id": "estat-medical",
+      "name": "医療施設調査",
+      "timestamp": "2026-03-09T08:20:20.457741",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 4,
+      "total_rows": 216,
+      "files": [
+        {
+          "table_id": "0003125474",
+          "title": "療養病床を有する施設数，療養病床の規模別",
+          "rows": 54,
+          "file": "data/raw/medical/0003125474.csv"
+        },
+        {
+          "table_id": "0003154342",
+          "title": "療養病床を有する施設数，療養病床の規模・施設の種類別",
+          "rows": 54,
+          "file": "data/raw/medical/0003154342.csv"
+        },
+        {
+          "table_id": "0003211380",
+          "title": "療養病床を有する施設数，療養病床の規模・施設の種類別",
+          "rows": 54,
+          "file": "data/raw/medical/0003211380.csv"
+        },
+        {
+          "table_id": "0003403632",
+          "title": "第２７表　療養病床を有する施設数，療養病床の規模・施設の種類別",
+          "rows": 54,
+          "file": "data/raw/medical/0003403632.csv"
+        }
+      ],
+      "errors": [
+        "0003300645: dict contains fields not in fieldnames: 'unit'"
+      ]
+    },
+    {
+      "source_id": "estat-patient",
+      "name": "患者調査",
+      "timestamp": "2026-03-09T08:20:47.272363",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 19427,
+      "files": [
+        {
+          "table_id": "0003027317",
+          "title": "推計入院患者数，病院－一般診療所・病床の種類×傷病分類別",
+          "rows": 944,
+          "file": "data/raw/medical/0003027317.csv"
+        },
+        {
+          "table_id": "0003031863",
+          "title": "推計患者数の年次推移，入院－外来×傷病分類別（昭和５４年～平成５年）",
+          "rows": 1566,
+          "file": "data/raw/medical/0003031863.csv"
+        },
+        {
+          "table_id": "0003027307",
+          "title": "推計退院患者数，病院－一般診療所・病床の種類×傷病分類別",
+          "rows": 944,
+          "file": "data/raw/medical/0003027307.csv"
+        },
+        {
+          "table_id": "0003029498",
+          "title": "総患者数，性・年齢階級×傷病分類別",
+          "rows": 4350,
+          "file": "data/raw/medical/0003029498.csv"
+        },
+        {
+          "table_id": "0003027254",
+          "title": "病院の推計入院患者数（施設所在地），二次医療圏×傷病分類別（全国，北海道～静岡）",
+          "rows": 11623,
+          "file": "data/raw/medical/0003027254.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-care",
+      "name": "介護サービス施設調査",
+      "timestamp": "2026-03-09T08:21:14.877711",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-pharma",
+      "name": "薬事工業生産動態統計",
+      "timestamp": "2026-03-09T08:21:25.676852",
+      "tables_found": 13,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 117122,
+      "files": [
+        {
+          "table_id": "0004029342",
+          "title": "労働災害率の推移（事業所規模100人以上、総合工事業）",
+          "rows": 292,
+          "file": "data/raw/medical/0004029342.csv"
+        },
+        {
+          "table_id": "0003385932",
+          "title": "産業（大・中分類）別 産業（大・中分類）、事業所規模別全度数率、不休災害度数率、労働不能程度別労働災害率及び死傷者1人平均労働損失日数（事業所規模30人以上）",
+          "rows": 50000,
+          "file": "data/raw/medical/0003385932.csv"
+        },
+        {
+          "table_id": "0003385950",
+          "title": "事業所平均月間実労働時間階級別 産業（計・製造業・その他）、事業所規模別、事業所平均月間実労働時間階級、度数率階級別事業所数の割合（事業所規模30人以上）",
+          "rows": 15300,
+          "file": "data/raw/medical/0003385950.csv"
+        },
+        {
+          "table_id": "0003385951",
+          "title": "産業（製造業特定産業）別 産業（製造業特定産業）、度数率階級別事業所数の割合（事業所規模10～29人）",
+          "rows": 1530,
+          "file": "data/raw/medical/0003385951.csv"
+        },
+        {
+          "table_id": "0003385942",
+          "title": "産業（大・中分類）別 産業（大・中分類）、企業規模別全度数率、不休災害度数率、労働不能程度別労働災害率及び死傷者1人平均労働損失日数（事業所規模30人以上）",
+          "rows": 50000,
+          "file": "data/raw/medical/0003385942.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-medical-cost",
+      "name": "社会医療診療行為別統計",
+      "timestamp": "2026-03-09T08:21:56.463550",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-agri-census",
+      "name": "農林業センサス",
+      "timestamp": "2026-03-09T08:22:02.600510",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 35343,
+      "files": [
+        {
+          "table_id": "0003195151",
+          "title": "第２部　法制上の地域指定別 ２　農業経営体 (5)　農業労働力 山村・過疎・特定農山村地域別類型",
+          "rows": 6831,
+          "file": "data/raw/agriculture/0003195151.csv"
+        },
+        {
+          "table_id": "0003195162",
+          "title": "第２部　法制上の地域指定別 ２　農業経営体 (5)　農業労働力 農業振興地域・都市計画区域別類型",
+          "rows": 12144,
+          "file": "data/raw/agriculture/0003195162.csv"
+        },
+        {
+          "table_id": "0003194860",
+          "title": "農業経営体 経営形態別統計 (12) 農業労働力 - （ｲ） 雇用労働",
+          "rows": 5544,
+          "file": "data/raw/agriculture/0003194860.csv"
+        },
+        {
+          "table_id": "0003195083",
+          "title": "販売農家 主副業別統計 (8) 雇用労働",
+          "rows": 5544,
+          "file": "data/raw/agriculture/0003195083.csv"
+        },
+        {
+          "table_id": "0003195093",
+          "title": "林業経営体 経営形態別統計 (3) 林業労働力 - (ｲ) 雇用労働",
+          "rows": 5280,
+          "file": "data/raw/agriculture/0003195093.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-fishery-census",
+      "name": "漁業センサス",
+      "timestamp": "2026-03-09T08:22:34.098462",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 139574,
+      "files": [
+        {
+          "table_id": "0003117386",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
+          "rows": 28272,
+          "file": "data/raw/agriculture/0003117386.csv"
+        },
+        {
+          "table_id": "0003117418",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
+          "rows": 26942,
+          "file": "data/raw/agriculture/0003117418.csv"
+        },
+        {
+          "table_id": "0003117424",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
+          "rows": 29868,
+          "file": "data/raw/agriculture/0003117424.csv"
+        },
+        {
+          "table_id": "0003117514",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
+          "rows": 28234,
+          "file": "data/raw/agriculture/0003117514.csv"
+        },
+        {
+          "table_id": "0003117490",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
+          "rows": 26258,
+          "file": "data/raw/agriculture/0003117490.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-crop",
+      "name": "作物統計",
+      "timestamp": "2026-03-09T08:23:16.800437",
+      "tables_found": 23,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 150,
+      "files": [
+        {
+          "table_id": "0003050523",
+          "title": "統計表(平成22年産) かんしょ 宮崎県及び鹿児島県のでん粉原料仕向かんしょの作付面積及び収穫量",
+          "rows": 30,
+          "file": "data/raw/agriculture/0003050523.csv"
+        },
+        {
+          "table_id": "0003093186",
+          "title": "統計表（平成24年産） かんしょ 宮崎県及び鹿児島県のでん粉原料仕向かんしょの作付面積及び収穫量",
+          "rows": 30,
+          "file": "data/raw/agriculture/0003093186.csv"
+        },
+        {
+          "table_id": "0003104636",
+          "title": "統計表（平成25年産） かんしょ 宮崎県及び鹿児島県のでんぷん原料仕向けかんしょの作付面積及び収穫量",
+          "rows": 30,
+          "file": "data/raw/agriculture/0003104636.csv"
+        },
+        {
+          "table_id": "0003130947",
+          "title": "統計表（平成26年産） かんしょ 宮崎県及び鹿児島県のでん粉原料仕向けかんしょの作付面積及び収穫量",
+          "rows": 30,
+          "file": "data/raw/agriculture/0003130947.csv"
+        },
+        {
+          "table_id": "0003175942",
+          "title": "統計表（平成27年産）（2016年6月16日公表） かんしょ 宮崎県及び鹿児島県の平成27年産でんぷん原料仕向けかんしょの作付面積及び収穫量",
+          "rows": 30,
+          "file": "data/raw/agriculture/0003175942.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-transport-auto",
+      "name": "自動車輸送統計",
+      "timestamp": "2026-03-09T08:23:47.072078",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-port",
+      "name": "港湾統計",
+      "timestamp": "2026-03-09T08:24:02.445684",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-railway",
+      "name": "鉄道輸送統計",
+      "timestamp": "2026-03-09T08:24:09.549702",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-hotel",
+      "name": "宿泊旅行統計",
+      "timestamp": "2026-03-09T08:24:25.802604",
+      "tables_found": 18,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 2912,
+      "files": [
+        {
+          "table_id": "0003175401",
+          "title": "１．業種別・職種別常時従業者数",
+          "rows": 864,
+          "file": "data/raw/transport/0003175401.csv"
+        },
+        {
+          "table_id": "0003175402",
+          "title": "１．業種別・職種別常時従業者数 国内在住外国人社員の国籍並びに受け入れ目的",
+          "rows": 1536,
+          "file": "data/raw/transport/0003175402.csv"
+        },
+        {
+          "table_id": "0003175403",
+          "title": "３．国際化の状況　（海外法人を含む） 直近１年間の海外建設事業の活動状況 解決しなければならないと考えている事項（重複回答）",
+          "rows": 80,
+          "file": "data/raw/transport/0003175403.csv"
+        },
+        {
+          "table_id": "0003175404",
+          "title": "３．国際化の状況　（海外法人を含む） 海外建設市場の状況 将来受注高を伸ばしたい国と地域",
+          "rows": 320,
+          "file": "data/raw/transport/0003175404.csv"
+        },
+        {
+          "table_id": "0003175405",
+          "title": "５．企業集団の状況 「年間増」形態別会社数",
+          "rows": 112,
+          "file": "data/raw/transport/0003175405.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-construction-order",
+      "name": "建設工事受注動態統計",
+      "timestamp": "2026-03-09T08:24:44.457937",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 197520,
+      "files": [
+        {
+          "table_id": "0003458615",
+          "title": "業種別、受注高規模別／受注高【総受注高規模別】 2021年4月以降の推計方法",
+          "rows": 23760,
+          "file": "data/raw/construction/0003458615.csv"
+        },
+        {
+          "table_id": "0003458616",
+          "title": "業種別、受注高規模別／受注高【元請受注高規模別】 2021年4月以降の推計方法",
+          "rows": 23760,
+          "file": "data/raw/construction/0003458616.csv"
+        },
+        {
+          "table_id": "0003458612",
+          "title": "業種別、経営組織別、資本金階層別、建設業者所在都道府県別／受注高【総数】 2021年4月以降の推計方法",
+          "rows": 50000,
+          "file": "data/raw/construction/0003458612.csv"
+        },
+        {
+          "table_id": "0003458613",
+          "title": "業種別、経営組織別、資本金階層別、建設業者所在都道府県別／受注高【大臣許可】 2021年4月以降の推計方法",
+          "rows": 50000,
+          "file": "data/raw/construction/0003458613.csv"
+        },
+        {
+          "table_id": "0003458614",
+          "title": "業種別、経営組織別、資本金階層別、建設業者所在都道府県別／受注高【知事許可】 2021年4月以降の推計方法",
+          "rows": 50000,
+          "file": "data/raw/construction/0003458614.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-building-starts",
+      "name": "建築着工統計",
+      "timestamp": "2026-03-09T08:25:41.775179",
+      "tables_found": 26,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 105510,
+      "files": [
+        {
+          "table_id": "0003125915",
+          "title": "総括表 内航船舶輸送統計総括表",
+          "rows": 50000,
+          "file": "data/raw/construction/0003125915.csv"
+        },
+        {
+          "table_id": "0003422893",
+          "title": "推移表 内航船舶輸送統計推移表",
+          "rows": 558,
+          "file": "data/raw/construction/0003422893.csv"
+        },
+        {
+          "table_id": "0003126559",
+          "title": "流動表 産業圏間コンテナ流動表（営業用）",
+          "rows": 10580,
+          "file": "data/raw/construction/0003126559.csv"
+        },
+        {
+          "table_id": "0003126568",
+          "title": "燃料消費量等 用途別、油種別燃料消費量",
+          "rows": 10752,
+          "file": "data/raw/construction/0003126568.csv"
+        },
+        {
+          "table_id": "0003126456",
+          "title": "流動表 都道府県間流動表（営業用）",
+          "rows": 33620,
+          "file": "data/raw/construction/0003126456.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-energy",
+      "name": "資源エネルギー統計",
+      "timestamp": "2026-03-09T08:26:07.217337",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 170,
+      "files": [
+        {
+          "table_id": "0003046635",
+          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
+          "rows": 34,
+          "file": "data/raw/energy/0003046635.csv"
+        },
+        {
+          "table_id": "0003047173",
+          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
+          "rows": 34,
+          "file": "data/raw/energy/0003047173.csv"
+        },
+        {
+          "table_id": "0003047567",
+          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
+          "rows": 34,
+          "file": "data/raw/energy/0003047567.csv"
+        },
+        {
+          "table_id": "0003048081",
+          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
+          "rows": 34,
+          "file": "data/raw/energy/0003048081.csv"
+        },
+        {
+          "table_id": "0003048832",
+          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
+          "rows": 34,
+          "file": "data/raw/energy/0003048832.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-oil",
+      "name": "石油製品需給動態統計",
+      "timestamp": "2026-03-09T08:26:29.896187",
+      "tables_found": 2,
+      "tables_processed": 2,
+      "tables_success": 2,
+      "total_rows": 7038,
+      "files": [
+        {
+          "table_id": "0003171988",
+          "title": "資源・エネルギー統計年報 年報 石油製品 石油製品国内向月別販売 月次",
+          "rows": 3519,
+          "file": "data/raw/energy/0003171988.csv"
+        },
+        {
+          "table_id": "0003171992",
+          "title": "資源・エネルギー統計年報 年報 石油製品 石油製品製造業者・輸入業者月別消費者･販売業者向販売 月次",
+          "rows": 3519,
+          "file": "data/raw/energy/0003171992.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-school",
+      "name": "学校基本調査",
+      "timestamp": "2026-03-09T08:26:49.444541",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 929,
+      "files": [
+        {
+          "table_id": "0003175400",
+          "title": "二部授業の学級数，生徒数及び教員数（公立）",
+          "rows": 4,
+          "file": "data/raw/education/0003175400.csv"
+        },
+        {
+          "table_id": "0003017946",
+          "title": "指定都市等に所在する学校数・学級数・生徒数及び教職員数 教員数（本務者）",
+          "rows": 171,
+          "file": "data/raw/education/0003017946.csv"
+        },
+        {
+          "table_id": "0003017953",
+          "title": "指定都市等に所在する学校数・生徒数及び教職員数 教員数（本務者） 計,女",
+          "rows": 114,
+          "file": "data/raw/education/0003017953.csv"
+        },
+        {
+          "table_id": "0003017954",
+          "title": "指定都市等に所在する学校数・生徒数及び教職員数 教員数（本務者） 全日・定時制",
+          "rows": 114,
+          "file": "data/raw/education/0003017954.csv"
+        },
+        {
+          "table_id": "0003061540",
+          "title": "総括",
+          "rows": 526,
+          "file": "data/raw/education/0003061540.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-econ-structure",
+      "name": "経済構造実態調査",
+      "timestamp": "2026-03-09T08:27:17.089965",
+      "tables_found": 22,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 4695,
+      "files": [
+        {
+          "table_id": "0003448679",
+          "title": "【09クレジットカード業，割賦金融業】統計表データ（全数調査） 第７表　クレジットカードによる販売信用業務における産業別の年間売上高（年間取扱高）及び産業別の自",
+          "rows": 1035,
+          "file": "data/raw/corporate/0003448679.csv"
+        },
+        {
+          "table_id": "0003448680",
+          "title": "【09クレジットカード業，割賦金融業】統計表データ（全数調査） 第７－１表　会社系統別のクレジットカードによる販売信用業務における産業別の年間売上高（年間取扱高",
+          "rows": 915,
+          "file": "data/raw/corporate/0003448680.csv"
+        },
+        {
+          "table_id": "0003448681",
+          "title": "【09クレジットカード業，割賦金融業】統計表データ（全数調査） 第７－２表　会社系統別のクレジットカードによる販売信用業務における産業別の年間売上高（年間取扱高",
+          "rows": 915,
+          "file": "data/raw/corporate/0003448681.csv"
+        },
+        {
+          "table_id": "0003448682",
+          "title": "【09クレジットカード業，割賦金融業】統計表データ（全数調査） 第７－３表　会社系統別のクレジットカードによる販売信用業務における産業別の年間売上高（年間取扱高",
+          "rows": 915,
+          "file": "data/raw/corporate/0003448682.csv"
+        },
+        {
+          "table_id": "0003448683",
+          "title": "【09クレジットカード業，割賦金融業】統計表データ（全数調査） 第７－４表　会社系統別のクレジットカードによる販売信用業務における産業別の年間売上高（年間取扱高",
+          "rows": 915,
+          "file": "data/raw/corporate/0003448683.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-corp-activity",
+      "name": "企業活動基本調査",
+      "timestamp": "2026-03-09T08:27:47.522127",
+      "tables_found": 16,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 19062,
+      "files": [
+        {
+          "table_id": "0003239543",
+          "title": "統計表（第１巻）〔研究開発に関する表〕　第9表　産業別、資本金規模別、企業数、売上高、研究開発費及び売上高比率、受託研究費、有形固定資産のうち研究開発関連当期取",
+          "rows": 9162,
+          "file": "data/raw/corporate/0003239543.csv"
+        },
+        {
+          "table_id": "0003059049",
+          "title": "統計表（第１巻）〔研究開発に関する表〕　第10表　産業別、企業数、売上高、研究開発費及び売上高比率、受託研究費、研究開発投資、能力開発費",
+          "rows": 2460,
+          "file": "data/raw/corporate/0003059049.csv"
+        },
+        {
+          "table_id": "0003340749",
+          "title": "統計表（第１巻）〔研究開発に関する表〕　第10表　産業別、企業数、売上高、研究開発費及び売上高比率、受託研究費、研究開発投資、能力開発費",
+          "rows": 2490,
+          "file": "data/raw/corporate/0003340749.csv"
+        },
+        {
+          "table_id": "0003240110",
+          "title": "統計表（第１巻）〔研究開発に関する表〕　第10表　産業別、企業数、売上高、研究開発費及び売上高比率、受託研究費、研究開発投資、能力開発費",
+          "rows": 2475,
+          "file": "data/raw/corporate/0003240110.csv"
+        },
+        {
+          "table_id": "0003327332",
+          "title": "統計表（第１巻）〔研究開発に関する表〕　第10表　産業別、企業数、売上高、研究開発費及び売上高比率、受託研究費、研究開発投資、能力開発費",
+          "rows": 2475,
+          "file": "data/raw/corporate/0003327332.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-sme",
+      "name": "中小企業実態基本調査",
+      "timestamp": "2026-03-09T08:28:14.114750",
+      "tables_found": 24,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 47286,
+      "files": [
+        {
+          "table_id": "0003317770",
+          "title": "統計表 ３．売上高及び営業費用　産業別・売上高階級別表（法人企業）",
+          "rows": 11664,
+          "file": "data/raw/corporate/0003317770.csv"
+        },
+        {
+          "table_id": "0003317771",
+          "title": "統計表 ３．売上高及び営業費用　産業別・売上高階級別表（個人企業）",
+          "rows": 11232,
+          "file": "data/raw/corporate/0003317771.csv"
+        },
+        {
+          "table_id": "0003317788",
+          "title": "統計表 ８．売上高の内訳　産業別・売上高階級別表",
+          "rows": 9720,
+          "file": "data/raw/corporate/0003317788.csv"
+        },
+        {
+          "table_id": "0003287200",
+          "title": "統計表 ８．売上高の内訳　産業中分類別表",
+          "rows": 7110,
+          "file": "data/raw/corporate/0003287200.csv"
+        },
+        {
+          "table_id": "0003317789",
+          "title": "統計表 ８．売上高の内訳　産業別・従業者規模別表",
+          "rows": 7560,
+          "file": "data/raw/corporate/0003317789.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-overseas",
+      "name": "海外事業活動基本調査",
+      "timestamp": "2026-03-09T08:28:46.474664",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-household-structure",
+      "name": "全国家計構造調査",
+      "timestamp": "2026-03-09T08:28:54.325107",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 2,
+      "total_rows": 50011,
+      "files": [
+        {
+          "table_id": "0004003341",
+          "title": "所得・消費・資産の統合分布 （所得・消費・資産の平均値） 世帯主の年齢階級(3区分)，年間可処分所得階級(19区分)，資産額階級(19区分)，消費支出額（月額・",
+          "rows": 50000,
+          "file": "data/raw/macro/0004003341.csv"
+        },
+        {
+          "table_id": "0004003350",
+          "title": "所得・消費・資産の統合分布 （ジニ係数） 所得・消費・資産のジニ係数－全国",
+          "rows": 11,
+          "file": "data/raw/macro/0004003350.csv"
+        }
+      ],
+      "errors": [
+        "0004003340: dict contains fields not in fieldnames: 'unit'",
+        "0004003360: dict contains fields not in fieldnames: 'unit'",
+        "0004003349: dict contains fields not in fieldnames: 'unit'"
+      ]
+    },
+    {
+      "source_id": "estat-individual-biz",
+      "name": "個人企業経済調査",
+      "timestamp": "2026-03-09T08:29:25.906318",
+      "tables_found": 30,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 89694,
+      "files": [
+        {
+          "table_id": "0004048482",
+          "title": "産業大分類，年間売上高五分位階級別営業状況　－全国",
+          "rows": 5880,
+          "file": "data/raw/corporate/0004048482.csv"
+        },
+        {
+          "table_id": "0004048483",
+          "title": "産業大分類，年間売上高五分位階級別営業状況（前年比及び構成比）　－全国",
+          "rows": 7056,
+          "file": "data/raw/corporate/0004048483.csv"
+        },
+        {
+          "table_id": "0003421677",
+          "title": "産業大分類，年間売上高階級別営業状況　－全国",
+          "rows": 16758,
+          "file": "data/raw/corporate/0003421677.csv"
+        },
+        {
+          "table_id": "0003015306",
+          "title": "産業大分類，都市階級，地方，従業者規模別営業状況，従業者規模別営業上の資産・負債，年間売上高階級別営業上の資産・負債，年間売上高階級別営業状況（平成20年度～）",
+          "rows": 30000,
+          "file": "data/raw/corporate/0003015306.csv"
+        },
+        {
+          "table_id": "0003015598",
+          "title": "産業大分類，都市階級，地方，従業者規模別営業状況，従業者規模別営業上の資産・負債，年間売上高階級別営業上の資産・負債，年間売上高階級別営業状況（平成15年度～平",
+          "rows": 30000,
+          "file": "data/raw/corporate/0003015598.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-retail-price",
+      "name": "小売物価統計調査",
+      "timestamp": "2026-03-09T08:30:03.933041",
+      "tables_found": 3,
+      "tables_processed": 3,
+      "tables_success": 3,
+      "total_rows": 98739,
+      "files": [
+        {
+          "table_id": "0003449368",
+          "title": "全国統一価格品目の年平均価格－全国(2000年～)",
+          "rows": 3542,
+          "file": "data/raw/macro/0003449368.csv"
+        },
+        {
+          "table_id": "0003449369",
+          "title": "全国統一価格品目の月別価格－全国(2000年2月～)",
+          "rows": 45197,
+          "file": "data/raw/macro/0003449369.csv"
+        },
+        {
+          "table_id": "0003421913",
+          "title": "主要品目の都市別小売価格－都道府県庁所在市及び人口15万以上の市(2000年1月～)",
+          "rows": 50000,
+          "file": "data/raw/macro/0003421913.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-ict-usage",
+      "name": "通信利用動向調査",
+      "timestamp": "2026-03-09T08:31:04.349636",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-bsi",
+      "name": "法人企業景気予測調査",
+      "timestamp": "2026-03-09T08:31:22.281018",
+      "tables_found": 50,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 1950,
+      "files": [
+        {
+          "table_id": "0003033209",
+          "title": "鉄鋼 (1)銑鉄（生産・消費・販売・在庫） 鉄鋼編１",
+          "rows": 364,
+          "file": "data/raw/corporate/0003033209.csv"
+        },
+        {
+          "table_id": "0003033210",
+          "title": "鉄鋼 (2)フェロアロイ（生産） 鉄鋼編１",
+          "rows": 364,
+          "file": "data/raw/corporate/0003033210.csv"
+        },
+        {
+          "table_id": "0003033211",
+          "title": "鉄鋼 (3)粗鋼 （生産・消費・在庫） １、圧延、鍛鋼、鋳鋼別生産 鉄鋼編１",
+          "rows": 572,
+          "file": "data/raw/corporate/0003033211.csv"
+        },
+        {
+          "table_id": "0003033212",
+          "title": "鉄鋼 (3)粗鋼 （生産・消費・在庫） 2、鋼塊の転炉、電気炉別生産 鉄鋼編１",
+          "rows": 468,
+          "file": "data/raw/corporate/0003033212.csv"
+        },
+        {
+          "table_id": "0003033213",
+          "title": "鉄鋼 (3)粗鋼 （生産・消費・在庫） 3、粗鋼消費 鉄鋼編１",
+          "rows": 182,
+          "file": "data/raw/corporate/0003033213.csv"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "source_id": "estat-environment",
+      "name": "環境統計",
+      "timestamp": "2026-03-09T08:31:39.394875",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "No tables found"
+      ]
+    },
+    {
+      "source_id": "estat-crime",
+      "name": "犯罪統計",
+      "timestamp": "2026-03-09T08:31:44.578872",
+      "tables_found": 4,
+      "tables_processed": 4,
+      "tables_success": 4,
+      "total_rows": 13728,
+      "files": [
+        {
+          "table_id": "0003191320",
+          "title": "第１表　刑法犯　罪種別　認知・検挙件数・検挙人員",
+          "rows": 2310,
+          "file": "data/raw/safety/0003191320.csv"
+        },
+        {
+          "table_id": "0003191340",
+          "title": "第１表　刑法犯　罪種別　認知・検挙件数・検挙人員　対前年比較",
+          "rows": 4158,
+          "file": "data/raw/safety/0003191340.csv"
+        },
+        {
+          "table_id": "0003194968",
+          "title": "第３表　刑法犯総数  都道府県別　認知・検挙件数・検挙人員　対前年比較",
+          "rows": 4620,
+          "file": "data/raw/safety/0003194968.csv"
+        },
+        {
+          "table_id": "0003195002",
+          "title": "第３表　刑法犯総数　都道府県別　認知・検挙件数・検挙人員",
+          "rows": 2640,
+          "file": "data/raw/safety/0003195002.csv"
         }
       ],
       "errors": []
