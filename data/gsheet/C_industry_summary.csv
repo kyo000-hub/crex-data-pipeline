@@ -79,16 +79,21 @@ energy,0003048081,34,—,cat01_label(2) / cat02_label(16),estat-energy
 energy,0003048832,34,—,cat01_label(2) / cat02_label(16),estat-energy
 energy,0003171988,3519,2007-2024,cat01_label(5),estat-energy
 energy,0003171992,3519,2007-2024,cat01_label(5),estat-energy
+ict,0003174641,5376,2010-2017,cat01_label(6) / cat02_label(8) / cat03_label(3) / time_label(8),estat-ict
+ict,0003174842,16128,2010-2017,cat01_label(2) / cat02_label(2) / area_label(48) / time_label(8),estat-ict
+ict,0003175261,448,2010-2017,cat01_label(8) / cat02_label(7) / time_label(8),estat-ict
+ict,0003176288,1008,2010-2015,cat01_label(8) / cat02_label(23) / time_label(6),estat-ict
+ict,0003176298,528,2010-2015,cat01_label(8) / cat02_label(11) / time_label(6),estat-ict
 macro,0000010103,50000,1985-2024,cat01_label(2) / area_label(48) / time_label(14),estat-macro
 macro,0000010112,30000,1975-2024,area_label(35) / time_label(29),estat-macro
 macro,0000010212,50000,1975-2024,area_label(35) / time_label(29),estat-macro
 macro,0000150271,2538,2006-2006,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
 macro,0002060004,50000,1968-2026,cat04_label(2),estat-macro
 macro,0002060006,27887,1985-2026,cat04_label(4),estat-macro
-macro,0002070001,30000,1985-2025,area_label(3),estat-macro
+macro,0002070001,30000,1985-2026,area_label(3),estat-macro
 macro,0002070002,30000,1985-2025,cat01_label(2) / cat02_label(4),estat-macro
 macro,0002070003,30000,1985-2025,area_label(28) / time_label(41),estat-macro
-macro,0002070004,30000,1985-2025,cat03_label(3),estat-macro
+macro,0002070004,30000,1985-2026,cat03_label(3),estat-macro
 macro,0003005865,2493,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
 macro,0003005867,50000,2006-2026,cat04_label(2) / cat05_label(4),estat-macro
 macro,0003006300,29208,2000-2026,cat04_label(4),estat-macro
@@ -97,7 +102,9 @@ macro,0003046410,2490,—,cat01_label(4) / cat02_label(3),estat-macro
 macro,0003080204,2490,—,cat01_label(4) / cat02_label(3),estat-macro
 macro,0003094423,2490,—,cat01_label(4) / cat02_label(3),estat-macro
 macro,0003114496,100000,2011-2024,area_label(6),estat-macro
+macro,0003114534,47040,2011-2024,cat02_label(2) / cat03_label(5),estat-macro
 macro,0003114540,100000,2011-2024,cat03_label(2) / area_label(49) / time_label(14),estat-macro
+macro,0003114570,3920,2011-2024,cat01_label(3) / cat02_label(7) / cat03_label(5) / time_label(14),estat-macro
 macro,0003114627,100000,2011-2023,cat03_label(2) / area_label(49) / time_label(13),estat-macro
 macro,0003147742,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003199746,336,2014-2016,cat01_label(2) / area_label(8) / time_label(21),estat-macro
@@ -159,6 +166,36 @@ manufacturing,0003097464,5957,2008-2012,cat01_label(2) / cat02_label(37) / time_
 manufacturing,0003097467,364,2011-2012,cat01_label(2) / cat02_label(14) / time_label(13),estat-manufacturing
 manufacturing,0003097468,78,2011-2012,cat01_label(2) / cat02_label(3) / time_label(13),estat-manufacturing
 manufacturing,0003097469,26,2011-2012,cat01_label(2) / time_label(13),estat-manufacturing
+manufacturing,0003104133,80,—,cat01_label(8) / cat02_label(10),estat-manufacturing
+manufacturing,0003104134,215,—,cat01_label(5) / cat02_label(43),estat-manufacturing
+manufacturing,0003104135,80,—,cat01_label(5) / cat02_label(16),estat-manufacturing
+manufacturing,0003104136,28,—,cat01_label(7) / cat02_label(4),estat-manufacturing
+manufacturing,0003104137,13,—,cat01_label(13),estat-manufacturing
+manufacturing,0003104138,1840,2008-2012,cat01_label(5) / cat02_label(10) / time_label(23),estat-manufacturing
+manufacturing,0003104139,4945,2008-2012,cat01_label(2) / cat02_label(43) / time_label(23),estat-manufacturing
+manufacturing,0003104140,1840,2008-2012,cat01_label(3) / cat02_label(16) / time_label(23),estat-manufacturing
+manufacturing,0003104141,644,2008-2012,cat01_label(7) / cat02_label(4) / time_label(23),estat-manufacturing
+manufacturing,0003104165,299,2008-2012,cat01_label(13) / time_label(23),estat-manufacturing
+manufacturing,0003104166,22,—,cat01_label(2) / cat02_label(11),estat-manufacturing
+manufacturing,0003104167,80,—,cat01_label(2) / cat02_label(2) / cat03_label(20),estat-manufacturing
+manufacturing,0003104168,3,—,cat02_label(3),estat-manufacturing
+manufacturing,0003104169,506,2008-2012,cat01_label(2) / cat02_label(11) / time_label(23),estat-manufacturing
+manufacturing,0003104170,1840,2008-2012,cat01_label(2) / cat02_label(2) / cat03_label(20) / time_label(23),estat-manufacturing
+manufacturing,0003104171,69,2008-2012,cat02_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003104172,238,2008-2012,cat01_label(2) / cat02_label(7) / time_label(17),estat-manufacturing
+manufacturing,0003104173,170,2008-2012,cat01_label(2) / cat02_label(5) / time_label(17),estat-manufacturing
+manufacturing,0003104174,170,2008-2012,cat01_label(2) / cat02_label(5) / time_label(17),estat-manufacturing
+manufacturing,0003104185,34,2008-2012,cat01_label(2) / time_label(17),estat-manufacturing
+manufacturing,0003104186,68,2008-2012,cat01_label(4) / time_label(17),estat-manufacturing
+manufacturing,0003119584,1840,2009-2013,cat01_label(5) / cat02_label(10) / time_label(23),estat-manufacturing
+manufacturing,0003119601,80,—,cat01_label(8) / cat02_label(10),estat-manufacturing
+manufacturing,0003119602,28,—,cat01_label(7) / cat02_label(4),estat-manufacturing
+manufacturing,0003119603,1840,2009-2013,cat01_label(3) / cat02_label(16) / time_label(23),estat-manufacturing
+manufacturing,0003119631,215,—,cat01_label(5) / cat02_label(43),estat-manufacturing
+manufacturing,0003119632,13,—,cat01_label(13),estat-manufacturing
+manufacturing,0003119633,644,2009-2013,cat01_label(7) / cat02_label(4) / time_label(23),estat-manufacturing
+manufacturing,0003119635,238,2009-2013,cat01_label(2) / cat02_label(7) / time_label(17),estat-manufacturing
+manufacturing,0003119636,68,2009-2013,cat01_label(4) / time_label(17),estat-manufacturing
 medical,0003027254,11623,2008-2008,cat01_label(17),estat-medical
 medical,0003027307,944,2008-2008,cat01_label(16),estat-medical
 medical,0003027317,944,2008-2008,cat01_label(16),estat-medical
@@ -190,8 +227,8 @@ service,0003102823,1197,2013-2013,tab_label(8),estat-service
 service,0003102867,1179,2013-2013,tab_label(8),estat-service
 service,0003102908,315,2013-2013,tab_label(9) / cat02_label(35),estat-service
 trade,0003425293,51,2021-2025,cat02_label(3) / area_label(6) / time_label(5),estat-trade
-trade,0004002160,5574,2023-2026,cat03_label(9) / time_label(4),estat-trade
-trade,0004002163,9548,2023-2026,cat03_label(3) / time_label(4),estat-trade
+trade,0004002160,5575,2023-2026,cat03_label(9) / time_label(4),estat-trade
+trade,0004002163,9547,2023-2026,cat03_label(3) / time_label(4),estat-trade
 transport,0003175401,864,2006-2015,tab_label(2) / cat01_label(6) / cat02_label(3) / cat03_label(3) / time_label(8),estat-transport
 transport,0003175402,1536,2006-2015,tab_label(2) / cat01_label(15) / area_label(14) / time_label(8),estat-transport
 transport,0003175403,80,2006-2015,cat01_label(10) / time_label(8),estat-transport

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09 12:25",
+  "updated": "2026-03-15 18:58",
   "directories": {
     "agriculture": {
       "file_count": 15,
@@ -5235,9 +5235,371 @@
         }
       ]
     },
+    "ict": {
+      "file_count": 5,
+      "total_rows": 23488,
+      "tables": [
+        {
+          "table_id": "0003174641",
+          "file": "0003174641.csv",
+          "total_rows": 5376,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "year_range": "2010-2017",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "企業数",
+                "売上高"
+              ]
+            },
+            "cat01_label": {
+              "count": 14,
+              "samples": [
+                "インターネット附随サービス業",
+                "ソフトウェア業",
+                "出版業",
+                "広告制作業",
+                "情報処理・提供サービス業",
+                "情報通信業",
+                "新聞業",
+                "映像・音声・文字情報制作に附帯するサービス業",
+                "映像情報制作・配給業",
+                "有線放送業"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "1,000人以上",
+                "100人～199人",
+                "200人～299人",
+                "300人～499人",
+                "49人以下",
+                "500人～999人",
+                "50人～99人",
+                "計"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "付加価値",
+                "売上高",
+                "経常利益"
+              ]
+            }
+          },
+          "value_count": 5151,
+          "value_range": "-179642.0-74082429.0"
+        },
+        {
+          "table_id": "0003174842",
+          "file": "0003174842.csv",
+          "total_rows": 16128,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "year_range": "2010-2017",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "企業数、金額"
+              ]
+            },
+            "cat01_label": {
+              "count": 21,
+              "samples": [
+                "うち、常時従業者数",
+                "事業所数",
+                "付加価値",
+                "企業数",
+                "営業利益",
+                "営業費用",
+                "固定資産",
+                "国内_子会社・関連会社数",
+                "売上総利益",
+                "売上高"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "情報通信業",
+                "計"
+              ]
+            }
+          },
+          "value_count": 15771,
+          "value_range": "-253791.0-89285139.0"
+        },
+        {
+          "table_id": "0003175261",
+          "file": "0003175261.csv",
+          "total_rows": 448,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "year_range": "2010-2017",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "企業数、構成比"
+              ]
+            },
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "その他",
+                "企業数",
+                "企業ＰＲ・ビデオ制作",
+                "合計",
+                "放送以外の番組制作（ＯＶＡ、学習ビデオ等）",
+                "映画制作",
+                "ＤＶＤ制作",
+                "Ｗｅｂ制作"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "100人以上",
+                "10人～29人",
+                "1人～4人",
+                "30人～49人",
+                "50人～99人",
+                "5人～9人",
+                "計"
+              ]
+            }
+          },
+          "value_count": 447,
+          "value_range": "0.1-330.0"
+        },
+        {
+          "table_id": "0003176288",
+          "file": "0003176288.csv",
+          "total_rows": 1008,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "year_range": "2010-2015",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "企業数、売上高"
+              ]
+            },
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "1,000人以上",
+                "100人～199人",
+                "200人～299人",
+                "300人～499人",
+                "49人以下",
+                "500人～999人",
+                "50人～99人",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 23,
+              "samples": [
+                "その他の情報サービス業",
+                "その他の情報サービス業_うち、海外",
+                "ゲームソフトウェア業",
+                "ゲームソフトウェア業_うち、海外",
+                "パッケージソフトウェア業",
+                "パッケージソフトウェア業_うち、海外",
+                "企業数",
+                "受託開発ソフトウェア業",
+                "受託開発ソフトウェア業_うち、海外",
+                "回答企業数"
+              ]
+            }
+          },
+          "value_count": 961,
+          "value_range": "1.0-14899111.0"
+        },
+        {
+          "table_id": "0003176298",
+          "file": "0003176298.csv",
+          "total_rows": 528,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "year_range": "2010-2015",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "企業数、売上高"
+              ]
+            },
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "1,000人以上",
+                "100人～199人",
+                "200人～299人",
+                "300人～499人",
+                "49人以下",
+                "500人～999人",
+                "50人～99人",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "その他の映像・音声・文字情報制作に附帯するサービス業",
+                "コンテンツ制作部門_アニメーション制作業",
+                "コンテンツ制作部門_レコード制作業",
+                "コンテンツ制作部門_出版業",
+                "コンテンツ制作部門_新聞業",
+                "コンテンツ制作部門_映画・ビデオ制作業",
+                "ニュース供給業",
+                "企業数",
+                "売上高合計",
+                "広告制作業"
+              ]
+            }
+          },
+          "value_count": 510,
+          "value_range": "3.0-2914751.0"
+        }
+      ]
+    },
     "macro": {
-      "file_count": 50,
-      "total_rows": 1333454,
+      "file_count": 52,
+      "total_rows": 1384414,
       "tables": [
         {
           "table_id": "0000010103",
@@ -5932,9 +6294,10 @@
             2022,
             2023,
             2024,
-            2025
+            2025,
+            2026
           ],
-          "year_range": "1985-2025",
+          "year_range": "1985-2026",
           "areas": [
             "01100 札幌市",
             "02201 青森市",
@@ -6233,9 +6596,10 @@
             2022,
             2023,
             2024,
-            2025
+            2025,
+            2026
           ],
-          "year_range": "1985-2025",
+          "year_range": "1985-2026",
           "areas": [
             "全国"
           ],
@@ -6963,6 +7327,88 @@
           "value_range": "0.0-91475.0"
         },
         {
+          "table_id": "0003114534",
+          "file": "0003114534.csv",
+          "total_rows": 47040,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "year_range": "2011-2024",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "床面積の合計",
+                "戸数"
+              ]
+            },
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "その他の住宅",
+                "併用住宅",
+                "専用住宅",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "その他",
+                "コンクリートブロック造",
+                "木造",
+                "計",
+                "鉄筋コンクリート造",
+                "鉄骨造",
+                "鉄骨鉄筋コンクリート造"
+              ]
+            },
+            "cat03_label": {
+              "count": 5,
+              "samples": [
+                "分譲住宅",
+                "持家",
+                "給与住宅",
+                "計",
+                "貸家"
+              ]
+            }
+          },
+          "value_count": 47040,
+          "value_range": "0.0-8109328.0"
+        },
+        {
           "table_id": "0003114540",
           "file": "0003114540.csv",
           "total_rows": 100000,
@@ -7050,6 +7496,88 @@
           },
           "value_count": 100000,
           "value_range": "0.0-980025.0"
+        },
+        {
+          "table_id": "0003114570",
+          "file": "0003114570.csv",
+          "total_rows": 3920,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "year_range": "2011-2024",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "床面積の合計",
+                "戸数"
+              ]
+            },
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "その他の住宅",
+                "併用住宅",
+                "専用住宅",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "その他",
+                "コンクリートブロック造",
+                "木造",
+                "計",
+                "鉄筋コンクリート造",
+                "鉄骨造",
+                "鉄骨鉄筋コンクリート造"
+              ]
+            },
+            "cat03_label": {
+              "count": 5,
+              "samples": [
+                "分譲住宅",
+                "持家",
+                "給与住宅",
+                "計",
+                "貸家"
+              ]
+            }
+          },
+          "value_count": 3920,
+          "value_range": "0.0-87210405.0"
         },
         {
           "table_id": "0003114627",
@@ -9061,8 +9589,8 @@
       ]
     },
     "manufacturing": {
-      "file_count": 30,
-      "total_rows": 52150,
+      "file_count": 60,
+      "total_rows": 70300,
       "tables": [
         {
           "table_id": "0003097058",
@@ -10592,6 +11120,1468 @@
           },
           "value_count": 26,
           "value_range": "55.0-16254.0"
+        },
+        {
+          "table_id": "0003104133",
+          "file": "0003104133.csv",
+          "total_rows": 80,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "消費内訳 板紙用 (t)",
+                "消費内訳 紙用 (t)",
+                "消費数量（製紙用） (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "製紙パルプ",
+                "製紙パルプ その他製紙パルプ",
+                "製紙パルプ クラフトパルプ",
+                "製紙パルプ クラフトパルプ さらし",
+                "製紙パルプ クラフトパルプ さらし 広葉樹",
+                "製紙パルプ クラフトパルプ さらし 針葉樹",
+                "製紙パルプ クラフトパルプ 未ざらし",
+                "製紙パルプ サーモメカニカルパルプ",
+                "製紙パルプ リファイナーグラウンドパルプ",
+                "製紙パルプ 砕木パルプ"
+              ]
+            }
+          },
+          "value_count": 69,
+          "value_range": "47.0-8640709.0"
+        },
+        {
+          "table_id": "0003104134",
+          "file": "0003104134.csv",
+          "total_rows": 215,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 43,
+              "samples": [
+                "紙 包装用紙",
+                "紙 包装用紙 さらし包装紙",
+                "紙 包装用紙 さらし包装紙 さらしクラフト紙",
+                "紙 包装用紙 さらし包装紙 その他さらし包装紙",
+                "紙 包装用紙 さらし包装紙 純白ロール紙",
+                "紙 包装用紙 未ざらし包装紙",
+                "紙 包装用紙 未ざらし包装紙 その他両更クラフト紙",
+                "紙 包装用紙 未ざらし包装紙 その他未ざらし包装紙",
+                "紙 包装用紙 未ざらし包装紙 重袋用両更クラフト紙",
+                "紙 印刷・情報用紙"
+              ]
+            }
+          },
+          "value_count": 215,
+          "value_range": "1.0-15067165.0"
+        },
+        {
+          "table_id": "0003104135",
+          "file": "0003104135.csv",
+          "total_rows": 80,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 16,
+              "samples": [
+                "板紙 段ボール原紙",
+                "板紙 段ボール原紙 ライナー",
+                "板紙 段ボール原紙 ライナー 内装用",
+                "板紙 段ボール原紙 ライナー 外装用（クラフト）",
+                "板紙 段ボール原紙 ライナー 外装用（ジュート）",
+                "板紙 段ボール原紙 中芯原紙",
+                "板紙 紙器用板紙",
+                "板紙 紙器用板紙 白板紙",
+                "板紙 紙器用板紙 白板紙 マニラボール",
+                "板紙 紙器用板紙 白板紙 白ボール"
+              ]
+            }
+          },
+          "value_count": 80,
+          "value_range": "15.0-10889727.0"
+        },
+        {
+          "table_id": "0003104136",
+          "file": "0003104136.csv",
+          "total_rows": 28,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "出荷数量 その他 (千平方m)",
+                "出荷数量 販売数量 (千平方m)",
+                "出荷数量 販売金額（百万円)",
+                "受入数量 (千平方m)",
+                "在庫数量 (千平方m)",
+                "消費数量（次工程投入） (千平方m)",
+                "生産数量 (千平方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "段ボール 両面",
+                "段ボール 片面",
+                "段ボール 複両面（複々両面を含む）",
+                "段ボール 計"
+              ]
+            }
+          },
+          "value_count": 28,
+          "value_range": "777.0-13275389.0"
+        },
+        {
+          "table_id": "0003104137",
+          "file": "0003104137.csv",
+          "total_rows": 13,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 13,
+              "samples": [
+                "合計",
+                "段ボール箱等 生産金額（百万円）",
+                "製箱用 その他の製箱用",
+                "製箱用 繊維製品用",
+                "製箱用 薬品・洗剤・化粧品用",
+                "製箱用 通販・宅配・引越用",
+                "製箱用 陶磁器・ガラス製品・雑貨用",
+                "製箱用 電気器具・機械器具用",
+                "製箱用 食料品用 その他の食料品",
+                "製箱用 食料品用 加工食品（飲料を含む）"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "消費数量（次工程投入） (千平方m)"
+              ]
+            }
+          },
+          "value_count": 13,
+          "value_range": "79859.0-9184479.0"
+        },
+        {
+          "table_id": "0003104138",
+          "file": "0003104138.csv",
+          "total_rows": 1840,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "消費数量（製紙用） (t)",
+                "消費数量（製紙用）内訳 板紙用 (t)",
+                "消費数量（製紙用）内訳 紙用 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "1.製紙パルプ 2.クラフトパルプ (1)+(2)",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 1)+2)",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 1)（針葉樹）",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 2)（広葉樹）",
+                "1.製紙パルプ 2.クラフトパルプ (2)未ざらし",
+                "1.製紙パルプ 2～6",
+                "1.製紙パルプ 3.サーモメカニカルパルプ",
+                "1.製紙パルプ 4.リファイナーグラウンドパルプ",
+                "1.製紙パルプ 5.砕木パルプ",
+                "1.製紙パルプ 6.その他製紙パルプ"
+              ]
+            }
+          },
+          "value_count": 1578,
+          "value_range": "1.0-10664393.0"
+        },
+        {
+          "table_id": "0003104139",
+          "file": "0003104139.csv",
+          "total_rows": 4945,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 43,
+              "samples": [
+                "1.紙 2.新聞巻取紙",
+                "1.紙 3.印刷・情報用紙 (1)非塗工印刷用紙 1)上級印刷紙",
+                "1.紙 3.印刷・情報用紙 (1)非塗工印刷用紙 1)～4)",
+                "1.紙 3.印刷・情報用紙 (1)非塗工印刷用紙 2)中級印刷紙",
+                "1.紙 3.印刷・情報用紙 (1)非塗工印刷用紙 3)下級印刷紙",
+                "1.紙 3.印刷・情報用紙 (1)非塗工印刷用紙 4)薄葉印刷紙",
+                "1.紙 3.印刷・情報用紙 (1)～(5)",
+                "1.紙 3.印刷・情報用紙 (2)微塗工印刷用紙",
+                "1.紙 3.印刷・情報用紙 (3)塗工印刷用紙 5)アート紙",
+                "1.紙 3.印刷・情報用紙 (3)塗工印刷用紙 5)～8)"
+              ]
+            }
+          },
+          "value_count": 4915,
+          "value_range": "1.0-18827707.0"
+        },
+        {
+          "table_id": "0003104140",
+          "file": "0003104140.csv",
+          "total_rows": 1840,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 16,
+              "samples": [
+                "1.板紙 2.段ボール原紙 (1)+(2)",
+                "1.板紙 2.段ボール原紙 (1)ライナー 1)外装用（クラフト）",
+                "1.板紙 2.段ボール原紙 (1)ライナー 1)～3)",
+                "1.板紙 2.段ボール原紙 (1)ライナー 2)外装用（ジュート）",
+                "1.板紙 2.段ボール原紙 (1)ライナー 3)内装用",
+                "1.板紙 2.段ボール原紙 (2)中芯原紙",
+                "1.板紙 3.紙器用板紙 (3)+(4)",
+                "1.板紙 3.紙器用板紙 (3)白板紙 4)+5)",
+                "1.板紙 3.紙器用板紙 (3)白板紙 4)マニラボール",
+                "1.板紙 3.紙器用板紙 (3)白板紙 5)白ボール"
+              ]
+            }
+          },
+          "value_count": 1833,
+          "value_range": "1.0-11799748.0"
+        },
+        {
+          "table_id": "0003104141",
+          "file": "0003104141.csv",
+          "total_rows": 644,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "出荷数量 その他 (千平方m)",
+                "出荷数量 販売数量 (千平方m)",
+                "出荷数量 販売金額（百万円)",
+                "受入数量 (千平方m)",
+                "在庫数量 (千平方m)",
+                "消費数量（次工程投入） (千平方m)",
+                "生産数量 (千平方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "1.合計 2～4",
+                "2.両面",
+                "3.複両面（複々両面を含む）",
+                "4.片面"
+              ]
+            }
+          },
+          "value_count": 644,
+          "value_range": "81.0-13560695.0"
+        },
+        {
+          "table_id": "0003104165",
+          "file": "0003104165.csv",
+          "total_rows": 299,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 13,
+              "samples": [
+                "合計",
+                "段ボール箱等 生産金額（百万円）",
+                "製箱用 その他の製箱用",
+                "製箱用 繊維製品用",
+                "製箱用 薬品・洗剤・化粧品用",
+                "製箱用 通販・宅配・引越用",
+                "製箱用 陶磁器・ガラス製品・雑貨用",
+                "製箱用 電気器具・機械器具用",
+                "製箱用 食料品用 その他の食料品",
+                "製箱用 食料品用 加工食品（飲料を含む）"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "消費数量（次工程投入） (千平方m)"
+              ]
+            }
+          },
+          "value_count": 299,
+          "value_range": "5529.0-9184479.0"
+        },
+        {
+          "table_id": "0003104166",
+          "file": "0003104166.csv",
+          "total_rows": 22,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "在庫数量 (立方m)",
+                "消費数量 (立方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "合計",
+                "国産材",
+                "国産材 チップ",
+                "国産材 チップ 広葉樹",
+                "国産材 チップ 針葉樹",
+                "国産材 原木",
+                "輸入材",
+                "輸入材 チップ",
+                "輸入材 チップ 広葉樹",
+                "輸入材 チップ 針葉樹"
+              ]
+            }
+          },
+          "value_count": 20,
+          "value_range": "55745.0-28058152.0"
+        },
+        {
+          "table_id": "0003104167",
+          "file": "0003104167.csv",
+          "total_rows": 80,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "板紙",
+                "紙"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "在庫数量 (t)",
+                "消費数量 (t)"
+              ]
+            },
+            "cat03_label": {
+              "count": 20,
+              "samples": [
+                "その他繊維原料",
+                "パルプ その他パルプ",
+                "パルプ クラフトパルプ",
+                "パルプ クラフトパルプ さらし",
+                "パルプ クラフトパルプ さらし 広葉樹",
+                "パルプ クラフトパルプ さらし 針葉樹",
+                "パルプ クラフトパルプ 未ざらし",
+                "パルプ 機械パルプ",
+                "パルプ 計",
+                "古紙"
+              ]
+            }
+          },
+          "value_count": 80,
+          "value_range": "159.0-10733324.0"
+        },
+        {
+          "table_id": "0003104168",
+          "file": "0003104168.csv",
+          "total_rows": 3,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "消費数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "段ボール原紙 ライナー",
+                "段ボール原紙 中芯原紙",
+                "段ボール原紙 計"
+              ]
+            }
+          },
+          "value_count": 3,
+          "value_range": "3308303.0-8202175.0"
+        },
+        {
+          "table_id": "0003104169",
+          "file": "0003104169.csv",
+          "total_rows": 506,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "在庫 (立方m)",
+                "消費 (立方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "1.合計 2+3",
+                "2.国産材 (1)原木",
+                "2.国産材 (2)チップ 1)+2)",
+                "2.国産材 (2)チップ 1)針葉樹",
+                "2.国産材 (2)チップ 2)広葉樹",
+                "2.国産材 計 (1)+(2)",
+                "3.輸入材 (3)原木",
+                "3.輸入材 (4)チップ 3)+4)",
+                "3.輸入材 (4)チップ 3)針葉樹",
+                "3.輸入材 (4)チップ 4)広葉樹"
+              ]
+            }
+          },
+          "value_count": 460,
+          "value_range": "22966.0-34253631.0"
+        },
+        {
+          "table_id": "0003104170",
+          "file": "0003104170.csv",
+          "total_rows": 1840,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "板紙",
+                "紙"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "在庫数量 (t)",
+                "消費数量 (t)"
+              ]
+            },
+            "cat03_label": {
+              "count": 20,
+              "samples": [
+                "1.パルプ 2.クラフトパルプ (1)+(2)",
+                "1.パルプ 2.クラフトパルプ (1)さらし 1)+2)",
+                "1.パルプ 2.クラフトパルプ (1)さらし 1)（針葉樹）",
+                "1.パルプ 2.クラフトパルプ (1)さらし 2)（広葉樹）",
+                "1.パルプ 2.クラフトパルプ (2)未ざらし",
+                "1.パルプ 3.機械パルプ",
+                "1.パルプ 4.その他パルプ",
+                "1.パルプ 計 2～4",
+                "5.古紙パルプ",
+                "6.古紙 (10)段ボール古紙"
+              ]
+            }
+          },
+          "value_count": 1833,
+          "value_range": "20.0-11705468.0"
+        },
+        {
+          "table_id": "0003104171",
+          "file": "0003104171.csv",
+          "total_rows": 69,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "消費(t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "1.段ボール原紙 (1)ライナー",
+                "1.段ボール原紙 (2)中芯原紙",
+                "1.段ボール原紙 計 (1)+(2)"
+              ]
+            }
+          },
+          "value_count": 69,
+          "value_range": "231701.0-8612025.0"
+        },
+        {
+          "table_id": "0003104172",
+          "file": "0003104172.csv",
+          "total_rows": 238,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "基（台）数",
+                "月間生産能力 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "1.パルプ (1)クラフトパルプ・さらし バッチ式",
+                "1.パルプ (1)クラフトパルプ・さらし 連続式",
+                "1.パルプ (2)クラフトパルプ・未ざらし バッチ式",
+                "1.パルプ (2)クラフトパルプ・未ざらし 連続式",
+                "1.パルプ (3)その他パルプ",
+                "1.パルプ (4)リファイナー・砕木機",
+                "1.パルプ 計 (1)～(4)"
+              ]
+            }
+          },
+          "value_count": 238,
+          "value_range": "5.0-1272873.0"
+        },
+        {
+          "table_id": "0003104173",
+          "file": "0003104173.csv",
+          "total_rows": 170,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "抄紙機 (台)",
+                "月間生産能力 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 5,
+              "samples": [
+                "1.紙 (1)長網式",
+                "1.紙 (2)ツインワイヤー式",
+                "1.紙 (3)オントップ式",
+                "1.紙 (4)その他",
+                "1.紙 計 (1)～(4)"
+              ]
+            }
+          },
+          "value_count": 170,
+          "value_range": "49.0-1693590.0"
+        },
+        {
+          "table_id": "0003104174",
+          "file": "0003104174.csv",
+          "total_rows": 170,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "抄紙機 (台)",
+                "月間生産能力 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 5,
+              "samples": [
+                "1.板紙 (1)まる網式",
+                "1.板紙 (2)オントップ式",
+                "1.板紙 (3)コンビネーション式",
+                "1.板紙 (4)その他",
+                "1.板紙 計 (1)～(4)"
+              ]
+            }
+          },
+          "value_count": 170,
+          "value_range": "19.0-1054267.0"
+        },
+        {
+          "table_id": "0003104185",
+          "file": "0003104185.csv",
+          "total_rows": 34,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "台数",
+                "生産能力 (千平方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "コルゲータ"
+              ]
+            }
+          },
+          "value_count": 34,
+          "value_range": "409.0-13767092.0"
+        },
+        {
+          "table_id": "0003104186",
+          "file": "0003104186.csv",
+          "total_rows": 68,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "パルプ部門",
+                "板紙部門",
+                "段ボールシート部門",
+                "紙部門"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "月末従事者数 (人)"
+              ]
+            }
+          },
+          "value_count": 68,
+          "value_range": "2958.0-21172.0"
+        },
+        {
+          "table_id": "0003119584",
+          "file": "0003119584.csv",
+          "total_rows": 1840,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "year_range": "2009-2013",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "消費数量（製紙用） (t)",
+                "消費数量（製紙用）内訳 板紙用 (t)",
+                "消費数量（製紙用）内訳 紙用 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "1.製紙パルプ 2.クラフトパルプ (1)+(2)",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 1)+2)",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 1)（針葉樹）",
+                "1.製紙パルプ 2.クラフトパルプ (1)さらし 2)（広葉樹）",
+                "1.製紙パルプ 2.クラフトパルプ (2)未ざらし",
+                "1.製紙パルプ 2～6",
+                "1.製紙パルプ 3.サーモメカニカルパルプ",
+                "1.製紙パルプ 4.リファイナーグラウンドパルプ",
+                "1.製紙パルプ 5.砕木パルプ",
+                "1.製紙パルプ 6.その他製紙パルプ"
+              ]
+            }
+          },
+          "value_count": 1571,
+          "value_range": "1.0-9392120.0"
+        },
+        {
+          "table_id": "0003119601",
+          "file": "0003119601.csv",
+          "total_rows": 80,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "消費内訳 板紙用 (t)",
+                "消費内訳 紙用 (t)",
+                "消費数量（製紙用） (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "製紙パルプ",
+                "製紙パルプ その他製紙パルプ",
+                "製紙パルプ クラフトパルプ",
+                "製紙パルプ クラフトパルプ さらし",
+                "製紙パルプ クラフトパルプ さらし 広葉樹",
+                "製紙パルプ クラフトパルプ さらし 針葉樹",
+                "製紙パルプ クラフトパルプ 未ざらし",
+                "製紙パルプ サーモメカニカルパルプ",
+                "製紙パルプ リファイナーグラウンドパルプ",
+                "製紙パルプ 砕木パルプ"
+              ]
+            }
+          },
+          "value_count": 68,
+          "value_range": "41.0-8765852.0"
+        },
+        {
+          "table_id": "0003119602",
+          "file": "0003119602.csv",
+          "total_rows": 28,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "出荷数量 その他 (千平方m)",
+                "出荷数量 販売数量 (千平方m)",
+                "出荷数量 販売金額（百万円)",
+                "受入数量 (千平方m)",
+                "在庫数量 (千平方m)",
+                "消費数量（次工程投入） (千平方m)",
+                "生産数量 (千平方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "段ボール 両面",
+                "段ボール 片面",
+                "段ボール 複両面（複々両面を含む）",
+                "段ボール 計"
+              ]
+            }
+          },
+          "value_count": 28,
+          "value_range": "767.0-13458832.0"
+        },
+        {
+          "table_id": "0003119603",
+          "file": "0003119603.csv",
+          "total_rows": 1840,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "year_range": "2009-2013",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 16,
+              "samples": [
+                "1.板紙 2.段ボール原紙 (1)+(2)",
+                "1.板紙 2.段ボール原紙 (1)ライナー 1)外装用（クラフト）",
+                "1.板紙 2.段ボール原紙 (1)ライナー 1)～3)",
+                "1.板紙 2.段ボール原紙 (1)ライナー 2)外装用（ジュート）",
+                "1.板紙 2.段ボール原紙 (1)ライナー 3)内装用",
+                "1.板紙 2.段ボール原紙 (2)中芯原紙",
+                "1.板紙 3.紙器用板紙 (3)+(4)",
+                "1.板紙 3.紙器用板紙 (3)白板紙 4)+5)",
+                "1.板紙 3.紙器用板紙 (3)白板紙 4)マニラボール",
+                "1.板紙 3.紙器用板紙 (3)白板紙 5)白ボール"
+              ]
+            }
+          },
+          "value_count": 1838,
+          "value_range": "1.0-11163271.0"
+        },
+        {
+          "table_id": "0003119631",
+          "file": "0003119631.csv",
+          "total_rows": 215,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "出荷数量 その他 (t)",
+                "出荷数量 販売数量 (t)",
+                "出荷数量 販売金額（百万円)",
+                "在庫数量 (t)",
+                "生産数量 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 43,
+              "samples": [
+                "紙 包装用紙",
+                "紙 包装用紙 さらし包装紙",
+                "紙 包装用紙 さらし包装紙 さらしクラフト紙",
+                "紙 包装用紙 さらし包装紙 その他さらし包装紙",
+                "紙 包装用紙 さらし包装紙 純白ロール紙",
+                "紙 包装用紙 未ざらし包装紙",
+                "紙 包装用紙 未ざらし包装紙 その他両更クラフト紙",
+                "紙 包装用紙 未ざらし包装紙 その他未ざらし包装紙",
+                "紙 包装用紙 未ざらし包装紙 重袋用両更クラフト紙",
+                "紙 印刷・情報用紙"
+              ]
+            }
+          },
+          "value_count": 215,
+          "value_range": "5.0-15181449.0"
+        },
+        {
+          "table_id": "0003119632",
+          "file": "0003119632.csv",
+          "total_rows": 13,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 13,
+              "samples": [
+                "合計",
+                "段ボール箱等 生産金額（百万円）",
+                "製箱用 その他の製箱用",
+                "製箱用 繊維製品用",
+                "製箱用 薬品・洗剤・化粧品用",
+                "製箱用 通販・宅配・引越用",
+                "製箱用 陶磁器・ガラス製品・雑貨用",
+                "製箱用 電気器具・機械器具用",
+                "製箱用 食料品用 その他の食料品",
+                "製箱用 食料品用 加工食品（飲料を含む）"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "消費数量（次工程投入） (千平方m)"
+              ]
+            }
+          },
+          "value_count": 13,
+          "value_range": "85396.0-9388656.0"
+        },
+        {
+          "table_id": "0003119633",
+          "file": "0003119633.csv",
+          "total_rows": 644,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "year_range": "2009-2013",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "出荷数量 その他 (千平方m)",
+                "出荷数量 販売数量 (千平方m)",
+                "出荷数量 販売金額（百万円)",
+                "受入数量 (千平方m)",
+                "在庫数量 (千平方m)",
+                "消費数量（次工程投入） (千平方m)",
+                "生産数量 (千平方m)"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "1.合計 2～4",
+                "2.両面",
+                "3.複両面（複々両面を含む）",
+                "4.片面"
+              ]
+            }
+          },
+          "value_count": 644,
+          "value_range": "74.0-13458832.0"
+        },
+        {
+          "table_id": "0003119635",
+          "file": "0003119635.csv",
+          "total_rows": 238,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "year_range": "2009-2013",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "基（台）数",
+                "月間生産能力 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "1.パルプ (1)クラフトパルプ・さらし バッチ式",
+                "1.パルプ (1)クラフトパルプ・さらし 連続式",
+                "1.パルプ (2)クラフトパルプ・未ざらし バッチ式",
+                "1.パルプ (2)クラフトパルプ・未ざらし 連続式",
+                "1.パルプ (3)その他パルプ",
+                "1.パルプ (4)リファイナー・砕木機",
+                "1.パルプ 計 (1)～(4)"
+              ]
+            }
+          },
+          "value_count": 238,
+          "value_range": "5.0-1194081.0"
+        },
+        {
+          "table_id": "0003119636",
+          "file": "0003119636.csv",
+          "total_rows": 68,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "year_range": "2009-2013",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "パルプ部門",
+                "板紙部門",
+                "段ボールシート部門",
+                "紙部門"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "月末従事者数 (人)"
+              ]
+            }
+          },
+          "value_count": 68,
+          "value_range": "2868.0-20009.0"
         }
       ]
     },
@@ -12764,7 +14754,7 @@
         {
           "table_id": "0004002160",
           "file": "0004002160.csv",
-          "total_rows": 5574,
+          "total_rows": 5575,
           "columns": [
             "value",
             "cat01",
@@ -12824,13 +14814,13 @@
               ]
             }
           },
-          "value_count": 5574,
+          "value_count": 5575,
           "value_range": "0.0-0.0"
         },
         {
           "table_id": "0004002163",
           "file": "0004002163.csv",
-          "total_rows": 9548,
+          "total_rows": 9547,
           "columns": [
             "value",
             "cat01",
@@ -12890,7 +14880,7 @@
               ]
             }
           },
-          "value_count": 9548,
+          "value_count": 9547,
           "value_range": "0.0-0.0"
         }
       ]
@@ -13758,8 +15748,8 @@
       ]
     }
   },
-  "total_files": 203,
-  "total_rows": 3166785,
+  "total_files": 240,
+  "total_rows": 3259383,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
@@ -13790,12 +15780,16 @@
       "size_kb": 8.0
     },
     {
+      "file": "_dir_ict.json",
+      "size_kb": 9.0
+    },
+    {
       "file": "_dir_macro.json",
-      "size_kb": 93.3
+      "size_kb": 96.7
     },
     {
       "file": "_dir_manufacturing.json",
-      "size_kb": 49.3
+      "size_kb": 93.5
     },
     {
       "file": "_dir_medical.json",
@@ -13850,5 +15844,5 @@
       "size_kb": 0.3
     }
   ],
-  "processed_count": 22
+  "processed_count": 23
 }

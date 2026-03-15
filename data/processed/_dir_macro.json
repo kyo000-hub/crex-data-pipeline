@@ -1,7 +1,7 @@
 {
   "directory": "macro",
-  "updated": "2026-03-09",
-  "file_count": 50,
+  "updated": "2026-03-15",
+  "file_count": 52,
   "tables": [
     {
       "table_id": "0000010103",
@@ -549,8 +549,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "1985-2025",
-      "year_count": 41,
+      "year_range": "1985-2026",
+      "year_count": 42,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -591,7 +591,7 @@
           ]
         },
         "time_label": {
-          "count": 492,
+          "count": 493,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -800,8 +800,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "1985-2025",
-      "year_count": 41,
+      "year_range": "1985-2026",
+      "year_count": 42,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -845,7 +845,7 @@
           ]
         },
         "time_label": {
-          "count": 492,
+          "count": 493,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -1546,6 +1546,86 @@
       }
     },
     {
+      "table_id": "0003114534",
+      "rows": 47040,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "2011-2024",
+      "year_count": 14,
+      "categories": {
+        "tab_label": {
+          "count": 2,
+          "samples": [
+            "床面積の合計",
+            "戸数"
+          ]
+        },
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "その他の住宅",
+            "併用住宅",
+            "専用住宅",
+            "計"
+          ]
+        },
+        "cat02_label": {
+          "count": 7,
+          "samples": [
+            "その他",
+            "コンクリートブロック造",
+            "木造",
+            "計",
+            "鉄筋コンクリート造",
+            "鉄骨造",
+            "鉄骨鉄筋コンクリート造"
+          ]
+        },
+        "cat03_label": {
+          "count": 5,
+          "samples": [
+            "分譲住宅",
+            "持家",
+            "給与住宅",
+            "計",
+            "貸家"
+          ]
+        },
+        "time_label": {
+          "count": 168,
+          "samples": [
+            "2011年10月",
+            "2011年11月",
+            "2011年12月",
+            "2011年1月",
+            "2011年2月",
+            "2011年3月",
+            "2011年4月",
+            "2011年5月",
+            "2011年6月",
+            "2011年7月",
+            "2011年8月",
+            "2011年9月",
+            "2012年10月",
+            "2012年11月",
+            "2012年12月"
+          ]
+        }
+      }
+    },
+    {
       "table_id": "0003114540",
       "rows": 100000,
       "columns": [
@@ -1622,6 +1702,85 @@
             "奈良県",
             "宮城県",
             "宮崎県"
+          ]
+        },
+        "time_label": {
+          "count": 14,
+          "samples": [
+            "2011年",
+            "2012年",
+            "2013年",
+            "2014年",
+            "2015年",
+            "2016年",
+            "2017年",
+            "2018年",
+            "2019年",
+            "2020年",
+            "2021年",
+            "2022年",
+            "2023年",
+            "2024年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003114570",
+      "rows": 3920,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "2011-2024",
+      "year_count": 14,
+      "categories": {
+        "tab_label": {
+          "count": 2,
+          "samples": [
+            "床面積の合計",
+            "戸数"
+          ]
+        },
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "その他の住宅",
+            "併用住宅",
+            "専用住宅",
+            "計"
+          ]
+        },
+        "cat02_label": {
+          "count": 7,
+          "samples": [
+            "その他",
+            "コンクリートブロック造",
+            "木造",
+            "計",
+            "鉄筋コンクリート造",
+            "鉄骨造",
+            "鉄骨鉄筋コンクリート造"
+          ]
+        },
+        "cat03_label": {
+          "count": 5,
+          "samples": [
+            "分譲住宅",
+            "持家",
+            "給与住宅",
+            "計",
+            "貸家"
           ]
         },
         "time_label": {
@@ -3824,5 +3983,5 @@
       }
     }
   ],
-  "total_rows": 1333454
+  "total_rows": 1384414
 }

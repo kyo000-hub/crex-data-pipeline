@@ -1,6 +1,6 @@
 {
   "directory": "trade",
-  "updated": "2026-03-09",
+  "updated": "2026-03-15",
   "file_count": 3,
   "tables": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "table_id": "0004002160",
-      "rows": 5574,
+      "rows": 5575,
       "columns": [
         "value",
         "cat01",
@@ -141,7 +141,7 @@
     },
     {
       "table_id": "0004002163",
-      "rows": 9548,
+      "rows": 9547,
       "columns": [
         "value",
         "cat01",
