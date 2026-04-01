@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15 18:58",
+  "updated": "2026-04-01 19:19",
   "directories": {
     "agriculture": {
       "file_count": 15,
@@ -819,9 +819,305 @@
       ]
     },
     "census": {
-      "file_count": 6,
-      "total_rows": 79162,
+      "file_count": 11,
+      "total_rows": 303030,
       "tables": [
+        {
+          "table_id": "0003085523",
+          "file": "0003085523.csv",
+          "total_rows": 13651,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2012
+          ],
+          "year_range": "2012-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "(法人)会社",
+                "(法人)会社以外の法人",
+                "個人",
+                "法人",
+                "法人でない団体",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 2202,
+              "samples": [
+                "あきる野市",
+                "あさぎり町",
+                "あま市",
+                "あわら市",
+                "いすみ市",
+                "いちき串木野市",
+                "いなべ市",
+                "いの町",
+                "いわき市",
+                "うきは市"
+              ]
+            }
+          },
+          "value_count": 13609,
+          "value_range": "1.0-5453635.0"
+        },
+        {
+          "table_id": "0003085525",
+          "file": "0003085525.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2012
+          ],
+          "year_range": "2012-2012",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1867,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 78,
+              "samples": [
+                "01農業",
+                "02林業",
+                "03漁業（水産養殖業を除く）",
+                "04水産養殖業",
+                "05鉱業，採石業，砂利採取業",
+                "06総合工事業",
+                "07職別工事業(設備工事業を除く)",
+                "08設備工事業",
+                "09食料品製造業",
+                "10飲料・たばこ・飼料製造業"
+              ]
+            }
+          },
+          "value_count": 99454,
+          "value_range": "1.0-627357.0"
+        },
+        {
+          "table_id": "0003085552",
+          "file": "0003085552.csv",
+          "total_rows": 4604,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2012
+          ],
+          "year_range": "2012-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "事業所数",
+                "事業所数（事業内容等不詳を含む）"
+              ]
+            },
+            "cat01_label": {
+              "count": 2202,
+              "samples": [
+                "あきる野市",
+                "あさぎり町",
+                "あま市",
+                "あわら市",
+                "いすみ市",
+                "いちき串木野市",
+                "いなべ市",
+                "いの町",
+                "いわき市",
+                "うきは市"
+              ]
+            }
+          },
+          "value_count": 4590,
+          "value_range": "18.0-5768489.0"
+        },
+        {
+          "table_id": "0003085698",
+          "file": "0003085698.csv",
+          "total_rows": 5613,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2012
+          ],
+          "year_range": "2012-2012",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "会社",
+                "会社以外の法人",
+                "個人",
+                "外国の会社",
+                "法人でない団体",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 25,
+              "samples": [
+                "A～B農林漁業",
+                "C鉱業，採石業，砂利採取業",
+                "D建設業",
+                "E製造業",
+                "F電気・ガス・熱供給・水道業",
+                "G1情報通信業（通信業，放送業，映像・音声・文字情報制作業）",
+                "G2情報通信業（情報サービス業，インターネット附随サービス業）",
+                "G情報通信業",
+                "H運輸業，郵便業",
+                "I卸売業，小売業"
+              ]
+            }
+          },
+          "value_count": 5613,
+          "value_range": "1.0-1159050.0"
+        },
+        {
+          "table_id": "0003085699",
+          "file": "0003085699.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2012
+          ],
+          "year_range": "2012-2012",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1867,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "会社",
+                "個人",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 25,
+              "samples": [
+                "A～B農林漁業",
+                "C鉱業，採石業，砂利採取業",
+                "D建設業",
+                "E製造業",
+                "F電気・ガス・熱供給・水道業",
+                "G1情報通信業（通信業，放送業，映像・音声・文字情報制作業）",
+                "G2情報通信業（情報サービス業，インターネット附随サービス業）",
+                "G情報通信業",
+                "H運輸業，郵便業",
+                "I卸売業，小売業"
+              ]
+            }
+          },
+          "value_count": 99538,
+          "value_range": "1.0-118904.0"
+        },
         {
           "table_id": "0003111245",
           "file": "0003111245.csv",
@@ -1214,7 +1510,7 @@
     },
     "construction": {
       "file_count": 10,
-      "total_rows": 303030,
+      "total_rows": 303078,
       "tables": [
         {
           "table_id": "0003125915",
@@ -1291,7 +1587,7 @@
               ]
             }
           },
-          "value_count": 39521,
+          "value_count": 39696,
           "value_range": "0.0-36313.0"
         },
         {
@@ -1456,7 +1752,7 @@
         {
           "table_id": "0003126568",
           "file": "0003126568.csv",
-          "total_rows": 10752,
+          "total_rows": 10800,
           "columns": [
             "value",
             "tab",
@@ -1519,7 +1815,7 @@
               ]
             }
           },
-          "value_count": 10477,
+          "value_count": 10521,
           "value_range": "0.0-41761429.0"
         },
         {
@@ -4248,9 +4544,406 @@
       ]
     },
     "employment": {
-      "file_count": 7,
-      "total_rows": 355936,
+      "file_count": 12,
+      "total_rows": 367318,
       "tables": [
+        {
+          "table_id": "0000140001",
+          "file": "0000140001.csv",
+          "total_rows": 3234,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1987
+          ],
+          "year_range": "1987-1987",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "　女",
+                "　男",
+                "男女計"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "　　　家事が主な者",
+                "　　　家事・通学以外が主な者",
+                "　　　通学が主な者",
+                "　　その他",
+                "　　仕事が主な者",
+                "　　仕事が従な者",
+                "　　家事をしている者",
+                "　　通学している者",
+                "　有業者",
+                "　無業者"
+              ]
+            },
+            "cat03_label": {
+              "count": 14,
+              "samples": [
+                "15歳以上",
+                "15～19歳",
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳"
+              ]
+            },
+            "cat04_label": {
+              "count": 7,
+              "samples": [
+                "　　その他の親族世帯員",
+                "　　世帯主",
+                "　　世帯主の配偶者",
+                "　　非親族世帯員",
+                "　一般世帯",
+                "　単身世帯",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 3234,
+          "value_range": "0.0-97337.0"
+        },
+        {
+          "table_id": "0000140002",
+          "file": "0000140002.csv",
+          "total_rows": 1848,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1987
+          ],
+          "year_range": "1987-1987",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "　女",
+                "　男",
+                "男女計"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "　　　家事が主な者",
+                "　　　家事・通学以外が主な者",
+                "　　　通学が主な者",
+                "　　その他",
+                "　　仕事が主な者",
+                "　　仕事が従な者",
+                "　　家事をしている者",
+                "　　通学している者",
+                "　有業者",
+                "　無業者"
+              ]
+            },
+            "cat03_label": {
+              "count": 14,
+              "samples": [
+                "15歳以上",
+                "15～19歳",
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳"
+              ]
+            },
+            "cat04_label": {
+              "count": 4,
+              "samples": [
+                "　有配偶",
+                "　未婚",
+                "　死別・離別",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 1848,
+          "value_range": "0.0-97337.0"
+        },
+        {
+          "table_id": "0000140003",
+          "file": "0000140003.csv",
+          "total_rows": 4312,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1987
+          ],
+          "year_range": "1987-1987",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "　女",
+                "　男",
+                "うち女子有配偶者",
+                "男女計"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "　　　家事が主な者",
+                "　　　家事・通学以外が主な者",
+                "　　　通学が主な者",
+                "　　その他",
+                "　　仕事が主な者",
+                "　　仕事が従な者",
+                "　　家事をしている者",
+                "　　通学している者",
+                "　有業者",
+                "　無業者"
+              ]
+            },
+            "cat03_label": {
+              "count": 14,
+              "samples": [
+                "15歳以上",
+                "15～19歳",
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳"
+              ]
+            },
+            "cat04_label": {
+              "count": 7,
+              "samples": [
+                "　　大学・大学院",
+                "　　小学・中学",
+                "　　短大・高専",
+                "　　高校・旧中",
+                "　卒業者",
+                "　在学者",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 4224,
+          "value_range": "0.0-97337.0"
+        },
+        {
+          "table_id": "0000140004",
+          "file": "0000140004.csv",
+          "total_rows": 44,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1987
+          ],
+          "year_range": "1987-1987",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "　女",
+                "　男",
+                "うち女子有配偶者",
+                "男女計"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "　　　家事が主な者",
+                "　　　家事・通学以外が主な者",
+                "　　　通学が主な者",
+                "　　その他",
+                "　　仕事が主な者",
+                "　　仕事が従な者",
+                "　　家事をしている者",
+                "　　通学している者",
+                "　有業者",
+                "　無業者"
+              ]
+            },
+            "cat03_label": {
+              "count": 1,
+              "samples": [
+                "平均年齢"
+              ]
+            }
+          },
+          "value_count": 44,
+          "value_range": "17.2-68.8"
+        },
+        {
+          "table_id": "0000140005",
+          "file": "0000140005.csv",
+          "total_rows": 1944,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1987
+          ],
+          "year_range": "1987-1987",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "　仕事が主な者",
+                "　仕事が従な者",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 18,
+              "samples": [
+                "　　　　一般常雇",
+                "　　　　日雇",
+                "　　　　臨時雇",
+                "　　　その他",
+                "　　　アルバイト",
+                "　　　パート",
+                "　　　嘱託など",
+                "　　　正規の職員・従業者",
+                "　　　派遣社員",
+                "　　内職者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "　女",
+                "　男",
+                "男女計"
+              ]
+            },
+            "cat04_label": {
+              "count": 12,
+              "samples": [
+                "15歳以上",
+                "15～19歳",
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳"
+              ]
+            }
+          },
+          "value_count": 1944,
+          "value_range": "0.0-60502.0"
+        },
         {
           "table_id": "0003004104",
           "file": "0003004104.csv",
@@ -5598,8 +6291,8 @@
       ]
     },
     "macro": {
-      "file_count": 52,
-      "total_rows": 1384414,
+      "file_count": 62,
+      "total_rows": 1395879,
       "tables": [
         {
           "table_id": "0000010103",
@@ -5907,6 +6600,312 @@
           "value_range": "-21.2-19725.0"
         },
         {
+          "table_id": "0000150001",
+          "file": "0000150001.csv",
+          "total_rows": 736,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991
+          ],
+          "year_range": "1991-1991",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 92,
+              "samples": [
+                "0歳",
+                "10歳",
+                "11歳",
+                "12歳",
+                "13歳",
+                "14歳",
+                "15歳",
+                "16歳",
+                "17歳",
+                "18歳"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "日本人・人口性比",
+                "日本人・女",
+                "日本人・男",
+                "日本人・男女計",
+                "総人口・人口性比",
+                "総人口・女",
+                "総人口・男",
+                "総人口・男女計"
+              ]
+            }
+          },
+          "value_count": 736,
+          "value_range": "36.0-124043.0"
+        },
+        {
+          "table_id": "0000150002",
+          "file": "0000150002.csv",
+          "total_rows": 690,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991
+          ],
+          "year_range": "1991-1991",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 46,
+              "samples": [
+                "人口・総数",
+                "人口・０－１４歳",
+                "人口・０－４歳",
+                "人口・１０－１４歳",
+                "人口・１５－１９歳",
+                "人口・１５－６４歳",
+                "人口・２０－２４歳",
+                "人口・２５－２９歳",
+                "人口・３０－３４歳",
+                "人口・３５－３９歳"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 5,
+              "samples": [
+                "１９７５年",
+                "１９８０年",
+                "１９８５年",
+                "１９９０年",
+                "１９９１年"
+              ]
+            }
+          },
+          "value_count": 690,
+          "value_range": "0.0-124043.0"
+        },
+        {
+          "table_id": "0000150003",
+          "file": "0000150003.csv",
+          "total_rows": 87,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991
+          ],
+          "year_range": "1991-1991",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 29,
+              "samples": [
+                "外国人人口・入国者数（平成２年１０月－３年９月）",
+                "外国人人口・入国超過（平成２年１０月－３年９月）",
+                "外国人人口・出国者数（平成２年１０月－３年９月）",
+                "外国人人口・出生児数（平成２年１０月－３年９月）",
+                "外国人人口・国籍の異動による純増（平成２年１０月－３年９月）",
+                "外国人人口・増加の計（平成２年１０月－３年９月）",
+                "外国人人口・平成２年１０月１日基準人口",
+                "外国人人口・平成３年１０月１日人口",
+                "外国人人口・死亡者数（平成２年１０月－３年９月）",
+                "外国人人口・自然増加（平成２年１０月－３年９月）"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 87,
+          "value_range": "-18919.0-124043418.0"
+        },
+        {
+          "table_id": "0000150004",
+          "file": "0000150004.csv",
+          "total_rows": 2511,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991
+          ],
+          "year_range": "1991-1991",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 93,
+              "samples": [
+                "0歳",
+                "0歳未満",
+                "10歳",
+                "11歳",
+                "12歳",
+                "13歳",
+                "14歳",
+                "15歳",
+                "16歳",
+                "17歳"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 9,
+              "samples": [
+                "日本人人口・入国超過",
+                "日本人人口・国籍の異動による純増",
+                "日本人人口・平成２年１０月１日人口",
+                "日本人人口・平成３年１０月１日人口",
+                "日本人人口・死亡者数",
+                "総人口・入国超過",
+                "総人口・平成２年１０月１日人口",
+                "総人口・平成３年１０月１日人口",
+                "総人口・死亡者数"
+              ]
+            }
+          },
+          "value_count": 2484,
+          "value_range": "-18919.0-124043418.0"
+        },
+        {
+          "table_id": "0000150005",
+          "file": "0000150005.csv",
+          "total_rows": 150,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991
+          ],
+          "year_range": "1991-1991",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "cat01_label": {
+              "count": 25,
+              "samples": [
+                "0歳",
+                "10～14歳",
+                "15～19歳",
+                "1歳",
+                "20～24歳",
+                "25～29歳",
+                "2歳",
+                "30～34歳",
+                "35～39歳",
+                "3歳"
+              ]
+            },
+            "cat02_label": {
+              "count": 6,
+              "samples": [
+                "外国人・女",
+                "外国人・男",
+                "外国人・計",
+                "日本人・女",
+                "日本人・男",
+                "日本人・計"
+              ]
+            }
+          },
+          "value_count": 150,
+          "value_range": "0.0-824738.0"
+        },
+        {
           "table_id": "0000150271",
           "file": "0000150271.csv",
           "total_rows": 2538,
@@ -6109,13 +7108,13 @@
               ]
             }
           },
-          "value_count": 49520,
+          "value_count": 49526,
           "value_range": "0.2-93.4"
         },
         {
           "table_id": "0002060006",
           "file": "0002060006.csv",
-          "total_rows": 27887,
+          "total_rows": 27990,
           "columns": [
             "value",
             "tab",
@@ -6230,7 +7229,7 @@
               ]
             }
           },
-          "value_count": 27239,
+          "value_count": 27342,
           "value_range": "0.0-100.0"
         },
         {
@@ -6647,7 +7646,7 @@
         {
           "table_id": "0003005865",
           "file": "0003005865.csv",
-          "total_rows": 2493,
+          "total_rows": 2502,
           "columns": [
             "value",
             "tab",
@@ -6730,7 +7729,7 @@
               ]
             }
           },
-          "value_count": 2439,
+          "value_count": 2448,
           "value_range": "1.9-76.8"
         },
         {
@@ -6840,13 +7839,13 @@
               ]
             }
           },
-          "value_count": 48620,
+          "value_count": 48626,
           "value_range": "0.3-100.0"
         },
         {
           "table_id": "0003006300",
           "file": "0003006300.csv",
-          "total_rows": 29208,
+          "total_rows": 29311,
           "columns": [
             "value",
             "tab",
@@ -6944,8 +7943,60 @@
               ]
             }
           },
-          "value_count": 28560,
+          "value_count": 28663,
           "value_range": "0.0-100.0"
+        },
+        {
+          "table_id": "0003014706",
+          "file": "0003014706.csv",
+          "total_rows": 559,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 43,
+              "samples": [
+                "テレビ番組制作業務(テレビコマーシャル制作を行う企業を含む)",
+                "事業の形態別計",
+                "会社",
+                "会社以外の法人・団体",
+                "個人経営",
+                "専業割合別計",
+                "専業割合１００％",
+                "専業割合５０％以上１００％未満",
+                "専業割合５０％未満",
+                "年間売上高規模別計"
+              ]
+            },
+            "cat02_label": {
+              "count": 13,
+              "samples": [
+                "その他業務の年間売上高（従業）(百万円）",
+                "企業数",
+                "年間売上高計Ｃ(百万円）",
+                "従事者数（人）",
+                "従業者数Ａ（人）",
+                "従業者１人当たりの年間売上高Ｃ／Ａ（万円）",
+                "調査対象業務の年間売上高（主業）Ｄ(百万円）",
+                "調査対象業務の従事者数Ｂ（人）",
+                "調査対象業務従事者１人当たりの業務の年間売上高Ｄ／Ｂ（万円）",
+                "１企業所当たり年間売上高（万円）"
+              ]
+            }
+          },
+          "value_count": 558,
+          "value_range": "2.0-7554938.0"
         },
         {
           "table_id": "0003014721",
@@ -7020,6 +8071,214 @@
           },
           "value_count": 2484,
           "value_range": "-123748.0-127692273.0"
+        },
+        {
+          "table_id": "0003014819",
+          "file": "0003014819.csv",
+          "total_rows": 1220,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 20,
+              "samples": [
+                "その他業務の年間売上高（従業）(百万円）",
+                "クレジットカード個人会員",
+                "クレジットカード法人会員",
+                "クレジットカード発行枚数",
+                "企業数",
+                "加盟店数",
+                "年間売上高計Ｃ(百万円）",
+                "従事者数（人）",
+                "従業者数Ａ（人）",
+                "従業者１人当たりの年間売上高Ｃ／Ａ（万円）"
+              ]
+            },
+            "cat02_label": {
+              "count": 53,
+              "samples": [
+                "(うちチケット発行会社）",
+                "その他",
+                "クレジットカード業務，割賦　金融業務の従事者規模別計",
+                "中小小売商団体",
+                "会社",
+                "会社の系統別計",
+                "会社以外の法人・団体",
+                "信販会社",
+                "個人会員数規模別計",
+                "個人経営"
+              ]
+            }
+          },
+          "value_count": 1188,
+          "value_range": "2.0-199058099.0"
+        },
+        {
+          "table_id": "0003014820",
+          "file": "0003014820.csv",
+          "total_rows": 954,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 18,
+              "samples": [
+                "その他業務の年間売上高（従業）(百万円）",
+                "クレジットカード発行枚数",
+                "企業数",
+                "加盟店数",
+                "年間売上高計Ｃ(百万円）",
+                "従事者数（人）",
+                "従業者数Ａ（人）",
+                "従業者１人当たりの年間売上高Ｃ／Ａ（万円）",
+                "調査対象業務の営業収入額(百万円）",
+                "調査対象業務の年間売上高（主業）Ｄ(百万円）"
+              ]
+            },
+            "cat02_label": {
+              "count": 45,
+              "samples": [
+                "クレジットカード業務，割賦　金融業務の従事者規模別計",
+                "会社",
+                "会社以外の法人・団体",
+                "個人会員数規模別計",
+                "個人経営",
+                "加盟店数規模別計",
+                "専業割合別計",
+                "年間売上高（年間取扱高）規模別計",
+                "従業者規模別計",
+                "経営組織別計"
+              ]
+            }
+          },
+          "value_count": 751,
+          "value_range": "1.0-270158950.0"
+        },
+        {
+          "table_id": "0003014821",
+          "file": "0003014821.csv",
+          "total_rows": 954,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 18,
+              "samples": [
+                "その他業務の年間売上高（従業）(百万円）",
+                "クレジットカード発行枚数",
+                "企業数",
+                "加盟店数",
+                "年間売上高計Ｃ(百万円）",
+                "従事者数（人）",
+                "従業者数Ａ（人）",
+                "従業者１人当たりの年間売上高Ｃ／Ａ（万円）",
+                "調査対象業務の営業収入額(百万円）",
+                "調査対象業務の年間売上高（主業）Ｄ(百万円）"
+              ]
+            },
+            "cat02_label": {
+              "count": 45,
+              "samples": [
+                "クレジットカード業務，割賦　金融業務の従事者規模別計",
+                "会社",
+                "会社以外の法人・団体",
+                "個人会員数規模別計",
+                "個人経営",
+                "加盟店数規模別計",
+                "専業割合別計",
+                "年間売上高（年間取扱高）規模別計",
+                "従業者規模別計",
+                "経営組織別計"
+              ]
+            }
+          },
+          "value_count": 791,
+          "value_range": "1.0-108777352.0"
+        },
+        {
+          "table_id": "0003014822",
+          "file": "0003014822.csv",
+          "total_rows": 954,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 18,
+              "samples": [
+                "その他業務の年間売上高（従業）(百万円）",
+                "クレジットカード発行枚数",
+                "企業数",
+                "加盟店数",
+                "年間売上高計Ｃ(百万円）",
+                "従事者数（人）",
+                "従業者数Ａ（人）",
+                "従業者１人当たりの年間売上高Ｃ／Ａ（万円）",
+                "調査対象業務の営業収入額(百万円）",
+                "調査対象業務の年間売上高（主業）Ｄ(百万円）"
+              ]
+            },
+            "cat02_label": {
+              "count": 45,
+              "samples": [
+                "クレジットカード業務，割賦　金融業務の従事者規模別計",
+                "会社",
+                "会社以外の法人・団体",
+                "個人会員数規模別計",
+                "個人経営",
+                "加盟店数規模別計",
+                "専業割合別計",
+                "年間売上高（年間取扱高）規模別計",
+                "従業者規模別計",
+                "経営組織別計"
+              ]
+            }
+          },
+          "value_count": 738,
+          "value_range": "1.0-3919782.0"
         },
         {
           "table_id": "0003046410",
@@ -8095,7 +9354,7 @@
         {
           "table_id": "0003411559",
           "file": "0003411559.csv",
-          "total_rows": 1591,
+          "total_rows": 1870,
           "columns": [
             "value",
             "cat01",
@@ -8117,9 +9376,10 @@
             2020,
             2021,
             2022,
-            2023
+            2023,
+            2024
           ],
-          "year_range": "2015-2023",
+          "year_range": "2015-2024",
           "areas": [],
           "area_count": 0,
           "axis_info": {
@@ -8154,13 +9414,13 @@
               ]
             }
           },
-          "value_count": 1553,
-          "value_range": "-848728.0-1576016.0"
+          "value_count": 1810,
+          "value_range": "-919205.0-1605378.0"
         },
         {
           "table_id": "0003411560",
           "file": "0003411560.csv",
-          "total_rows": 225,
+          "total_rows": 250,
           "columns": [
             "value",
             "tab",
@@ -8186,9 +9446,10 @@
             2020,
             2021,
             2022,
-            2023
+            2023,
+            2024
           ],
-          "year_range": "2015-2023",
+          "year_range": "2015-2024",
           "areas": [],
           "area_count": 0,
           "axis_info": {
@@ -8224,13 +9485,13 @@
               ]
             }
           },
-          "value_count": 194,
-          "value_range": "1.0-19714.0"
+          "value_count": 217,
+          "value_range": "1.0-22878.0"
         },
         {
           "table_id": "0003411563",
           "file": "0003411563.csv",
-          "total_rows": 33796,
+          "total_rows": 35784,
           "columns": [
             "value",
             "cat01",
@@ -8261,9 +9522,10 @@
             2020,
             2021,
             2022,
-            2023
+            2023,
+            2024
           ],
-          "year_range": "1995-2023",
+          "year_range": "1995-2024",
           "areas": [
             "さいたま市",
             "三重県",
@@ -8289,8 +9551,8 @@
               ]
             }
           },
-          "value_count": 33072,
-          "value_range": "-848728.0-1576016.0"
+          "value_count": 35019,
+          "value_range": "-919205.0-1605378.0"
         },
         {
           "table_id": "0003411564",
@@ -8317,9 +9579,10 @@
             2020,
             2021,
             2022,
-            2023
+            2023,
+            2024
           ],
-          "year_range": "2015-2023",
+          "year_range": "2015-2024",
           "areas": [
             "あきる野市",
             "あさぎり町",
@@ -8327,22 +9590,21 @@
             "あわら市",
             "いすみ市"
           ],
-          "area_count": 1870,
+          "area_count": 1871,
           "axis_info": {
             "cat01_label": {
-              "count": 6,
+              "count": 5,
               "samples": [
                 "2500g未満出生数",
                 "乳児（１歳未満）死亡数",
                 "出生数",
                 "新生児（生後4週未満）死亡数",
-                "死亡数",
-                "自然死産数"
+                "死亡数"
               ]
             }
           },
-          "value_count": 72346,
-          "value_range": "1.0-139264.0"
+          "value_count": 74056,
+          "value_range": "1.0-140329.0"
         },
         {
           "table_id": "0003411565",
@@ -8378,9 +9640,10 @@
             2020,
             2021,
             2022,
-            2023
+            2023,
+            2024
           ],
-          "year_range": "1995-2023",
+          "year_range": "1995-2024",
           "areas": [
             "0110札幌市(1997_4月新設)_北海道",
             "0136小樽市_北海道",
@@ -8388,7 +9651,7 @@
             "0138旭川市(2000_4月新設)_北海道",
             "0151江別_北海道"
           ],
-          "area_count": 1105,
+          "area_count": 1106,
           "axis_info": {
             "cat01_label": {
               "count": 9,
@@ -8405,8 +9668,8 @@
               ]
             }
           },
-          "value_count": 93526,
-          "value_range": "1.0-139264.0"
+          "value_count": 93299,
+          "value_range": "1.0-140329.0"
         },
         {
           "table_id": "0003419448",
@@ -8619,7 +9882,7 @@
         {
           "table_id": "0003449369",
           "file": "0003449369.csv",
-          "total_rows": 45197,
+          "total_rows": 45340,
           "columns": [
             "value",
             "tab",
@@ -8699,7 +9962,7 @@
               ]
             }
           },
-          "value_count": 44328,
+          "value_count": 44471,
           "value_range": "0.0-6017260.0"
         },
         {
@@ -12586,8 +13849,8 @@
       ]
     },
     "medical": {
-      "file_count": 15,
-      "total_rows": 136792,
+      "file_count": 19,
+      "total_rows": 139340,
       "tables": [
         {
           "table_id": "0003027254",
@@ -12653,6 +13916,225 @@
           },
           "value_count": 9959,
           "value_range": "0.0-1332.6"
+        },
+        {
+          "table_id": "0003027265",
+          "file": "0003027265.csv",
+          "total_rows": 450,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008
+          ],
+          "year_range": "2008-2008",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "推計患者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "入院",
+                "外来"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "一般診療所",
+                "病院",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat04_label": {
+              "count": 25,
+              "samples": [
+                "不詳",
+                "総数",
+                "０歳",
+                "１０～１４歳",
+                "１５～１９歳",
+                "１～４歳",
+                "２０～２４歳",
+                "２５～２９歳",
+                "３０～３４歳",
+                "３５～３９歳"
+              ]
+            }
+          },
+          "value_count": 450,
+          "value_range": "0.0-6865.0"
+        },
+        {
+          "table_id": "0003027283",
+          "file": "0003027283.csv",
+          "total_rows": 354,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008
+          ],
+          "year_range": "2008-2008",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "推計患者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "入院",
+                "外来"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "一般診療所",
+                "病院",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 59,
+              "samples": [
+                "総数",
+                "１　感染症及び寄生虫症",
+                "１　感染症及び寄生虫症(皮膚及び粘膜の病変を伴うウイルス疾患（再掲）)",
+                "１　感染症及び寄生虫症(真菌症（再掲）)",
+                "１　感染症及び寄生虫症(結核（再掲）)",
+                "１　感染症及び寄生虫症(腸管感染症（再掲）)",
+                "１０　呼吸器系の疾患",
+                "１０　呼吸器系の疾患(喘息（再掲）)",
+                "１０　呼吸器系の疾患(急性上気道感染症（再掲）)",
+                "１０　呼吸器系の疾患(急性気管支炎及び急性細気管支炎（再掲）)"
+              ]
+            }
+          },
+          "value_count": 352,
+          "value_range": "0.0-6865.0"
+        },
+        {
+          "table_id": "0003027303",
+          "file": "0003027303.csv",
+          "total_rows": 1200,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008
+          ],
+          "year_range": "2008-2008",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "推計入院患者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 16,
+              "samples": [
+                "一般診療所（一般病床）",
+                "一般診療所（療養病床（介護保険適用病床））",
+                "一般診療所（療養病床（医療保険適用病床））",
+                "一般診療所（療養病床（総数））",
+                "一般診療所（総数）",
+                "病院（一般病床）",
+                "病院（感染症病床）",
+                "病院（療養病床（介護保険適用病床））",
+                "病院（療養病床（医療保険適用病床））",
+                "病院（療養病床（総数））"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 25,
+              "samples": [
+                "不詳",
+                "総数",
+                "０歳",
+                "１０～１４歳",
+                "１５～１９歳",
+                "１～４歳",
+                "２０～２４歳",
+                "２５～２９歳",
+                "３０～３４歳",
+                "３５～３９歳"
+              ]
+            }
+          },
+          "value_count": 1015,
+          "value_range": "0.0-1392.4"
         },
         {
           "table_id": "0003027307",
@@ -12928,6 +14410,76 @@
           },
           "value_count": 1536,
           "value_range": "0.0-8873.7"
+        },
+        {
+          "table_id": "0003031864",
+          "file": "0003031864.csv",
+          "total_rows": 544,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "推計患者数の年次推移"
+              ]
+            },
+            "cat01_label": {
+              "count": 17,
+              "samples": [
+                "平成11年",
+                "平成14年",
+                "平成17年",
+                "平成20年",
+                "平成2年",
+                "平成5年",
+                "平成8年",
+                "昭和30年",
+                "昭和35年",
+                "昭和40年"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "一般診療所",
+                "全　　施　　設",
+                "歯科診療所",
+                "病　　　　　院"
+              ]
+            },
+            "cat03_label": {
+              "count": 8,
+              "samples": [
+                "入院",
+                "入院（新入院）",
+                "入院（繰越入院）",
+                "外来",
+                "外来（再来）",
+                "外来（初診）",
+                "外来（往診（再掲））",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 486,
+          "value_range": "0.1-8873.7"
         },
         {
           "table_id": "0003125474",
@@ -14697,7 +16249,7 @@
     },
     "trade": {
       "file_count": 3,
-      "total_rows": 15173,
+      "total_rows": 15708,
       "tables": [
         {
           "table_id": "0003425293",
@@ -14754,7 +16306,7 @@
         {
           "table_id": "0004002160",
           "file": "0004002160.csv",
-          "total_rows": 5575,
+          "total_rows": 5811,
           "columns": [
             "value",
             "cat01",
@@ -14814,13 +16366,13 @@
               ]
             }
           },
-          "value_count": 5575,
+          "value_count": 5811,
           "value_range": "0.0-0.0"
         },
         {
           "table_id": "0004002163",
           "file": "0004002163.csv",
-          "total_rows": 9547,
+          "total_rows": 9846,
           "columns": [
             "value",
             "cat01",
@@ -14880,7 +16432,7 @@
               ]
             }
           },
-          "value_count": 9547,
+          "value_count": 9846,
           "value_range": "0.0-0.0"
         }
       ]
@@ -15748,8 +17300,8 @@
       ]
     }
   },
-  "total_files": 240,
-  "total_rows": 3259383,
+  "total_files": 264,
+  "total_rows": 3509229,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
@@ -15757,7 +17309,7 @@
     },
     {
       "file": "_dir_census.json",
-      "size_kb": 11.7
+      "size_kb": 20.2
     },
     {
       "file": "_dir_construction.json",
@@ -15773,7 +17325,7 @@
     },
     {
       "file": "_dir_employment.json",
-      "size_kb": 16.8
+      "size_kb": 26.5
     },
     {
       "file": "_dir_energy.json",
@@ -15785,7 +17337,7 @@
     },
     {
       "file": "_dir_macro.json",
-      "size_kb": 96.7
+      "size_kb": 114.7
     },
     {
       "file": "_dir_manufacturing.json",
@@ -15793,7 +17345,7 @@
     },
     {
       "file": "_dir_medical.json",
-      "size_kb": 29.9
+      "size_kb": 37.4
     },
     {
       "file": "_dir_national-census.json",

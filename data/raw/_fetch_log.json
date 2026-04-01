@@ -1,56 +1,58 @@
 {
-  "timestamp": "2026-03-15T18:58:40.685877",
+  "timestamp": "2026-04-01T19:19:26.038113",
   "targets": 48,
-  "total_success": 190,
-  "total_rows": 3058466,
-  "total_errors": 31,
+  "total_success": 193,
+  "total_rows": 2866579,
+  "total_errors": 27,
   "results": [
     {
       "source_id": "estat-population",
       "name": "人口推計",
-      "timestamp": "2026-03-15T18:21:52.093693",
-      "tables_found": 30,
+      "timestamp": "2026-04-01T18:42:25.932515",
+      "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 12498,
+      "total_rows": 4174,
       "files": [
         {
-          "table_id": "0003046410",
-          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
-          "rows": 2490,
-          "file": "data/raw/macro/0003046410.csv"
+          "table_id": "0000150001",
+          "title": "年齢各歳（９２），男女別人口数及び性比－総人口，日本人人口　　　　，全国",
+          "rows": 736,
+          "file": "data/raw/macro/0000150001.csv"
         },
         {
-          "table_id": "0003080204",
-          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
-          "rows": 2490,
-          "file": "data/raw/macro/0003080204.csv"
+          "table_id": "0000150002",
+          "title": "年齢５歳階級（４６），男女別（３），年（５），人口数及び割合－総人口（各年１０月１日現在），全国",
+          "rows": 690,
+          "file": "data/raw/macro/0000150002.csv"
         },
         {
-          "table_id": "0003094423",
-          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
-          "rows": 2490,
-          "file": "data/raw/macro/0003094423.csv"
+          "table_id": "0000150003",
+          "title": "人口の増加要因（２９），男女別人口数－総人口，日本人人口，外国人人口，全国",
+          "rows": 87,
+          "file": "data/raw/macro/0000150003.csv"
         },
         {
-          "table_id": "0003014721",
-          "title": "参考表　年齢（各歳），男女別人口の計算表－総人口，日本人人口",
-          "rows": 2490,
-          "file": "data/raw/macro/0003014721.csv"
+          "table_id": "0000150004",
+          "title": "年齢各歳（９３），男女別（３），人口・死亡者数・入国超過数及び国籍異動による純増－総人口，日本人人口，全国",
+          "rows": 2511,
+          "file": "data/raw/macro/0000150004.csv"
         },
         {
-          "table_id": "0000150271",
-          "title": "[参考表]年齢各歳（９４）、男女別（３）、人口数、死亡者数、入国超過－総人口、日本人人口（９）、人口数、死亡者数、入国超過数及び国籍異動による純増－総人口、日本",
-          "rows": 2538,
-          "file": "data/raw/macro/0000150271.csv"
+          "table_id": "0000150005",
+          "title": "年齢５歳階級（２５），男女別（３），死亡者数－日本人，外国人（平成２年１０月－３年９月），全国",
+          "rows": 150,
+          "file": "data/raw/macro/0000150005.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '人口推計 年齢 男女別 総人口': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-cpi",
       "name": "消費者物価指数",
-      "timestamp": "2026-03-15T18:22:25.844133",
+      "timestamp": "2026-04-01T18:43:09.378437",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -74,16 +76,16 @@
     {
       "source_id": "estat-wage",
       "name": "毎月勤労統計",
-      "timestamp": "2026-03-15T18:22:57.951573",
+      "timestamp": "2026-04-01T18:43:41.331099",
       "tables_found": 35,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 235612,
+      "total_rows": 237904,
       "files": [
         {
           "table_id": "0003411563",
           "title": "中巻 人口動態総覧，都道府県（特別区－指定都市再掲）別(1995年～)",
-          "rows": 33796,
+          "rows": 35784,
           "file": "data/raw/macro/0003411563.csv"
         },
         {
@@ -101,13 +103,13 @@
         {
           "table_id": "0003411559",
           "title": "上巻 人口動態総覧及び平均発生間隔 －対前年比較－",
-          "rows": 1591,
+          "rows": 1870,
           "file": "data/raw/macro/0003411559.csv"
         },
         {
           "table_id": "0003411560",
           "title": "上巻 本報告において別掲とした件数",
-          "rows": 225,
+          "rows": 250,
           "file": "data/raw/macro/0003411560.csv"
         }
       ],
@@ -116,7 +118,7 @@
     {
       "source_id": "estat-housing",
       "name": "住宅着工統計",
-      "timestamp": "2026-03-15T18:23:38.528837",
+      "timestamp": "2026-04-01T18:44:22.018470",
       "tables_found": 29,
       "tables_processed": 5,
       "tables_success": 5,
@@ -158,7 +160,7 @@
     {
       "source_id": "estat-retail",
       "name": "商業動態統計",
-      "timestamp": "2026-03-15T18:24:46.410301",
+      "timestamp": "2026-04-01T18:45:24.898349",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -200,16 +202,16 @@
     {
       "source_id": "estat-labor",
       "name": "労働力調査（失業率）",
-      "timestamp": "2026-03-15T18:25:15.932266",
+      "timestamp": "2026-04-01T18:45:51.694961",
       "tables_found": 28,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 159588,
+      "total_rows": 159803,
       "files": [
         {
           "table_id": "0003005865",
           "title": "労働力人口比率，就業率及び完全失業率（2000年1月～）",
-          "rows": 2493,
+          "rows": 2502,
           "file": "data/raw/macro/0003005865.csv"
         },
         {
@@ -221,7 +223,7 @@
         {
           "table_id": "0002060006",
           "title": "世帯主との続き柄別労働力人口比率，就業率及び完全失業率（1985年1月～）",
-          "rows": 27887,
+          "rows": 27990,
           "file": "data/raw/macro/0002060006.csv"
         },
         {
@@ -233,7 +235,7 @@
         {
           "table_id": "0003006300",
           "title": "世帯の種類別労働力人口比率，就業率及び完全失業率（2000年1月～）",
-          "rows": 29208,
+          "rows": 29311,
           "file": "data/raw/macro/0003006300.csv"
         }
       ],
@@ -242,49 +244,51 @@
     {
       "source_id": "estat-iip",
       "name": "鉱工業指数",
-      "timestamp": "2026-03-15T18:26:10.587498",
-      "tables_found": 30,
+      "timestamp": "2026-04-01T18:47:04.402871",
+      "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 116040,
+      "total_rows": 4641,
       "files": [
         {
-          "table_id": "0003272944",
-          "title": "業種別／月次／季節調整済指数 付加価値額生産（平成22年＝100.0）",
-          "rows": 19500,
-          "file": "data/raw/macro/0003272944.csv"
+          "table_id": "0003014706",
+          "title": "08 映像情報制作・配給業 第１表　企業数、従業者数、従事者数、年間売上高、１企業当たり及び１人当たりの年間売上高 総合統計表",
+          "rows": 559,
+          "file": "data/raw/macro/0003014706.csv"
         },
         {
-          "table_id": "0003272948",
-          "title": "業種別／月次／原指数 付加価値額生産（平成22年＝100.0）",
-          "rows": 19500,
-          "file": "data/raw/macro/0003272948.csv"
+          "table_id": "0003014819",
+          "title": "09 クレジットカード業，割賦金融業 第１表　企業数、従業者数、従事者数、加盟店数、クレジットカード発行枚数、年間売上高（年間取扱高）及び営業収入額 総合統計表",
+          "rows": 1220,
+          "file": "data/raw/macro/0003014819.csv"
         },
         {
-          "table_id": "0003272952",
-          "title": "財別／月次／季節調整済指数 付加価値額生産（平成22年＝100.0）",
-          "rows": 13520,
-          "file": "data/raw/macro/0003272952.csv"
+          "table_id": "0003014820",
+          "title": "09 クレジットカード業，割賦金融業 第１-１表　会社系統別の企業数、従業者数、従事者数、加盟店数、クレジットカード発行枚数、年間売上高（年間取扱高）及び営業収",
+          "rows": 954,
+          "file": "data/raw/macro/0003014820.csv"
         },
         {
-          "table_id": "0003272956",
-          "title": "財別／月次／原指数 付加価値額生産（平成22年＝100.0）",
-          "rows": 13520,
-          "file": "data/raw/macro/0003272956.csv"
+          "table_id": "0003014821",
+          "title": "09 クレジットカード業，割賦金融業 第１-２表　会社系統別の企業数、従業者数、従事者数、加盟店数、クレジットカード発行枚数、年間売上高（年間取扱高）及び営業収",
+          "rows": 954,
+          "file": "data/raw/macro/0003014821.csv"
         },
         {
-          "table_id": "0003272960",
-          "title": "品目別／月次／季節調整済指数 付加価値額生産（平成22年＝100.0）",
-          "rows": 50000,
-          "file": "data/raw/macro/0003272960.csv"
+          "table_id": "0003014822",
+          "title": "09 クレジットカード業，割賦金融業 第１-３表　会社系統別の企業数、従業者数、従事者数、加盟店数、クレジットカード発行枚数、年間売上高（年間取扱高）及び営業収",
+          "rows": 954,
+          "file": "data/raw/macro/0003014822.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '鉱工業 生産 出荷 在庫': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-household",
       "name": "家計調査",
-      "timestamp": "2026-03-15T18:26:53.894063",
+      "timestamp": "2026-04-01T18:48:02.991989",
       "tables_found": 29,
       "tables_processed": 5,
       "tables_success": 5,
@@ -326,24 +330,36 @@
     {
       "source_id": "estat-census-activity",
       "name": "経済センサス-活動調査",
-      "timestamp": "2026-03-15T18:27:55.047493",
-      "tables_found": 30,
+      "timestamp": "2026-04-01T18:49:03.631227",
+      "tables_found": 50,
       "tables_processed": 5,
-      "tables_success": 0,
-      "total_rows": 0,
-      "files": [],
+      "tables_success": 2,
+      "total_rows": 200000,
+      "files": [
+        {
+          "table_id": "0003085699",
+          "title": "産業（大分類），経営組織（５区分）別民営事業所数，従業者数，売上（収入）金額，１事業所当たり従業者数，１事業所当たり売上(収入)金額及び従業者１人当たり売上(収",
+          "rows": 100000,
+          "file": "data/raw/census/0003085699.csv"
+        },
+        {
+          "table_id": "0003085525",
+          "title": "産業（中分類）別民営事業所数及び１事業所当たり従業者数－都道府県，市区町村",
+          "rows": 100000,
+          "file": "data/raw/census/0003085525.csv"
+        }
+      ],
       "errors": [
-        "0003216724: dict contains fields not in fieldnames: 'unit'",
-        "0003413553: dict contains fields not in fieldnames: 'unit'",
-        "0003389782: dict contains fields not in fieldnames: 'unit'",
-        "0003389783: dict contains fields not in fieldnames: 'unit'",
-        "0003389413: dict contains fields not in fieldnames: 'unit'"
+        "Search '経済センサス 活動調査 産業別 事業所数 従業者数': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
+        "0003085552: dict contains fields not in fieldnames: 'unit'",
+        "0003085698: dict contains fields not in fieldnames: 'unit'",
+        "0003085523: dict contains fields not in fieldnames: 'unit'"
       ]
     },
     {
       "source_id": "estat-census-basic",
       "name": "経済センサス-基礎調査",
-      "timestamp": "2026-03-15T18:28:38.630367",
+      "timestamp": "2026-04-01T18:50:13.532958",
       "tables_found": 1,
       "tables_processed": 1,
       "tables_success": 1,
@@ -361,7 +377,7 @@
     {
       "source_id": "estat-trade",
       "name": "貿易統計",
-      "timestamp": "2026-03-15T18:29:04.802823",
+      "timestamp": "2026-04-01T18:50:38.001499",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 0,
@@ -378,7 +394,7 @@
     {
       "source_id": "estat-corp-finance",
       "name": "法人企業統計",
-      "timestamp": "2026-03-15T18:35:04.117077",
+      "timestamp": "2026-04-01T18:56:31.903742",
       "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
@@ -420,208 +436,199 @@
     {
       "source_id": "estat-manufacturing",
       "name": "生産動態統計",
-      "timestamp": "2026-03-15T18:35:33.814209",
-      "tables_found": 87,
+      "timestamp": "2026-04-01T18:57:14.927721",
+      "tables_found": 297,
       "tables_processed": 30,
       "tables_success": 30,
-      "total_rows": 18150,
+      "total_rows": 52150,
       "files": [
         {
-          "table_id": "0003104133",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （１）製品年計表 １）パルプ",
-          "rows": 80,
-          "file": "data/raw/manufacturing/0003104133.csv"
+          "table_id": "0003097058",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 133,
+          "file": "data/raw/manufacturing/0003097058.csv"
         },
         {
-          "table_id": "0003104134",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （１）製品年計表 ２）紙",
-          "rows": 215,
-          "file": "data/raw/manufacturing/0003104134.csv"
+          "table_id": "0003097059",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （９）写真感光材料",
+          "rows": 7,
+          "file": "data/raw/manufacturing/0003097059.csv"
         },
         {
-          "table_id": "0003104135",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （１）製品年計表 ３）板紙",
-          "rows": 80,
-          "file": "data/raw/manufacturing/0003104135.csv"
+          "table_id": "0003097060",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （10）油脂製品、石けん・合成洗剤等及び界面活性剤",
+          "rows": 294,
+          "file": "data/raw/manufacturing/0003097060.csv"
         },
         {
-          "table_id": "0003104136",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （１）製品年計表 ４）段ボール",
-          "rows": 28,
-          "file": "data/raw/manufacturing/0003104136.csv"
+          "table_id": "0003097154",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （２）無機薬品・火薬類",
+          "rows": 168,
+          "file": "data/raw/manufacturing/0003097154.csv"
         },
         {
-          "table_id": "0003104137",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （１）製品年計表 ４）段ボールの消費（次工程投入）部門別内訳と段ボール箱等の生産金額",
-          "rows": 13,
-          "file": "data/raw/manufacturing/0003104137.csv"
+          "table_id": "0003097155",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （３）触媒",
+          "rows": 77,
+          "file": "data/raw/manufacturing/0003097155.csv"
         },
         {
-          "table_id": "0003104138",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （２）製品時系列表 １）パルプ",
-          "rows": 1840,
-          "file": "data/raw/manufacturing/0003104138.csv"
+          "table_id": "0003097156",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （６）有機薬品",
+          "rows": 273,
+          "file": "data/raw/manufacturing/0003097156.csv"
         },
         {
-          "table_id": "0003104139",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （２）製品時系列表 ２）紙",
-          "rows": 4945,
-          "file": "data/raw/manufacturing/0003104139.csv"
+          "table_id": "0003097157",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （12）塗料及び印刷インキ",
+          "rows": 259,
+          "file": "data/raw/manufacturing/0003097157.csv"
         },
         {
-          "table_id": "0003104140",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （２）製品時系列表 ３）板紙",
-          "rows": 1840,
-          "file": "data/raw/manufacturing/0003104140.csv"
+          "table_id": "0003097158",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （２）無機薬品・火薬類",
+          "rows": 3864,
+          "file": "data/raw/manufacturing/0003097158.csv"
         },
         {
-          "table_id": "0003104141",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （２）製品時系列表 ４）段ボール",
-          "rows": 644,
-          "file": "data/raw/manufacturing/0003104141.csv"
+          "table_id": "0003097167",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （４）高圧ガス",
+          "rows": 119,
+          "file": "data/raw/manufacturing/0003097167.csv"
         },
         {
-          "table_id": "0003104165",
-          "title": "平成24年 紙・パルプ統計 １．製品統計 （２）製品時系列表 ４）段ボールの消費（次工程投入）部門別内訳と段ボール箱等の生産金額",
-          "rows": 299,
-          "file": "data/raw/manufacturing/0003104165.csv"
+          "table_id": "0003097168",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （８）合成ゴム",
+          "rows": 70,
+          "file": "data/raw/manufacturing/0003097168.csv"
         },
         {
-          "table_id": "0003104166",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （１）原材料年計表 １）パルプ",
-          "rows": 22,
-          "file": "data/raw/manufacturing/0003104166.csv"
+          "table_id": "0003097172",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （３）触媒",
+          "rows": 1771,
+          "file": "data/raw/manufacturing/0003097172.csv"
         },
         {
-          "table_id": "0003104167",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （１）原材料年計表 ２）紙・板紙",
-          "rows": 80,
-          "file": "data/raw/manufacturing/0003104167.csv"
+          "table_id": "0003097183",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （５）石油系芳香族・コールタール製品・環式中間物及び合成染料",
+          "rows": 154,
+          "file": "data/raw/manufacturing/0003097183.csv"
         },
         {
-          "table_id": "0003104168",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （１）原材料年計表 ３）段ボール",
-          "rows": 3,
-          "file": "data/raw/manufacturing/0003104168.csv"
+          "table_id": "0003097184",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （７）プラスチック",
+          "rows": 371,
+          "file": "data/raw/manufacturing/0003097184.csv"
         },
         {
-          "table_id": "0003104169",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （２）原材料時系列表 １）パルプ",
-          "rows": 506,
-          "file": "data/raw/manufacturing/0003104169.csv"
+          "table_id": "0003097185",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （11）化粧品",
+          "rows": 266,
+          "file": "data/raw/manufacturing/0003097185.csv"
         },
         {
-          "table_id": "0003104170",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （２）原材料時系列表 ２）紙・板紙",
-          "rows": 1840,
-          "file": "data/raw/manufacturing/0003104170.csv"
+          "table_id": "0003097186",
+          "title": "平成24年 生産・出荷・在庫統計 １．製品年表 （特掲）石油化学製品",
+          "rows": 406,
+          "file": "data/raw/manufacturing/0003097186.csv"
         },
         {
-          "table_id": "0003104171",
-          "title": "平成24年 紙・パルプ統計 ２．原材料統計 （２）原材料時系列表 ３）段ボール",
-          "rows": 69,
-          "file": "data/raw/manufacturing/0003104171.csv"
+          "table_id": "0003097190",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （４）高圧ガス",
+          "rows": 2737,
+          "file": "data/raw/manufacturing/0003097190.csv"
         },
         {
-          "table_id": "0003104172",
-          "title": "平成24年 紙・パルプ統計 ３．生産能力統計 （１）パルプ",
-          "rows": 238,
-          "file": "data/raw/manufacturing/0003104172.csv"
+          "table_id": "0003097191",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （５）石油系芳香族・コールタール製品・環式中間物及び合成染料",
+          "rows": 3542,
+          "file": "data/raw/manufacturing/0003097191.csv"
         },
         {
-          "table_id": "0003104173",
-          "title": "平成24年 紙・パルプ統計 ３．生産能力統計 （２）紙",
-          "rows": 170,
-          "file": "data/raw/manufacturing/0003104173.csv"
+          "table_id": "0003097192",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （６）有機薬品",
+          "rows": 6279,
+          "file": "data/raw/manufacturing/0003097192.csv"
         },
         {
-          "table_id": "0003104174",
-          "title": "平成24年 紙・パルプ統計 ３．生産能力統計 （３）板紙",
-          "rows": 170,
-          "file": "data/raw/manufacturing/0003104174.csv"
+          "table_id": "0003097202",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 3059,
+          "file": "data/raw/manufacturing/0003097202.csv"
         },
         {
-          "table_id": "0003104185",
-          "title": "平成24年 紙・パルプ統計 ３．生産能力統計 （４）段ボール",
-          "rows": 34,
-          "file": "data/raw/manufacturing/0003104185.csv"
+          "table_id": "0003097221",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （７）プラスチック",
+          "rows": 8533,
+          "file": "data/raw/manufacturing/0003097221.csv"
         },
         {
-          "table_id": "0003104186",
-          "title": "平成24年 紙・パルプ統計 ４．労務統計",
-          "rows": 68,
-          "file": "data/raw/manufacturing/0003104186.csv"
+          "table_id": "0003097399",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （10）油脂製品、石けん・合成洗剤等及び界面活性剤",
+          "rows": 5106,
+          "file": "data/raw/manufacturing/0003097399.csv"
         },
         {
-          "table_id": "0003119584",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （２）製品時系列表 １）パルプ",
-          "rows": 1840,
-          "file": "data/raw/manufacturing/0003119584.csv"
+          "table_id": "0003097427",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （８）合成ゴム",
+          "rows": 1610,
+          "file": "data/raw/manufacturing/0003097427.csv"
         },
         {
-          "table_id": "0003119601",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （１）製品年計表 １）パルプ",
-          "rows": 80,
-          "file": "data/raw/manufacturing/0003119601.csv"
+          "table_id": "0003097432",
+          "title": "平成24年 生産能力統計 （１）化学肥料・石灰及びソーダ工業製品",
+          "rows": 195,
+          "file": "data/raw/manufacturing/0003097432.csv"
         },
         {
-          "table_id": "0003119602",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （１）製品年計表 ４）段ボール",
-          "rows": 28,
-          "file": "data/raw/manufacturing/0003119602.csv"
+          "table_id": "0003097441",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （９）写真感光材料",
+          "rows": 161,
+          "file": "data/raw/manufacturing/0003097441.csv"
         },
         {
-          "table_id": "0003119603",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （２）製品時系列表 ３）板紙",
-          "rows": 1840,
-          "file": "data/raw/manufacturing/0003119603.csv"
+          "table_id": "0003097450",
+          "title": "平成24年 原材料統計 （触媒）",
+          "rows": 153,
+          "file": "data/raw/manufacturing/0003097450.csv"
         },
         {
-          "table_id": "0003119631",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （１）製品年計表 ２）紙",
-          "rows": 215,
-          "file": "data/raw/manufacturing/0003119631.csv"
+          "table_id": "0003097463",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （11）化粧品",
+          "rows": 6118,
+          "file": "data/raw/manufacturing/0003097463.csv"
         },
         {
-          "table_id": "0003119632",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （１）製品年計表 ４）段ボールの消費（次工程投入）部門別内訳と段ボール箱等の生産金額",
-          "rows": 13,
-          "file": "data/raw/manufacturing/0003119632.csv"
+          "table_id": "0003097464",
+          "title": "平成24年 生産・出荷・在庫統計 ２．製品統計表（時系列） （12）塗料及び印刷インキ",
+          "rows": 5957,
+          "file": "data/raw/manufacturing/0003097464.csv"
         },
         {
-          "table_id": "0003119633",
-          "title": "平成25年 紙・パルプ統計 １．生産・出荷・在庫統計 （２）製品時系列表 ４）段ボール",
-          "rows": 644,
-          "file": "data/raw/manufacturing/0003119633.csv"
+          "table_id": "0003097467",
+          "title": "平成24年 生産能力統計 （２）無機薬品・火薬類",
+          "rows": 364,
+          "file": "data/raw/manufacturing/0003097467.csv"
         },
         {
-          "table_id": "0003119635",
-          "title": "平成25年 紙・パルプ統計 ４．生産能力統計 （１）パルプ",
-          "rows": 238,
-          "file": "data/raw/manufacturing/0003119635.csv"
+          "table_id": "0003097468",
+          "title": "平成24年 生産能力統計 （３）高圧ガス",
+          "rows": 78,
+          "file": "data/raw/manufacturing/0003097468.csv"
         },
         {
-          "table_id": "0003119636",
-          "title": "平成25年 紙・パルプ統計 ３．労務統計",
-          "rows": 68,
-          "file": "data/raw/manufacturing/0003119636.csv"
+          "table_id": "0003097469",
+          "title": "平成24年 生産能力統計 （８）写真感光材料",
+          "rows": 26,
+          "file": "data/raw/manufacturing/0003097469.csv"
         }
       ],
-      "errors": [
-        "Search '生産動態統計 年報 化学工業': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 鉄鋼': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 電子部品': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 機械': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 非鉄金属': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 ゴム製品': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 プラスチック': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "Search '生産動態統計 年報 石油': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     },
     {
       "source_id": "estat-wage-structure",
       "name": "賃金構造基本統計",
-      "timestamp": "2026-03-15T18:41:34.675289",
+      "timestamp": "2026-04-01T19:02:23.811834",
       "tables_found": 31,
       "tables_processed": 5,
       "tables_success": 5,
@@ -663,7 +670,7 @@
     {
       "source_id": "estat-employment-trend",
       "name": "雇用動向調査",
-      "timestamp": "2026-03-15T18:43:17.117792",
+      "timestamp": "2026-04-01T19:04:07.505378",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -687,50 +694,52 @@
     {
       "source_id": "estat-employment-structure",
       "name": "就業構造基本調査",
-      "timestamp": "2026-03-15T18:43:33.765435",
-      "tables_found": 22,
+      "timestamp": "2026-04-01T19:04:22.018918",
+      "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 323520,
+      "total_rows": 11382,
       "files": [
         {
-          "table_id": "0003005472",
-          "title": "前職の離職時期，年齢，男女，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（平成14年10月以降に前職を辞めた転職就業者及",
-          "rows": 100000,
-          "file": "data/raw/employment/0003005472.csv"
+          "table_id": "0000140001",
+          "title": "男女別（３），就業状態（１１），年齢（１４），一般・単身世帯・世帯主との続柄（７），１５歳以上人口，全国（１）",
+          "rows": 3234,
+          "file": "data/raw/employment/0000140001.csv"
         },
         {
-          "table_id": "0003005473",
-          "title": "前職の離職時期，年齢，男女，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（平成14年10月以降に前職を辞めた転職就業者及",
-          "rows": 100000,
-          "file": "data/raw/employment/0003005473.csv"
+          "table_id": "0000140002",
+          "title": "男女別（３），就業状態（１１），年齢（１４），配偶関係（４），１５歳以上人口，全国（１）",
+          "rows": 1848,
+          "file": "data/raw/employment/0000140002.csv"
         },
         {
-          "table_id": "0003004104",
-          "title": "年齢，男女，就業状態，前職の離職時期，前職の産業別15歳以上人口（平成18年10月以降に前職を辞めた転職就業者及び離職非就業者）",
-          "rows": 13020,
-          "file": "data/raw/employment/0003004104.csv"
+          "table_id": "0000140003",
+          "title": "男女別・配偶関係（４），就業状態（１１），年齢（１４），教育（７），１５歳以上人口，全国（１）",
+          "rows": 4312,
+          "file": "data/raw/employment/0000140003.csv"
         },
         {
-          "table_id": "0003004106",
-          "title": "男女，年齢，就業状態，前職の従業上の地位，前職の雇用形態，前職の産業別15歳以上人口（平成18年10月以降に前職を辞めた転職就業者及び離職非就業者）",
-          "rows": 10500,
-          "file": "data/raw/employment/0003004106.csv"
+          "table_id": "0000140004",
+          "title": "男女別・配偶関係（４），就業状態（１１），平均年齢（１），平均年齢，全国（１）",
+          "rows": 44,
+          "file": "data/raw/employment/0000140004.csv"
         },
         {
-          "table_id": "0003004537",
-          "title": "男女，配偶関係，就業状態，就業希望の有無，求職活動の有無，前職の離職理由，前職の産業別15歳以上人口（転職就業者及び離職非就業者）",
-          "rows": 100000,
-          "file": "data/raw/employment/0003004537.csv"
+          "table_id": "0000140005",
+          "title": "就業状態（３），従業上の地位・雇用形態（１８），男女別（３），年齢（１２），有業者数，全国（１）",
+          "rows": 1944,
+          "file": "data/raw/employment/0000140005.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '就業構造基本調査 産業別 就業者': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-national-census",
       "name": "国勢調査",
-      "timestamp": "2026-03-15T18:44:42.551692",
-      "tables_found": 51,
+      "timestamp": "2026-04-01T19:05:05.785826",
+      "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
       "total_rows": 30276,
@@ -766,12 +775,14 @@
           "file": "data/raw/national-census/0004008860.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '国勢調査 産業 職業': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-service",
       "name": "サービス産業動向調査",
-      "timestamp": "2026-03-15T18:45:29.242743",
+      "timestamp": "2026-04-01T19:06:04.691587",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -813,7 +824,7 @@
     {
       "source_id": "estat-ict",
       "name": "情報通信業基本調査",
-      "timestamp": "2026-03-15T18:45:57.024110",
+      "timestamp": "2026-04-01T19:06:35.018885",
       "tables_found": 16,
       "tables_processed": 5,
       "tables_success": 5,
@@ -855,58 +866,65 @@
     {
       "source_id": "estat-rd",
       "name": "科学技術研究調査",
-      "timestamp": "2026-03-15T18:46:22.791109",
-      "tables_found": 1,
-      "tables_processed": 1,
+      "timestamp": "2026-04-01T19:07:05.515304",
+      "tables_found": 0,
+      "tables_processed": 0,
       "tables_success": 0,
       "total_rows": 0,
       "files": [],
       "errors": [
-        "0003325664: dict contains fields not in fieldnames: 'unit'"
+        "Search '科学技術研究調査 産業別 研究費 研究者数': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
+        "No tables found"
       ]
     },
     {
       "source_id": "estat-medical",
       "name": "医療施設調査",
-      "timestamp": "2026-03-15T18:46:43.725808",
-      "tables_found": 30,
+      "timestamp": "2026-04-01T19:07:36.188564",
+      "tables_found": 50,
       "tables_processed": 5,
-      "tables_success": 4,
-      "total_rows": 216,
+      "tables_success": 5,
+      "total_rows": 3492,
       "files": [
         {
-          "table_id": "0003125474",
-          "title": "療養病床を有する施設数，療養病床の規模別",
-          "rows": 54,
-          "file": "data/raw/medical/0003125474.csv"
+          "table_id": "0003031864",
+          "title": "推計患者数の年次推移，入院－外来の種別×施設の種類別",
+          "rows": 544,
+          "file": "data/raw/medical/0003031864.csv"
         },
         {
-          "table_id": "0003154342",
-          "title": "療養病床を有する施設数，療養病床の規模・施設の種類別",
-          "rows": 54,
-          "file": "data/raw/medical/0003154342.csv"
+          "table_id": "0003027265",
+          "title": "推計患者数，入院－外来×性・年齢階級×病院－一般診療所別",
+          "rows": 450,
+          "file": "data/raw/medical/0003027265.csv"
         },
         {
-          "table_id": "0003211380",
-          "title": "療養病床を有する施設数，療養病床の規模・施設の種類別",
-          "rows": 54,
-          "file": "data/raw/medical/0003211380.csv"
+          "table_id": "0003027283",
+          "title": "推計患者数，入院－外来×傷病分類×病院－一般診療所別",
+          "rows": 354,
+          "file": "data/raw/medical/0003027283.csv"
         },
         {
-          "table_id": "0003403632",
-          "title": "第２７表　療養病床を有する施設数，療養病床の規模・施設の種類別",
-          "rows": 54,
-          "file": "data/raw/medical/0003403632.csv"
+          "table_id": "0003027303",
+          "title": "推計入院患者数，病院－一般診療所・病床の種類×性・年齢階級別",
+          "rows": 1200,
+          "file": "data/raw/medical/0003027303.csv"
+        },
+        {
+          "table_id": "0003027317",
+          "title": "推計入院患者数，病院－一般診療所・病床の種類×傷病分類別",
+          "rows": 944,
+          "file": "data/raw/medical/0003027317.csv"
         }
       ],
       "errors": [
-        "0003300645: dict contains fields not in fieldnames: 'unit'"
+        "Search '医療施設調査 病院 診療所 施設数': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
       ]
     },
     {
       "source_id": "estat-patient",
       "name": "患者調査",
-      "timestamp": "2026-03-15T18:47:07.153317",
+      "timestamp": "2026-04-01T19:08:18.030065",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -948,7 +966,7 @@
     {
       "source_id": "estat-care",
       "name": "介護サービス施設調査",
-      "timestamp": "2026-03-15T18:47:34.810031",
+      "timestamp": "2026-04-01T19:08:43.151207",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -961,7 +979,7 @@
     {
       "source_id": "estat-pharma",
       "name": "薬事工業生産動態統計",
-      "timestamp": "2026-03-15T18:47:44.625327",
+      "timestamp": "2026-04-01T19:08:51.136612",
       "tables_found": 13,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1003,7 +1021,7 @@
     {
       "source_id": "estat-medical-cost",
       "name": "社会医療診療行為別統計",
-      "timestamp": "2026-03-15T18:48:13.925085",
+      "timestamp": "2026-04-01T19:09:20.489981",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1016,7 +1034,7 @@
     {
       "source_id": "estat-agri-census",
       "name": "農林業センサス",
-      "timestamp": "2026-03-15T18:48:20.979816",
+      "timestamp": "2026-04-01T19:09:27.605393",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1058,7 +1076,7 @@
     {
       "source_id": "estat-fishery-census",
       "name": "漁業センサス",
-      "timestamp": "2026-03-15T18:48:50.769791",
+      "timestamp": "2026-04-01T19:09:55.228831",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1100,7 +1118,7 @@
     {
       "source_id": "estat-crop",
       "name": "作物統計",
-      "timestamp": "2026-03-15T18:49:35.309040",
+      "timestamp": "2026-04-01T19:10:37.072833",
       "tables_found": 23,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1142,7 +1160,7 @@
     {
       "source_id": "estat-transport-auto",
       "name": "自動車輸送統計",
-      "timestamp": "2026-03-15T18:50:05.545584",
+      "timestamp": "2026-04-01T19:11:10.099684",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1155,7 +1173,7 @@
     {
       "source_id": "estat-port",
       "name": "港湾統計",
-      "timestamp": "2026-03-15T18:50:15.116901",
+      "timestamp": "2026-04-01T19:11:19.172884",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1168,7 +1186,7 @@
     {
       "source_id": "estat-railway",
       "name": "鉄道輸送統計",
-      "timestamp": "2026-03-15T18:50:22.288025",
+      "timestamp": "2026-04-01T19:11:38.428170",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1181,7 +1199,7 @@
     {
       "source_id": "estat-hotel",
       "name": "宿泊旅行統計",
-      "timestamp": "2026-03-15T18:50:29.924193",
+      "timestamp": "2026-04-01T19:11:46.556772",
       "tables_found": 18,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1223,7 +1241,7 @@
     {
       "source_id": "estat-construction-order",
       "name": "建設工事受注動態統計",
-      "timestamp": "2026-03-15T18:50:50.776943",
+      "timestamp": "2026-04-01T19:12:05.952684",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1265,11 +1283,11 @@
     {
       "source_id": "estat-building-starts",
       "name": "建築着工統計",
-      "timestamp": "2026-03-15T18:51:54.634071",
+      "timestamp": "2026-04-01T19:13:11.417348",
       "tables_found": 26,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 105510,
+      "total_rows": 105558,
       "files": [
         {
           "table_id": "0003125915",
@@ -1292,7 +1310,7 @@
         {
           "table_id": "0003126568",
           "title": "燃料消費量等 用途別、油種別燃料消費量",
-          "rows": 10752,
+          "rows": 10800,
           "file": "data/raw/construction/0003126568.csv"
         },
         {
@@ -1307,7 +1325,7 @@
     {
       "source_id": "estat-energy",
       "name": "資源エネルギー統計",
-      "timestamp": "2026-03-15T18:52:36.117084",
+      "timestamp": "2026-04-01T19:13:41.890284",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1349,7 +1367,7 @@
     {
       "source_id": "estat-oil",
       "name": "石油製品需給動態統計",
-      "timestamp": "2026-03-15T18:53:01.717771",
+      "timestamp": "2026-04-01T19:14:09.513394",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -1373,7 +1391,7 @@
     {
       "source_id": "estat-school",
       "name": "学校基本調査",
-      "timestamp": "2026-03-15T18:53:25.925135",
+      "timestamp": "2026-04-01T19:14:29.812693",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1415,7 +1433,7 @@
     {
       "source_id": "estat-econ-structure",
       "name": "経済構造実態調査",
-      "timestamp": "2026-03-15T18:53:56.441155",
+      "timestamp": "2026-04-01T19:14:56.964920",
       "tables_found": 22,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1457,7 +1475,7 @@
     {
       "source_id": "estat-corp-activity",
       "name": "企業活動基本調査",
-      "timestamp": "2026-03-15T18:54:26.576244",
+      "timestamp": "2026-04-01T19:15:26.065837",
       "tables_found": 16,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1499,7 +1517,7 @@
     {
       "source_id": "estat-sme",
       "name": "中小企業実態基本調査",
-      "timestamp": "2026-03-15T18:54:53.605882",
+      "timestamp": "2026-04-01T19:15:53.386763",
       "tables_found": 24,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1541,7 +1559,7 @@
     {
       "source_id": "estat-overseas",
       "name": "海外事業活動基本調査",
-      "timestamp": "2026-03-15T18:55:26.468168",
+      "timestamp": "2026-04-01T19:16:27.818585",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1554,7 +1572,7 @@
     {
       "source_id": "estat-household-structure",
       "name": "全国家計構造調査",
-      "timestamp": "2026-03-15T18:55:34.003021",
+      "timestamp": "2026-04-01T19:16:35.248879",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 2,
@@ -1582,7 +1600,7 @@
     {
       "source_id": "estat-individual-biz",
       "name": "個人企業経済調査",
-      "timestamp": "2026-03-15T18:56:08.871382",
+      "timestamp": "2026-04-01T19:17:08.106272",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1624,11 +1642,11 @@
     {
       "source_id": "estat-retail-price",
       "name": "小売物価統計調査",
-      "timestamp": "2026-03-15T18:56:43.846323",
+      "timestamp": "2026-04-01T19:17:46.167019",
       "tables_found": 3,
       "tables_processed": 3,
       "tables_success": 3,
-      "total_rows": 98739,
+      "total_rows": 98882,
       "files": [
         {
           "table_id": "0003449368",
@@ -1639,7 +1657,7 @@
         {
           "table_id": "0003449369",
           "title": "全国統一価格品目の月別価格－全国(2000年2月～)",
-          "rows": 45197,
+          "rows": 45340,
           "file": "data/raw/macro/0003449369.csv"
         },
         {
@@ -1654,7 +1672,7 @@
     {
       "source_id": "estat-ict-usage",
       "name": "通信利用動向調査",
-      "timestamp": "2026-03-15T18:57:39.666853",
+      "timestamp": "2026-04-01T19:18:29.785012",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1667,7 +1685,7 @@
     {
       "source_id": "estat-bsi",
       "name": "法人企業景気予測調査",
-      "timestamp": "2026-03-15T18:57:46.796426",
+      "timestamp": "2026-04-01T19:18:37.715623",
       "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1709,7 +1727,7 @@
     {
       "source_id": "estat-environment",
       "name": "環境統計",
-      "timestamp": "2026-03-15T18:58:07.336603",
+      "timestamp": "2026-04-01T19:18:55.663113",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1722,7 +1740,7 @@
     {
       "source_id": "estat-crime",
       "name": "犯罪統計",
-      "timestamp": "2026-03-15T18:58:15.601710",
+      "timestamp": "2026-04-01T19:19:01.833693",
       "tables_found": 4,
       "tables_processed": 4,
       "tables_success": 4,

@@ -1,8 +1,433 @@
 {
   "directory": "employment",
-  "updated": "2026-03-15",
-  "file_count": 7,
+  "updated": "2026-04-01",
+  "file_count": 12,
   "tables": [
+    {
+      "table_id": "0000140001",
+      "rows": 3234,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "cat04",
+        "cat04_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "1987-1987",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 3,
+          "samples": [
+            "　女",
+            "　男",
+            "男女計"
+          ]
+        },
+        "cat02_label": {
+          "count": 11,
+          "samples": [
+            "　　　家事が主な者",
+            "　　　家事・通学以外が主な者",
+            "　　　通学が主な者",
+            "　　その他",
+            "　　仕事が主な者",
+            "　　仕事が従な者",
+            "　　家事をしている者",
+            "　　通学している者",
+            "　有業者",
+            "　無業者",
+            "総数"
+          ]
+        },
+        "cat03_label": {
+          "count": 14,
+          "samples": [
+            "15歳以上",
+            "15～19歳",
+            "20～24歳",
+            "25～29歳",
+            "30～34歳",
+            "35～39歳",
+            "40～44歳",
+            "45～49歳",
+            "50～54歳",
+            "55～59歳",
+            "60～64歳",
+            "65～69歳",
+            "70～74歳",
+            "75歳以上"
+          ]
+        },
+        "cat04_label": {
+          "count": 7,
+          "samples": [
+            "　　その他の親族世帯員",
+            "　　世帯主",
+            "　　世帯主の配偶者",
+            "　　非親族世帯員",
+            "　一般世帯",
+            "　単身世帯",
+            "総数"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "1987年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0000140002",
+      "rows": 1848,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "cat04",
+        "cat04_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "1987-1987",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 3,
+          "samples": [
+            "　女",
+            "　男",
+            "男女計"
+          ]
+        },
+        "cat02_label": {
+          "count": 11,
+          "samples": [
+            "　　　家事が主な者",
+            "　　　家事・通学以外が主な者",
+            "　　　通学が主な者",
+            "　　その他",
+            "　　仕事が主な者",
+            "　　仕事が従な者",
+            "　　家事をしている者",
+            "　　通学している者",
+            "　有業者",
+            "　無業者",
+            "総数"
+          ]
+        },
+        "cat03_label": {
+          "count": 14,
+          "samples": [
+            "15歳以上",
+            "15～19歳",
+            "20～24歳",
+            "25～29歳",
+            "30～34歳",
+            "35～39歳",
+            "40～44歳",
+            "45～49歳",
+            "50～54歳",
+            "55～59歳",
+            "60～64歳",
+            "65～69歳",
+            "70～74歳",
+            "75歳以上"
+          ]
+        },
+        "cat04_label": {
+          "count": 4,
+          "samples": [
+            "　有配偶",
+            "　未婚",
+            "　死別・離別",
+            "総数"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "1987年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0000140003",
+      "rows": 4312,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "cat04",
+        "cat04_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "1987-1987",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "　女",
+            "　男",
+            "うち女子有配偶者",
+            "男女計"
+          ]
+        },
+        "cat02_label": {
+          "count": 11,
+          "samples": [
+            "　　　家事が主な者",
+            "　　　家事・通学以外が主な者",
+            "　　　通学が主な者",
+            "　　その他",
+            "　　仕事が主な者",
+            "　　仕事が従な者",
+            "　　家事をしている者",
+            "　　通学している者",
+            "　有業者",
+            "　無業者",
+            "総数"
+          ]
+        },
+        "cat03_label": {
+          "count": 14,
+          "samples": [
+            "15歳以上",
+            "15～19歳",
+            "20～24歳",
+            "25～29歳",
+            "30～34歳",
+            "35～39歳",
+            "40～44歳",
+            "45～49歳",
+            "50～54歳",
+            "55～59歳",
+            "60～64歳",
+            "65～69歳",
+            "70～74歳",
+            "75歳以上"
+          ]
+        },
+        "cat04_label": {
+          "count": 7,
+          "samples": [
+            "　　大学・大学院",
+            "　　小学・中学",
+            "　　短大・高専",
+            "　　高校・旧中",
+            "　卒業者",
+            "　在学者",
+            "総数"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "1987年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0000140004",
+      "rows": 44,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "1987-1987",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "　女",
+            "　男",
+            "うち女子有配偶者",
+            "男女計"
+          ]
+        },
+        "cat02_label": {
+          "count": 11,
+          "samples": [
+            "　　　家事が主な者",
+            "　　　家事・通学以外が主な者",
+            "　　　通学が主な者",
+            "　　その他",
+            "　　仕事が主な者",
+            "　　仕事が従な者",
+            "　　家事をしている者",
+            "　　通学している者",
+            "　有業者",
+            "　無業者",
+            "総数"
+          ]
+        },
+        "cat03_label": {
+          "count": 1,
+          "samples": [
+            "平均年齢"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "1987年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0000140005",
+      "rows": 1944,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "cat04",
+        "cat04_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "1987-1987",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 3,
+          "samples": [
+            "　仕事が主な者",
+            "　仕事が従な者",
+            "総数"
+          ]
+        },
+        "cat02_label": {
+          "count": 18,
+          "samples": [
+            "　　　　一般常雇",
+            "　　　　日雇",
+            "　　　　臨時雇",
+            "　　　その他",
+            "　　　アルバイト",
+            "　　　パート",
+            "　　　嘱託など",
+            "　　　正規の職員・従業者",
+            "　　　派遣社員",
+            "　　内職者",
+            "　　民間の役員",
+            "　　民間の役員を除く雇用者",
+            "　　雇人のある業主",
+            "　　雇人のない業主",
+            "　家族従業者"
+          ]
+        },
+        "cat03_label": {
+          "count": 3,
+          "samples": [
+            "　女",
+            "　男",
+            "男女計"
+          ]
+        },
+        "cat04_label": {
+          "count": 12,
+          "samples": [
+            "15歳以上",
+            "15～19歳",
+            "20～24歳",
+            "25～29歳",
+            "30～34歳",
+            "35～39歳",
+            "40～44歳",
+            "45～49歳",
+            "50～54歳",
+            "55～59歳",
+            "60～64歳",
+            "65歳以上"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "1987年"
+          ]
+        }
+      }
+    },
     {
       "table_id": "0003004104",
       "rows": 13020,
@@ -695,5 +1120,5 @@
       }
     }
   ],
-  "total_rows": 355936
+  "total_rows": 367318
 }
