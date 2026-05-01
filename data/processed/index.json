@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-15 19:29",
+  "updated": "2026-05-01 19:28",
   "directories": {
     "agriculture": {
-      "file_count": 15,
-      "total_rows": 175067,
+      "file_count": 20,
+      "total_rows": 207803,
       "tables": [
         {
           "table_id": "0003050523",
@@ -142,6 +142,154 @@
           },
           "value_count": 30,
           "value_range": "-200.0-144200.0"
+        },
+        {
+          "table_id": "0003117355",
+          "file": "0003117355.csv",
+          "total_rows": 6696,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "あわら市",
+            "いすみ市",
+            "いちき串木野市",
+            "いわき市",
+            "うるま市"
+          ],
+          "area_count": 723,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "経営体数"
+              ]
+            },
+            "cat01_label": {
+              "count": 9,
+              "samples": [
+                "その他",
+                "小売業者",
+                "流通業者・加工業者",
+                "漁協の市場又は荷さばき所",
+                "漁協以外の卸売市場",
+                "生協",
+                "直売所",
+                "自家販売",
+                "計(実数)"
+              ]
+            }
+          },
+          "value_count": 4471,
+          "value_range": "1.0-115196.0"
+        },
+        {
+          "table_id": "0003117368",
+          "file": "0003117368.csv",
+          "total_rows": 3720,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "あわら市",
+            "いすみ市",
+            "いちき串木野市",
+            "いわき市",
+            "うるま市"
+          ],
+          "area_count": 723,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "経営体数"
+              ]
+            },
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "上記(左記)以外の沿岸漁業層",
+                "中小漁業層",
+                "大規模漁業層",
+                "沿岸漁業層",
+                "海面養殖層"
+              ]
+            }
+          },
+          "value_count": 2449,
+          "value_range": "1.0-109022.0"
+        },
+        {
+          "table_id": "0003117369",
+          "file": "0003117369.csv",
+          "total_rows": 5952,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "あわら市",
+            "いすみ市",
+            "いちき串木野市",
+            "いわき市",
+            "うるま市"
+          ],
+          "area_count": 723,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "経営体数"
+              ]
+            },
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "10隻以上",
+                "1隻",
+                "2隻",
+                "3･4隻",
+                "5～9隻",
+                "動力漁船を保有していない経営体",
+                "動力漁船を保有している経営体",
+                "計"
+              ]
+            }
+          },
+          "value_count": 4167,
+          "value_range": "1.0-115196.0"
         },
         {
           "table_id": "0003117386",
@@ -402,6 +550,112 @@
           },
           "value_count": 6043,
           "value_range": "1.0-8849.0"
+        },
+        {
+          "table_id": "0003118884",
+          "file": "0003118884.csv",
+          "total_rows": 3720,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "area",
+            "area_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "あわら市",
+            "いすみ市",
+            "いちき串木野市",
+            "いわき市",
+            "うるま市"
+          ],
+          "area_count": 723,
+          "axis_info": {
+            "tab_label": {
+              "count": 5,
+              "samples": [
+                "動力漁船トン数",
+                "動力漁船隻数",
+                "漁業経営体数",
+                "無動力漁船隻数",
+                "船外機付漁船隻数"
+              ]
+            }
+          },
+          "value_count": 3195,
+          "value_range": "1.0-731433.5"
+        },
+        {
+          "table_id": "0003124235",
+          "file": "0003124235.csv",
+          "total_rows": 12648,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "unit"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "あわら市",
+            "いすみ市",
+            "いちき串木野市",
+            "いわき市",
+            "うるま市"
+          ],
+          "area_count": 723,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "人数"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 5,
+              "samples": [
+                "個人経営体の自営漁業のみ",
+                "家族",
+                "漁業雇われ",
+                "計",
+                "雇用者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "11月1日現在の海上作業従事者数",
+                "新規就業者",
+                "陸上作業最盛期の陸上作業従事者数"
+              ]
+            }
+          },
+          "value_count": 10482,
+          "value_range": "1.0-313072.0"
         },
         {
           "table_id": "0003130947",
@@ -4289,9 +4543,52 @@
       ]
     },
     "education": {
-      "file_count": 5,
-      "total_rows": 929,
+      "file_count": 9,
+      "total_rows": 3077,
       "tables": [
+        {
+          "table_id": "0003015869",
+          "file": "0003015869.csv",
+          "total_rows": 960,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label"
+          ],
+          "has_time": false,
+          "has_area": true,
+          "years": [],
+          "year_range": "—",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "cat01_label": {
+              "count": 20,
+              "samples": [
+                "公立【市（区）立】（分校）",
+                "公立【市（区）立】（本校）",
+                "公立【市（区）立】（計）",
+                "公立【村立】（分校）",
+                "公立【村立】（本校）",
+                "公立【村立】（計）",
+                "公立【町立】（分校）",
+                "公立【町立】（本校）",
+                "公立【町立】（計）",
+                "公立【組合立】（分校）"
+              ]
+            }
+          },
+          "value_count": 960,
+          "value_range": "0.0-22878.0"
+        },
         {
           "table_id": "0003017946",
           "file": "0003017946.csv",
@@ -4427,6 +4724,196 @@
           },
           "value_count": 114,
           "value_range": "0.0-52861.0"
+        },
+        {
+          "table_id": "0003061522",
+          "file": "0003061522.csv",
+          "total_rows": 224,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2006
+          ],
+          "year_range": "2006-2006",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "児童数（特別支援学級）"
+              ]
+            },
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "1学年",
+                "2学年",
+                "3学年",
+                "4学年",
+                "5学年",
+                "6学年",
+                "計"
+              ]
+            },
+            "cat03_label": {
+              "count": 4,
+              "samples": [
+                "公立",
+                "国立",
+                "私立",
+                "計"
+              ]
+            },
+            "cat04_label": {
+              "count": 8,
+              "samples": [
+                "弱視",
+                "情緒障害",
+                "病弱・身体虚弱",
+                "知的障害",
+                "肢体不自由",
+                "言語障害",
+                "計",
+                "難聴"
+              ]
+            }
+          },
+          "value_count": 224,
+          "value_range": "0.0-73151.0"
+        },
+        {
+          "table_id": "0003061523",
+          "file": "0003061523.csv",
+          "total_rows": 4,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2006
+          ],
+          "year_range": "2006-2006",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "児童数（外国人）"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "外国人児童数"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "公立",
+                "国立",
+                "私立",
+                "計"
+              ]
+            }
+          },
+          "value_count": 4,
+          "value_range": "54.0-43675.0"
+        },
+        {
+          "table_id": "0003061524",
+          "file": "0003061524.csv",
+          "total_rows": 960,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2006
+          ],
+          "year_range": "2006-2006",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "児童数（長期欠席）"
+              ]
+            },
+            "cat01_label": {
+              "count": 5,
+              "samples": [
+                "その他",
+                "不登校",
+                "病気",
+                "経済的理由",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "公立",
+                "国立",
+                "私立",
+                "計"
+              ]
+            }
+          },
+          "value_count": 960,
+          "value_range": "0.0-59053.0"
         },
         {
           "table_id": "0003061540",
@@ -6291,8 +6778,8 @@
       ]
     },
     "macro": {
-      "file_count": 62,
-      "total_rows": 1395879,
+      "file_count": 72,
+      "total_rows": 1709226,
       "tables": [
         {
           "table_id": "0000010103",
@@ -6598,6 +7085,358 @@
           },
           "value_count": 49995,
           "value_range": "-21.2-19725.0"
+        },
+        {
+          "table_id": "0000110001",
+          "file": "0000110001.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1984
+          ],
+          "year_range": "1984-1984",
+          "areas": [
+            "3大都市圏平均",
+            "中京大都市圏",
+            "中国地方",
+            "中都市",
+            "九州地方"
+          ],
+          "area_count": 24,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "全世帯"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "平均",
+                "１００万円未満",
+                "１００～１５０万円",
+                "１５０～２００万円",
+                "２００～２５０万円",
+                "２５０～３００万円",
+                "３００～３５０万円",
+                "３５０～４００万円",
+                "４００～４５０万円",
+                "４５０～５００万円"
+              ]
+            },
+            "cat03_label": {
+              "count": 215,
+              "samples": [
+                "〔持家の帰属家賃〕",
+                "〔耐久財を除く教養娯楽関係費〕",
+                "うち住宅・土地のため（千円）",
+                "うち住宅・土地のため（％）",
+                "こづかい（使途不明）",
+                "その他の消費支出",
+                "その他（受贈物等）（現物支出「食料」の自家産物以外）",
+                "たばこ",
+                "めん類",
+                "エンゲル係数（％）"
+              ]
+            }
+          },
+          "value_count": 49303,
+          "value_range": "0.0-815909.0"
+        },
+        {
+          "table_id": "0000110002",
+          "file": "0000110002.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1984
+          ],
+          "year_range": "1984-1984",
+          "areas": [
+            "3大都市圏平均",
+            "中京大都市圏",
+            "中国地方",
+            "中都市",
+            "九州地方"
+          ],
+          "area_count": 24,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "勤労者世帯"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "平均",
+                "１００万円未満",
+                "１００～１５０万円",
+                "１５０～２００万円",
+                "２００～２５０万円",
+                "２５０～３００万円",
+                "３００～３５０万円",
+                "３５０～４００万円"
+              ]
+            },
+            "cat03_label": {
+              "count": 275,
+              "samples": [
+                "〔持家の帰属家賃〕",
+                "うち住宅・土地のため（千円）",
+                "うち住宅・土地のため（％）",
+                "こづかい（使途不明）",
+                "その他",
+                "その他の消費支出",
+                "その他の社会保障費",
+                "その他（受贈物等）（現物支出「食料」の自家産物以外）",
+                "たばこ",
+                "めん類"
+              ]
+            }
+          },
+          "value_count": 46363,
+          "value_range": "-28.6-775868.0"
+        },
+        {
+          "table_id": "0000110003",
+          "file": "0000110003.csv",
+          "total_rows": 8322,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1984
+          ],
+          "year_range": "1984-1984",
+          "areas": [
+            "3大都市圏平均",
+            "全国"
+          ],
+          "area_count": 2,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "全世帯"
+              ]
+            },
+            "cat02_label": {
+              "count": 19,
+              "samples": [
+                "平均",
+                "１００万円未満",
+                "１０００万円以上",
+                "１００～１５０万円",
+                "１５０～２００万円",
+                "２００～２５０万円",
+                "２５０～３００万円",
+                "３００～３５０万円",
+                "３５０～４００万円",
+                "４００～４５０万円"
+              ]
+            },
+            "cat03_label": {
+              "count": 215,
+              "samples": [
+                "〔持家の帰属家賃〕",
+                "〔耐久財を除く教養娯楽関係費〕",
+                "うち住宅・土地のため（千円）",
+                "うち住宅・土地のため（％）",
+                "こづかい（使途不明）",
+                "その他の消費支出",
+                "その他（受贈物等）（現物支出「食料」の自家産物以外）",
+                "たばこ",
+                "めん類",
+                "エンゲル係数（％）"
+              ]
+            }
+          },
+          "value_count": 8299,
+          "value_range": "0.0-815909.0"
+        },
+        {
+          "table_id": "0000110004",
+          "file": "0000110004.csv",
+          "total_rows": 10602,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1984
+          ],
+          "year_range": "1984-1984",
+          "areas": [
+            "3大都市圏平均",
+            "全国"
+          ],
+          "area_count": 2,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "勤労者世帯"
+              ]
+            },
+            "cat02_label": {
+              "count": 19,
+              "samples": [
+                "平均",
+                "１００万円未満",
+                "１０００万円以上",
+                "１００～１５０万円",
+                "１５０～２００万円",
+                "２００～２５０万円",
+                "２５０～３００万円",
+                "３００～３５０万円",
+                "３５０～４００万円",
+                "４００～４５０万円"
+              ]
+            },
+            "cat03_label": {
+              "count": 275,
+              "samples": [
+                "〔持家の帰属家賃〕",
+                "うち住宅・土地のため（千円）",
+                "うち住宅・土地のため（％）",
+                "こづかい（使途不明）",
+                "その他",
+                "その他の消費支出",
+                "その他の社会保障費",
+                "その他（受贈物等）（現物支出「食料」の自家産物以外）",
+                "たばこ",
+                "めん類"
+              ]
+            }
+          },
+          "value_count": 10509,
+          "value_range": "-5.1-1435434.0"
+        },
+        {
+          "table_id": "0000110005",
+          "file": "0000110005.csv",
+          "total_rows": 4818,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1984
+          ],
+          "year_range": "1984-1984",
+          "areas": [
+            "3大都市圏平均",
+            "全国"
+          ],
+          "area_count": 2,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "全世帯"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "平均",
+                "第１階級",
+                "第１０階級",
+                "第２階級",
+                "第３階級",
+                "第４階級",
+                "第５階級",
+                "第６階級",
+                "第７階級",
+                "第８階級"
+              ]
+            },
+            "cat03_label": {
+              "count": 215,
+              "samples": [
+                "〔持家の帰属家賃〕",
+                "〔耐久財を除く教養娯楽関係費〕",
+                "うち住宅・土地のため（千円）",
+                "うち住宅・土地のため（％）",
+                "こづかい（使途不明）",
+                "その他の消費支出",
+                "その他（受贈物等）（現物支出「食料」の自家産物以外）",
+                "たばこ",
+                "めん類",
+                "エンゲル係数（％）"
+              ]
+            }
+          },
+          "value_count": 4813,
+          "value_range": "0.0-815909.0"
         },
         {
           "table_id": "0000150001",
@@ -7947,6 +8786,315 @@
           "value_range": "0.0-100.0"
         },
         {
+          "table_id": "0003006357",
+          "file": "0003006357.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "cat05",
+            "cat05_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008
+          ],
+          "year_range": "2003-2008",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "15歳以上人口"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "男",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "より良い条件の仕事を探すため",
+                "事業不振や先行き不安のため",
+                "人員整理・勧奨退職のため",
+                "介護・看護のため",
+                "会社の倒産・事業所閉鎖のため",
+                "定年又は雇用契約の満了のため",
+                "家事・通学・健康上の理由のため",
+                "結婚・出産・育児のため",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "1年超3年以内に離職",
+                "総数",
+                "過去1年間に離職"
+              ]
+            },
+            "cat04_label": {
+              "count": 17,
+              "samples": [
+                "サービス業（他に分類されないもの）",
+                "不動産業",
+                "公務（他に分類されないもの）",
+                "医療，福祉",
+                "卸売・小売業",
+                "建設業",
+                "情報通信業",
+                "教育，学習支援業",
+                "漁業",
+                "総数"
+              ]
+            },
+            "cat05_label": {
+              "count": 5,
+              "samples": [
+                "15歳以上人口",
+                "完全失業者",
+                "就業者",
+                "非労働力人口(就業希望者)(～2017年)",
+                "非労働力人口(～2017年)"
+              ]
+            }
+          },
+          "value_count": 50000,
+          "value_range": "0.0-1420.0"
+        },
+        {
+          "table_id": "0003007786",
+          "file": "0003007786.csv",
+          "total_rows": 26563,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "cat05",
+            "cat05_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2002
+          ],
+          "year_range": "2002-2002",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "15歳以上人口"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "より良い条件の仕事を探すため",
+                "事業不振や先行き不安のため",
+                "人員整理・勧奨退職のため",
+                "介護・看護のため",
+                "会社の倒産・事業所閉鎖のため",
+                "定年又は雇用契約の満了のため",
+                "家事・通学・健康上の理由のため",
+                "結婚・出産・育児のため",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "1年超3年以内に離職",
+                "総数",
+                "過去1年間に離職"
+              ]
+            },
+            "cat04_label": {
+              "count": 19,
+              "samples": [
+                "うち　医療業",
+                "うち　情報サービス・調査業",
+                "うち　教育",
+                "うち　社会保険，社会福祉",
+                "うち　飲食店",
+                "その他のサービス業",
+                "サービス業",
+                "不動産業",
+                "卸売・小売業，飲食店",
+                "娯楽業"
+              ]
+            },
+            "cat05_label": {
+              "count": 5,
+              "samples": [
+                "15歳以上人口",
+                "完全失業者",
+                "就業者",
+                "非労働力人口(就業希望者)(～2017年)",
+                "非労働力人口(～2017年)"
+              ]
+            }
+          },
+          "value_count": 26563,
+          "value_range": "0.0-1439.0"
+        },
+        {
+          "table_id": "0003009245",
+          "file": "0003009245.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "cat05",
+            "cat05_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "year_range": "2007-2010",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "15歳以上人口"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "男",
+                "総数"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "より良い条件の仕事を探すため",
+                "事業不振や先行き不安のため",
+                "人員整理・勧奨退職のため",
+                "介護・看護のため",
+                "会社の倒産・事業所閉鎖のため",
+                "定年又は雇用契約の満了のため",
+                "家事・通学・健康上の理由のため",
+                "結婚・出産・育児のため",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "1年超3年以内に離職",
+                "総数",
+                "過去1年間に離職"
+              ]
+            },
+            "cat04_label": {
+              "count": 19,
+              "samples": [
+                "サービス業（他に分類されないもの）",
+                "不動産業，物品賃貸業",
+                "公務（他に分類されるものを除く）",
+                "医療，福祉",
+                "卸売業，小売業",
+                "学術研究，専門・技術サービス業",
+                "宿泊業，飲食サービス業",
+                "建設業",
+                "情報通信業",
+                "教育，学習支援業"
+              ]
+            },
+            "cat05_label": {
+              "count": 5,
+              "samples": [
+                "15歳以上人口",
+                "完全失業者",
+                "就業者",
+                "非労働力人口(就業希望者)(～2017年)",
+                "非労働力人口(～2017年)"
+              ]
+            }
+          },
+          "value_count": 50000,
+          "value_range": "0.0-1433.0"
+        },
+        {
           "table_id": "0003014706",
           "file": "0003014706.csv",
           "total_rows": 559,
@@ -9010,6 +10158,192 @@
           "value_range": "-10.3-58177.0"
         },
         {
+          "table_id": "0003217545",
+          "file": "0003217545.csv",
+          "total_rows": 22557,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "year_range": "2018-2025",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "率"
+              ]
+            },
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "未活用労働指標1",
+                "未活用労働指標2",
+                "未活用労働指標3",
+                "未活用労働指標4",
+                "未活用労働補助指標1",
+                "未活用労働補助指標2"
+              ]
+            },
+            "cat02_label": {
+              "count": 20,
+              "samples": [
+                "15～19歳",
+                "15～24歳",
+                "20～24歳",
+                "25～29歳",
+                "25～34歳",
+                "30～34歳",
+                "35～39歳",
+                "35～44歳",
+                "40～44歳",
+                "45～49歳"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat04_label": {
+              "count": 2,
+              "samples": [
+                "うち卒業",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 22557,
+          "value_range": "0.1-26.7"
+        },
+        {
+          "table_id": "0003217721",
+          "file": "0003217721.csv",
+          "total_rows": 40203,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "year_range": "2018-2025",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "15歳以上人口"
+              ]
+            },
+            "cat01_label": {
+              "count": 11,
+              "samples": [
+                "15歳以上人口",
+                "労働力人口(2018年～)",
+                "失業者",
+                "完全失業者",
+                "就業可能非求職者",
+                "就業者",
+                "拡張求職者",
+                "潜在労働力人口",
+                "追加就労希望就業者",
+                "非労働力人口(2018年～)"
+              ]
+            },
+            "cat02_label": {
+              "count": 20,
+              "samples": [
+                "15～19歳",
+                "15～24歳",
+                "20～24歳",
+                "25～29歳",
+                "25～34歳",
+                "30～34歳",
+                "35～39歳",
+                "35～44歳",
+                "40～44歳",
+                "45～49歳"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            },
+            "cat04_label": {
+              "count": 2,
+              "samples": [
+                "うち卒業",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 40203,
+          "value_range": "0.0-11080.0"
+        },
+        {
           "table_id": "0003223698",
           "file": "0003223698.csv",
           "total_rows": 336,
@@ -9792,13 +11126,13 @@
               ]
             }
           },
-          "value_count": 49863,
+          "value_count": 49867,
           "value_range": "468.0-7496.0"
         },
         {
           "table_id": "0003449368",
           "file": "0003449368.csv",
-          "total_rows": 3542,
+          "total_rows": 3685,
           "columns": [
             "value",
             "tab",
@@ -9840,9 +11174,10 @@
             2021,
             2022,
             2023,
-            2024
+            2024,
+            2025
           ],
-          "year_range": "2000-2024",
+          "year_range": "2000-2025",
           "areas": [
             "全国"
           ],
@@ -9855,7 +11190,7 @@
               ]
             },
             "cat01_label": {
-              "count": 284,
+              "count": 288,
               "samples": [
                 "1924 コーヒー飲料（セルフ式）",
                 "1972 乳酸菌飲料【2014年12月以前は主要品目の都市別小売価格に表章】",
@@ -9876,13 +11211,13 @@
               ]
             }
           },
-          "value_count": 3524,
-          "value_range": "0.0-5899267.0"
+          "value_count": 3667,
+          "value_range": "0.0-5908649.0"
         },
         {
           "table_id": "0003449369",
           "file": "0003449369.csv",
-          "total_rows": 45340,
+          "total_rows": 45479,
           "columns": [
             "value",
             "tab",
@@ -9962,7 +11297,7 @@
               ]
             }
           },
-          "value_count": 44471,
+          "value_count": 44610,
           "value_range": "0.0-6017260.0"
         },
         {
@@ -15248,9 +16583,85 @@
       ]
     },
     "national-census": {
-      "file_count": 5,
-      "total_rows": 30276,
+      "file_count": 10,
+      "total_rows": 530276,
       "tables": [
+        {
+          "table_id": "0000010106",
+          "file": "0000010106.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1975,
+            1977,
+            1979,
+            1980,
+            1982,
+            1985,
+            1987,
+            1990,
+            1992,
+            1995,
+            1997,
+            2000,
+            2002,
+            2005,
+            2007,
+            2010,
+            2012,
+            2015,
+            2017,
+            2020,
+            2022
+          ],
+          "year_range": "1975-2022",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "観測値"
+              ]
+            },
+            "cat01_label": {
+              "count": 341,
+              "samples": [
+                "F110101_労働力人口（男）",
+                "F110102_労働力人口（女）",
+                "F1101_労働力人口",
+                "F110201_就業者数（男）",
+                "F110202_就業者数（女）",
+                "F1102_就業者数",
+                "F110301_就業者数・主に仕事（男）",
+                "F110302_就業者数・主に仕事（女）",
+                "F1103_就業者数・主に仕事",
+                "F110401_就業者数・家事のほか仕事（男）"
+              ]
+            }
+          },
+          "value_count": 100000,
+          "value_range": "1.0-67017987.0"
+        },
         {
           "table_id": "0003410395",
           "file": "0003410395.csv",
@@ -15592,6 +17003,306 @@
           },
           "value_count": 25380,
           "value_range": "0.0-6309698.0"
+        },
+        {
+          "table_id": "0004019438",
+          "file": "0004019438.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2020
+          ],
+          "year_range": "2020-2020",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1933,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "就業者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "総数",
+                "農業，林業"
+              ]
+            },
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "サービス職業従事者",
+                "事務従事者",
+                "保安職業従事者",
+                "専門的・技術的職業従事者",
+                "建設・採掘従事者",
+                "生産工程従事者",
+                "管理的職業従事者",
+                "総数",
+                "販売従事者",
+                "輸送・機械運転従事者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 93347,
+          "value_range": "1.0-65468436.0"
+        },
+        {
+          "table_id": "0004019439",
+          "file": "0004019439.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2020
+          ],
+          "year_range": "2020-2020",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1933,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "役員を含む雇用者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "総数",
+                "農業，林業"
+              ]
+            },
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "サービス職業従事者",
+                "事務従事者",
+                "保安職業従事者",
+                "専門的・技術的職業従事者",
+                "建設・採掘従事者",
+                "生産工程従事者",
+                "管理的職業従事者",
+                "総数",
+                "販売従事者",
+                "輸送・機械運転従事者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 92518,
+          "value_range": "1.0-58168539.0"
+        },
+        {
+          "table_id": "0004019458",
+          "file": "0004019458.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2015
+          ],
+          "year_range": "2015-2015",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1932,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "就業者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "総数",
+                "農業，林業"
+              ]
+            },
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "サービス職業従事者",
+                "事務従事者",
+                "保安職業従事者",
+                "専門的・技術的職業従事者",
+                "建設・採掘従事者",
+                "生産工程従事者",
+                "管理的職業従事者",
+                "総数",
+                "販売従事者",
+                "輸送・機械運転従事者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 93273,
+          "value_range": "1.0-63810382.0"
+        },
+        {
+          "table_id": "0004019459",
+          "file": "0004019459.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2015
+          ],
+          "year_range": "2015-2015",
+          "areas": [
+            "あきる野市",
+            "あさぎり町",
+            "あま市",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 1932,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "役員を含む雇用者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "総数",
+                "農業，林業"
+              ]
+            },
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "サービス職業従事者",
+                "事務従事者",
+                "保安職業従事者",
+                "専門的・技術的職業従事者",
+                "建設・採掘従事者",
+                "生産工程従事者",
+                "管理的職業従事者",
+                "総数",
+                "販売従事者",
+                "輸送・機械運転従事者"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 92389,
+          "value_range": "1.0-55970197.0"
         }
       ]
     },
@@ -16248,8 +17959,8 @@
       ]
     },
     "trade": {
-      "file_count": 3,
-      "total_rows": 15708,
+      "file_count": 4,
+      "total_rows": 16074,
       "tables": [
         {
           "table_id": "0003425293",
@@ -16306,7 +18017,7 @@
         {
           "table_id": "0004002160",
           "file": "0004002160.csv",
-          "total_rows": 5811,
+          "total_rows": 5948,
           "columns": [
             "value",
             "cat01",
@@ -16366,13 +18077,73 @@
               ]
             }
           },
-          "value_count": 5811,
+          "value_count": 5948,
           "value_range": "0.0-0.0"
+        },
+        {
+          "table_id": "0004002162",
+          "file": "0004002162.csv",
+          "total_rows": 45,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2023,
+            2024,
+            2025,
+            2026
+          ],
+          "year_range": "2023-2026",
+          "areas": [
+            "205_英国",
+            "234_トルコ",
+            "304_アメリカ合衆国",
+            "601_オーストラリア"
+          ],
+          "area_count": 4,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010121000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "千歳",
+                "成田",
+                "関西空港"
+              ]
+            }
+          },
+          "value_count": 30,
+          "value_range": "0.0-21.0"
         },
         {
           "table_id": "0004002163",
           "file": "0004002163.csv",
-          "total_rows": 9846,
+          "total_rows": 10030,
           "columns": [
             "value",
             "cat01",
@@ -16432,7 +18203,7 @@
               ]
             }
           },
-          "value_count": 9846,
+          "value_count": 10030,
           "value_range": "0.0-0.0"
         }
       ]
@@ -17300,12 +19071,12 @@
       ]
     }
   },
-  "total_files": 264,
-  "total_rows": 3509229,
+  "total_files": 289,
+  "total_rows": 4357826,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
-      "size_kb": 24.6
+      "size_kb": 31.0
     },
     {
       "file": "_dir_census.json",
@@ -17321,7 +19092,7 @@
     },
     {
       "file": "_dir_education.json",
-      "size_kb": 6.1
+      "size_kb": 11.6
     },
     {
       "file": "_dir_employment.json",
@@ -17337,7 +19108,7 @@
     },
     {
       "file": "_dir_macro.json",
-      "size_kb": 114.7
+      "size_kb": 139.5
     },
     {
       "file": "_dir_manufacturing.json",
@@ -17349,7 +19120,7 @@
     },
     {
       "file": "_dir_national-census.json",
-      "size_kb": 8.5
+      "size_kb": 18.9
     },
     {
       "file": "_dir_rd.json",
@@ -17365,7 +19136,7 @@
     },
     {
       "file": "_dir_trade.json",
-      "size_kb": 4.9
+      "size_kb": 6.1
     },
     {
       "file": "_dir_transport.json",

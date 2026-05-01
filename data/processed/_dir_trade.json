@@ -1,7 +1,7 @@
 {
   "directory": "trade",
-  "updated": "2026-04-15",
-  "file_count": 3,
+  "updated": "2026-05-01",
+  "file_count": 4,
   "tables": [
     {
       "table_id": "0003425293",
@@ -59,7 +59,7 @@
     },
     {
       "table_id": "0004002160",
-      "rows": 5811,
+      "rows": 5948,
       "columns": [
         "value",
         "cat01",
@@ -140,8 +140,69 @@
       }
     },
     {
+      "table_id": "0004002162",
+      "rows": 45,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "cat03",
+        "cat03_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2023-2026",
+      "year_count": 4,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010121000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "cat03_label": {
+          "count": 3,
+          "samples": [
+            "千歳",
+            "成田",
+            "関西空港"
+          ]
+        },
+        "area_label": {
+          "count": 4,
+          "samples": [
+            "205_英国",
+            "234_トルコ",
+            "304_アメリカ合衆国",
+            "601_オーストラリア"
+          ]
+        },
+        "time_label": {
+          "count": 4,
+          "samples": [
+            "2023年",
+            "2024年",
+            "2025年",
+            "2026年"
+          ]
+        }
+      }
+    },
+    {
       "table_id": "0004002163",
-      "rows": 9846,
+      "rows": 10030,
       "columns": [
         "value",
         "cat01",
@@ -222,5 +283,5 @@
       }
     }
   ],
-  "total_rows": 15708
+  "total_rows": 16074
 }

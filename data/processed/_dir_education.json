@@ -1,8 +1,63 @@
 {
   "directory": "education",
-  "updated": "2026-04-15",
-  "file_count": 5,
+  "updated": "2026-05-01",
+  "file_count": 9,
   "tables": [
+    {
+      "table_id": "0003015869",
+      "rows": 960,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "area",
+        "area_label"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 20,
+          "samples": [
+            "公立【市（区）立】（分校）",
+            "公立【市（区）立】（本校）",
+            "公立【市（区）立】（計）",
+            "公立【村立】（分校）",
+            "公立【村立】（本校）",
+            "公立【村立】（計）",
+            "公立【町立】（分校）",
+            "公立【町立】（本校）",
+            "公立【町立】（計）",
+            "公立【組合立】（分校）",
+            "公立【組合立】（本校）",
+            "公立【組合立】（計）",
+            "公立【計】（分校）",
+            "公立【計】（本校）",
+            "公立【計】（計）"
+          ]
+        },
+        "area_label": {
+          "count": 48,
+          "samples": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県",
+            "北海道",
+            "千葉県",
+            "和歌山県",
+            "埼玉県",
+            "大分県",
+            "大阪府",
+            "奈良県",
+            "宮城県",
+            "宮崎県",
+            "富山県"
+          ]
+        }
+      }
+    },
     {
       "table_id": "0003017946",
       "rows": 171,
@@ -161,6 +216,209 @@
       }
     },
     {
+      "table_id": "0003061522",
+      "rows": 224,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat03",
+        "cat03_label",
+        "cat04",
+        "cat04_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "2006-2006",
+      "year_count": 1,
+      "categories": {
+        "tab_label": {
+          "count": 1,
+          "samples": [
+            "児童数（特別支援学級）"
+          ]
+        },
+        "cat01_label": {
+          "count": 7,
+          "samples": [
+            "1学年",
+            "2学年",
+            "3学年",
+            "4学年",
+            "5学年",
+            "6学年",
+            "計"
+          ]
+        },
+        "cat03_label": {
+          "count": 4,
+          "samples": [
+            "公立",
+            "国立",
+            "私立",
+            "計"
+          ]
+        },
+        "cat04_label": {
+          "count": 8,
+          "samples": [
+            "弱視",
+            "情緒障害",
+            "病弱・身体虚弱",
+            "知的障害",
+            "肢体不自由",
+            "言語障害",
+            "計",
+            "難聴"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2006年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003061523",
+      "rows": 4,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2006-2006",
+      "year_count": 1,
+      "categories": {
+        "tab_label": {
+          "count": 1,
+          "samples": [
+            "児童数（外国人）"
+          ]
+        },
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "外国人児童数"
+          ]
+        },
+        "cat02_label": {
+          "count": 4,
+          "samples": [
+            "公立",
+            "国立",
+            "私立",
+            "計"
+          ]
+        },
+        "area_label": {
+          "count": 1,
+          "samples": [
+            "全国"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2006年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003061524",
+      "rows": 960,
+      "columns": [
+        "value",
+        "tab",
+        "tab_label",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "2006-2006",
+      "year_count": 1,
+      "categories": {
+        "tab_label": {
+          "count": 1,
+          "samples": [
+            "児童数（長期欠席）"
+          ]
+        },
+        "cat01_label": {
+          "count": 5,
+          "samples": [
+            "その他",
+            "不登校",
+            "病気",
+            "経済的理由",
+            "計"
+          ]
+        },
+        "cat02_label": {
+          "count": 4,
+          "samples": [
+            "公立",
+            "国立",
+            "私立",
+            "計"
+          ]
+        },
+        "area_label": {
+          "count": 48,
+          "samples": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県",
+            "北海道",
+            "千葉県",
+            "和歌山県",
+            "埼玉県",
+            "大分県",
+            "大阪府",
+            "奈良県",
+            "宮城県",
+            "宮崎県",
+            "富山県"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2006年"
+          ]
+        }
+      }
+    },
+    {
       "table_id": "0003061540",
       "rows": 526,
       "columns": [
@@ -283,5 +541,5 @@
       }
     }
   ],
-  "total_rows": 929
+  "total_rows": 3077
 }

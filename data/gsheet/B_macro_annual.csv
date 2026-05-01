@@ -70,7 +70,7 @@ year,indicator_id,indicator_name,value,unit,source_id,notes
 2022,cpi,消費者物価指数,103.2,指数,estat-cpi,
 2023,cpi,消費者物価指数,106.3,指数,estat-cpi,
 2024,cpi,消費者物価指数,109.5,指数,estat-cpi,
-2025,cpi,消費者物価指数,111.9,指数,estat-cpi,
+2025,cpi,消費者物価指数,112.3,指数,estat-cpi,
 2001,gdp-prefectural,県内総生産額（全国）,520999398.0,百万円,estat-gdp,県民経済計算
 2002,gdp-prefectural,県内総生産額（全国）,516047976.0,百万円,estat-gdp,県民経済計算
 2003,gdp-prefectural,県内総生産額（全国）,516778382.0,百万円,estat-gdp,県民経済計算

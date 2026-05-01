@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T19:30:36.349876",
+  "timestamp": "2026-05-01T19:30:32.362555",
   "files": {
     "B_macro_annual.csv": {
       "rows": 26,
@@ -10,8 +10,8 @@
       "size_kb": 604.5
     },
     "C_industry_summary.csv": {
-      "rows": 264,
-      "size_kb": 23.0
+      "rows": 289,
+      "size_kb": 25.0
     },
     "corporate_finance.csv": {
       "rows": 10780,
@@ -26,8 +26,8 @@
       "size_kb": 2507.0
     },
     "national_census_industry.csv": {
-      "rows": 26928,
-      "size_kb": 1769.8
+      "rows": 332885,
+      "size_kb": 23648.9
     },
     "service_industry.csv": {
       "rows": 11197,
