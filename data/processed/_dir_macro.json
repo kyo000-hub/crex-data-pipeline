@@ -1,6 +1,6 @@
 {
   "directory": "macro",
-  "updated": "2026-05-01",
+  "updated": "2026-05-15",
   "file_count": 72,
   "tables": [
     {
@@ -1163,7 +1163,7 @@
           ]
         },
         "time_label": {
-          "count": 698,
+          "count": 699,
           "samples": [
             "1968年10月",
             "1968年11月",
@@ -1186,7 +1186,7 @@
     },
     {
       "table_id": "0002060006",
-      "rows": 27990,
+      "rows": 28092,
       "columns": [
         "value",
         "tab",
@@ -1260,7 +1260,7 @@
           ]
         },
         "time_label": {
-          "count": 494,
+          "count": 495,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -1340,7 +1340,7 @@
           ]
         },
         "time_label": {
-          "count": 494,
+          "count": 495,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -1378,8 +1378,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "1985-2025",
-      "year_count": 41,
+      "year_range": "1985-2026",
+      "year_count": 42,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -1388,7 +1388,7 @@
           ]
         },
         "cat01_label": {
-          "count": 86,
+          "count": 85,
           "samples": [
             "18歳未満人員",
             "65歳以上人員",
@@ -1423,7 +1423,7 @@
           ]
         },
         "time_label": {
-          "count": 164,
+          "count": 165,
           "samples": [
             "1985年10～12月期",
             "1985年1～3月期",
@@ -1594,7 +1594,7 @@
           ]
         },
         "time_label": {
-          "count": 494,
+          "count": 495,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -1617,7 +1617,7 @@
     },
     {
       "table_id": "0003005865",
-      "rows": 2502,
+      "rows": 2511,
       "columns": [
         "value",
         "tab",
@@ -1672,7 +1672,7 @@
           ]
         },
         "time_label": {
-          "count": 314,
+          "count": 315,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -1781,7 +1781,7 @@
           ]
         },
         "time_label": {
-          "count": 242,
+          "count": 243,
           "samples": [
             "2006年10月",
             "2006年11月",
@@ -1804,7 +1804,7 @@
     },
     {
       "table_id": "0003006300",
-      "rows": 29311,
+      "rows": 29416,
       "columns": [
         "value",
         "tab",
@@ -1874,7 +1874,7 @@
           ]
         },
         "time_label": {
-          "count": 314,
+          "count": 315,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -5570,5 +5570,5 @@
       }
     }
   ],
-  "total_rows": 1709226
+  "total_rows": 1709442
 }

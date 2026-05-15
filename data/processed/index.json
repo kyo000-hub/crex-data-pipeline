@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01 19:28",
+  "updated": "2026-05-15 19:42",
   "directories": {
     "agriculture": {
       "file_count": 20,
@@ -6779,7 +6779,7 @@
     },
     "macro": {
       "file_count": 72,
-      "total_rows": 1709226,
+      "total_rows": 1709442,
       "tables": [
         {
           "table_id": "0000010103",
@@ -7953,7 +7953,7 @@
         {
           "table_id": "0002060006",
           "file": "0002060006.csv",
-          "total_rows": 27990,
+          "total_rows": 28092,
           "columns": [
             "value",
             "tab",
@@ -8068,7 +8068,7 @@
               ]
             }
           },
-          "value_count": 27342,
+          "value_count": 27444,
           "value_range": "0.0-100.0"
         },
         {
@@ -8228,9 +8228,10 @@
             2022,
             2023,
             2024,
-            2025
+            2025,
+            2026
           ],
-          "year_range": "1985-2025",
+          "year_range": "1985-2026",
           "areas": [
             "全国"
           ],
@@ -8243,7 +8244,7 @@
               ]
             },
             "cat01_label": {
-              "count": 86,
+              "count": 85,
               "samples": [
                 "18歳未満人員",
                 "65歳以上人員",
@@ -8267,7 +8268,7 @@
               ]
             }
           },
-          "value_count": 21856,
+          "value_count": 21880,
           "value_range": "0.0-1565437.0"
         },
         {
@@ -8485,7 +8486,7 @@
         {
           "table_id": "0003005865",
           "file": "0003005865.csv",
-          "total_rows": 2502,
+          "total_rows": 2511,
           "columns": [
             "value",
             "tab",
@@ -8568,7 +8569,7 @@
               ]
             }
           },
-          "value_count": 2448,
+          "value_count": 2457,
           "value_range": "1.9-76.8"
         },
         {
@@ -8678,13 +8679,13 @@
               ]
             }
           },
-          "value_count": 48626,
+          "value_count": 48632,
           "value_range": "0.3-100.0"
         },
         {
           "table_id": "0003006300",
           "file": "0003006300.csv",
-          "total_rows": 29311,
+          "total_rows": 29416,
           "columns": [
             "value",
             "tab",
@@ -8782,7 +8783,7 @@
               ]
             }
           },
-          "value_count": 28663,
+          "value_count": 28768,
           "value_range": "0.0-100.0"
         },
         {
@@ -19072,7 +19073,7 @@
     }
   },
   "total_files": 289,
-  "total_rows": 4357826,
+  "total_rows": 4358042,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",

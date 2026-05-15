@@ -118,14 +118,14 @@ macro,0000150004,2511,1991-1991,cat01_label(38) / cat02_label(3) / cat03_label(9
 macro,0000150005,150,1991-1991,cat01_label(25) / cat02_label(6),estat-macro
 macro,0000150271,2538,2006-2006,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
 macro,0002060004,50000,1968-2026,cat04_label(2),estat-macro
-macro,0002060006,27990,1985-2026,cat04_label(4),estat-macro
+macro,0002060006,28092,1985-2026,cat04_label(4),estat-macro
 macro,0002070001,30000,1985-2026,area_label(3),estat-macro
-macro,0002070002,30000,1985-2025,cat01_label(2) / cat02_label(4),estat-macro
+macro,0002070002,30000,1985-2026,cat01_label(2) / cat02_label(4),estat-macro
 macro,0002070003,30000,1985-2025,area_label(28) / time_label(41),estat-macro
 macro,0002070004,30000,1985-2026,cat03_label(3),estat-macro
-macro,0003005865,2502,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
+macro,0003005865,2511,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
 macro,0003005867,50000,2006-2026,cat04_label(2) / cat05_label(4),estat-macro
-macro,0003006300,29311,2000-2026,cat04_label(4),estat-macro
+macro,0003006300,29416,2000-2026,cat04_label(4),estat-macro
 macro,0003006357,50000,2003-2008,cat04_label(9) / cat05_label(5) / time_label(24),estat-macro
 macro,0003007786,26563,2002-2002,cat03_label(3) / cat04_label(19) / cat05_label(5) / time_label(4),estat-macro
 macro,0003009245,50000,2007-2010,cat04_label(14) / cat05_label(5) / time_label(16),estat-macro
