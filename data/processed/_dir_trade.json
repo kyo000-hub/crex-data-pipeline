@@ -1,6 +1,6 @@
 {
   "directory": "trade",
-  "updated": "2026-05-15",
+  "updated": "2026-06-01",
   "file_count": 4,
   "tables": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "table_id": "0004002160",
-      "rows": 5948,
+      "rows": 6054,
       "columns": [
         "value",
         "cat01",
@@ -109,7 +109,7 @@
           ]
         },
         "area_label": {
-          "count": 171,
+          "count": 173,
           "samples": [
             "103_大韓民国",
             "105_中華人民共和国",
@@ -202,7 +202,7 @@
     },
     {
       "table_id": "0004002163",
-      "rows": 10030,
+      "rows": 10190,
       "columns": [
         "value",
         "cat01",
@@ -283,5 +283,5 @@
       }
     }
   ],
-  "total_rows": 16074
+  "total_rows": 16340
 }

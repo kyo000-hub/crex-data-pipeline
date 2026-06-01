@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-15 19:42",
+  "updated": "2026-06-01 21:54",
   "directories": {
     "agriculture": {
-      "file_count": 20,
-      "total_rows": 207803,
+      "file_count": 25,
+      "total_rows": 230209,
       "tables": [
         {
           "table_id": "0003050523",
@@ -1069,13 +1069,636 @@
           },
           "value_count": 9887,
           "value_range": "1.0-65914589.0"
+        },
+        {
+          "table_id": "0003278878",
+          "file": "0003278878.csv",
+          "total_rows": 3618,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2005
+          ],
+          "year_range": "2005-2005",
+          "areas": [
+            "三重県",
+            "中国",
+            "中国四国農政局",
+            "九州",
+            "京都府"
+          ],
+          "area_count": 67,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "農家数",
+                "面積"
+              ]
+            },
+            "cat01_label": {
+              "count": 12,
+              "samples": [
+                "いも類",
+                "その他の作物",
+                "実農家数",
+                "工芸農作物",
+                "種苗・苗木類",
+                "稲",
+                "花き類・花木",
+                "計",
+                "豆類",
+                "野菜類"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計",
+                "施設",
+                "露地"
+              ]
+            }
+          },
+          "value_count": 3618,
+          "value_range": "1.0-4767489.0"
+        },
+        {
+          "table_id": "0003278879",
+          "file": "0003278879.csv",
+          "total_rows": 10586,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2005
+          ],
+          "year_range": "2005-2005",
+          "areas": [
+            "三重県",
+            "中国",
+            "中国四国農政局",
+            "九州",
+            "京都府"
+          ],
+          "area_count": 67,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "実農家数",
+                "農家数",
+                "面積"
+              ]
+            },
+            "cat01_label": {
+              "count": 92,
+              "samples": [
+                "いちご(沖縄県なし)",
+                "いちご(沖縄県なし)_施設",
+                "いちご(沖縄県なし)_露地",
+                "かんしょ(北海道なし)",
+                "きく",
+                "きく_施設",
+                "きく_露地",
+                "きゅうり",
+                "きゅうり_施設",
+                "きゅうり_露地"
+              ]
+            }
+          },
+          "value_count": 10125,
+          "value_range": "0.0-1402318.0"
+        },
+        {
+          "table_id": "0003278880",
+          "file": "0003278880.csv",
+          "total_rows": 33,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2005
+          ],
+          "year_range": "2005-2005",
+          "areas": [
+            "北海道"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "実農家数",
+                "農家数",
+                "面積"
+              ]
+            },
+            "cat01_label": {
+              "count": 18,
+              "samples": [
+                "いんげん豆",
+                "かぼちゃ",
+                "かぼちゃ_施設",
+                "かぼちゃ_露地",
+                "そば",
+                "てんさい",
+                "はっか",
+                "アスパラガス",
+                "アスパラガス_施設",
+                "アスパラガス_露地"
+              ]
+            }
+          },
+          "value_count": 33,
+          "value_range": "26.0-102120.0"
+        },
+        {
+          "table_id": "0003278881",
+          "file": "0003278881.csv",
+          "total_rows": 62,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2005
+          ],
+          "year_range": "2005-2005",
+          "areas": [
+            "沖縄県"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "実農家数",
+                "農家数",
+                "面積"
+              ]
+            },
+            "cat01_label": {
+              "count": 35,
+              "samples": [
+                "かぼちゃ",
+                "かぼちゃ_施設",
+                "かぼちゃ_露地",
+                "さとうきび",
+                "さとうきび_1回目の株出",
+                "さとうきび_2回目の株出",
+                "さとうきび_3回目の株出",
+                "さとうきび_4、5回目の株出",
+                "さとうきび_6回目以上の株出",
+                "さとうきび_夏植"
+              ]
+            }
+          },
+          "value_count": 62,
+          "value_range": "3.0-11613.0"
+        },
+        {
+          "table_id": "0003278882",
+          "file": "0003278882.csv",
+          "total_rows": 8107,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2005
+          ],
+          "year_range": "2005-2005",
+          "areas": [
+            "三重県",
+            "中国",
+            "中国四国農政局",
+            "九州",
+            "京都府"
+          ],
+          "area_count": 67,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "農家数"
+              ]
+            },
+            "cat01_label": {
+              "count": 22,
+              "samples": [
+                "1.0ha以上",
+                "1.0～1.5ha未満",
+                "1.5～2.0ha未満",
+                "1.5～3.0ha未満",
+                "10.0ha以上",
+                "10.0～15.0ha未満",
+                "10a未満",
+                "10～20a未満",
+                "10～30a未満",
+                "15.0ha以上"
+              ]
+            },
+            "cat02_label": {
+              "count": 11,
+              "samples": [
+                "かんしょ(北海道なし)",
+                "ばれいしょ",
+                "大豆(沖縄県なし)",
+                "小麦",
+                "水稲",
+                "稲",
+                "茶(北海道なし)",
+                "野菜類",
+                "野菜類_施設",
+                "野菜類_露地"
+              ]
+            }
+          },
+          "value_count": 7449,
+          "value_range": "1.0-1403395.0"
         }
       ]
     },
     "census": {
-      "file_count": 11,
-      "total_rows": 303030,
+      "file_count": 16,
+      "total_rows": 575175,
       "tables": [
+        {
+          "table_id": "0003032532",
+          "file": "0003032532.csv",
+          "total_rows": 37962,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2009
+          ],
+          "year_range": "2009-2009",
+          "areas": [
+            "14大都市圏",
+            "あきる野市",
+            "あさぎり町",
+            "あわら市",
+            "いすみ市"
+          ],
+          "area_count": 2275,
+          "axis_info": {
+            "tab_label": {
+              "count": 8,
+              "samples": [
+                "事業所数",
+                "事業所数（事業内容等不詳を含む）",
+                "従業者数　女",
+                "従業者数　男",
+                "従業者数　総数",
+                "１平方km当たり　事業所数",
+                "１平方km当たり　事業所数（事業内容等不詳を含む）",
+                "１平方km当たり　従業者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "うち民営",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 37962,
+          "value_range": "0.1-62860514.0"
+        },
+        {
+          "table_id": "0003032533",
+          "file": "0003032533.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2009
+          ],
+          "year_range": "2009-2009",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 452,
+              "samples": [
+                "010管理，補助的経済活動を行う事業所",
+                "011耕種農業",
+                "012畜産農業",
+                "013農業サービス業",
+                "014園芸サービス業",
+                "01農業",
+                "020管理，補助的経済活動を行う事業所",
+                "021育林業",
+                "022素材生産業",
+                "023特用林産物生産業"
+              ]
+            },
+            "cat02_label": {
+              "count": 6,
+              "samples": [
+                "うち個人",
+                "うち民営",
+                "うち法人",
+                "会社",
+                "会社以外の法人",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 100000,
+          "value_range": "1.0-6043300.0"
+        },
+        {
+          "table_id": "0003032534",
+          "file": "0003032534.csv",
+          "total_rows": 99137,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2009
+          ],
+          "year_range": "2009-2009",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "兵庫県"
+          ],
+          "area_count": 48,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "事業所数",
+                "従業者数　総数",
+                "１事業所当たり従業者数"
+              ]
+            },
+            "cat01_label": {
+              "count": 745,
+              "samples": [
+                "010管理，補助的経済活動を行う事業所",
+                "011耕種農業",
+                "012畜産農業",
+                "013農業サービス業",
+                "014園芸サービス業",
+                "01農業",
+                "020管理，補助的経済活動を行う事業所",
+                "021育林業",
+                "022素材生産業",
+                "023特用林産物生産業"
+              ]
+            }
+          },
+          "value_count": 99137,
+          "value_range": "0.5-62860514.0"
+        },
+        {
+          "table_id": "0003032536",
+          "file": "0003032536.csv",
+          "total_rows": 1749,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2009
+          ],
+          "year_range": "2009-2009",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "事業所数"
+              ]
+            },
+            "cat01_label": {
+              "count": 745,
+              "samples": [
+                "010管理，補助的経済活動を行う事業所",
+                "011耕種農業",
+                "012畜産農業",
+                "013農業サービス業",
+                "014園芸サービス業",
+                "01農業",
+                "020管理，補助的経済活動を行う事業所",
+                "021育林業",
+                "022素材生産業",
+                "023特用林産物生産業"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "国，地方公共団体",
+                "民営",
+                "総数"
+              ]
+            }
+          },
+          "value_count": 1749,
+          "value_range": "1.0-6043300.0"
+        },
+        {
+          "table_id": "0003032537",
+          "file": "0003032537.csv",
+          "total_rows": 33297,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2009
+          ],
+          "year_range": "2009-2009",
+          "areas": [
+            "全国"
+          ],
+          "area_count": 1,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "従業者数　女",
+                "従業者数　男",
+                "従業者数　総数"
+              ]
+            },
+            "cat01_label": {
+              "count": 745,
+              "samples": [
+                "010管理，補助的経済活動を行う事業所",
+                "011耕種農業",
+                "012畜産農業",
+                "013農業サービス業",
+                "014園芸サービス業",
+                "01農業",
+                "020管理，補助的経済活動を行う事業所",
+                "021育林業",
+                "022素材生産業",
+                "023特用林産物生産業"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "民営",
+                "総数"
+              ]
+            },
+            "cat03_label": {
+              "count": 8,
+              "samples": [
+                "個人業主",
+                "常用雇用者",
+                "有給役員",
+                "正社員・正職員",
+                "正社員・正職員以外",
+                "無給の家族従業者",
+                "総数",
+                "臨時雇用者"
+              ]
+            }
+          },
+          "value_count": 33297,
+          "value_range": "1.0-62860514.0"
+        },
         {
           "table_id": "0003085523",
           "file": "0003085523.csv",
@@ -1764,7 +2387,7 @@
     },
     "construction": {
       "file_count": 10,
-      "total_rows": 303078,
+      "total_rows": 303174,
       "tables": [
         {
           "table_id": "0003125915",
@@ -1803,9 +2426,10 @@
             2022,
             2023,
             2024,
-            2025
+            2025,
+            2026
           ],
-          "year_range": "2007-2025",
+          "year_range": "2007-2026",
           "areas": [],
           "area_count": 0,
           "axis_info": {
@@ -1841,7 +2465,7 @@
               ]
             }
           },
-          "value_count": 39696,
+          "value_count": 40047,
           "value_range": "0.0-36313.0"
         },
         {
@@ -2006,7 +2630,7 @@
         {
           "table_id": "0003126568",
           "file": "0003126568.csv",
-          "total_rows": 10800,
+          "total_rows": 10896,
           "columns": [
             "value",
             "tab",
@@ -2038,9 +2662,10 @@
             2022,
             2023,
             2024,
-            2025
+            2025,
+            2026
           ],
-          "year_range": "2007-2025",
+          "year_range": "2007-2026",
           "areas": [],
           "area_count": 0,
           "axis_info": {
@@ -2069,7 +2694,7 @@
               ]
             }
           },
-          "value_count": 10521,
+          "value_count": 10611,
           "value_range": "0.0-41761429.0"
         },
         {
@@ -6778,8 +7403,8 @@
       ]
     },
     "macro": {
-      "file_count": 72,
-      "total_rows": 1709442,
+      "file_count": 77,
+      "total_rows": 1896781,
       "tables": [
         {
           "table_id": "0000010103",
@@ -7085,6 +7710,373 @@
           },
           "value_count": 49995,
           "value_range": "-21.2-19725.0"
+        },
+        {
+          "table_id": "0000100071",
+          "file": "0000100071.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1997
+          ],
+          "year_range": "1997-1997",
+          "areas": [
+            "三重県",
+            "三重県　中勢",
+            "三重県　人口10万以上市",
+            "三重県　人口5万未満市",
+            "三重県　人口5～10万市"
+          ],
+          "area_count": 432,
+          "axis_info": {
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "コンビニ",
+                "スーパー",
+                "スーパー　ディスカウント販売有り",
+                "スーパー　ディスカウント販売無し",
+                "一般小売店",
+                "一般小売店　ディスカウント販売有り",
+                "一般小売店　ディスカウント販売無し",
+                "百貨店",
+                "総数",
+                "量販専門店"
+              ]
+            },
+            "cat03_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "住宅地周辺商店街",
+                "住宅地周辺商店街以外",
+                "地下街",
+                "幹線道路周辺その他",
+                "幹線道路周辺ショッピングセンター",
+                "幹線道路周辺商店街",
+                "総数",
+                "駅周辺商店街",
+                "駅周辺商店街以外"
+              ]
+            }
+          },
+          "value_count": 24931,
+          "value_range": "1.0-20296.0"
+        },
+        {
+          "table_id": "0000100072",
+          "file": "0000100072.csv",
+          "total_rows": 13920,
+          "columns": [
+            "value",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1997
+          ],
+          "year_range": "1997-1997",
+          "areas": [
+            "三重県",
+            "中都市",
+            "京都府",
+            "人口10～15万未満市",
+            "人口15～30万未満市"
+          ],
+          "area_count": 58,
+          "axis_info": {
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "その他",
+                "コンビニ",
+                "スーパー",
+                "一般小売店",
+                "生協",
+                "百貨店",
+                "総数",
+                "量販専門店"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "競合店あり",
+                "競合店なし",
+                "総数"
+              ]
+            },
+            "cat04_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "住宅地周辺商店街",
+                "住宅地周辺商店街以外",
+                "地下街",
+                "幹線道路周辺その他",
+                "幹線道路周辺ショッピングセンター",
+                "幹線道路周辺商店街",
+                "総数",
+                "駅周辺商店街",
+                "駅周辺商店街以外"
+              ]
+            }
+          },
+          "value_count": 7322,
+          "value_range": "1.0-20296.0"
+        },
+        {
+          "table_id": "0000100073",
+          "file": "0000100073.csv",
+          "total_rows": 23200,
+          "columns": [
+            "value",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1997
+          ],
+          "year_range": "1997-1997",
+          "areas": [
+            "三重県",
+            "中都市",
+            "京都府",
+            "人口10～15万未満市",
+            "人口15～30万未満市"
+          ],
+          "area_count": 58,
+          "axis_info": {
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "その他",
+                "コンビニ",
+                "スーパー",
+                "一般小売店",
+                "生協",
+                "百貨店",
+                "総数",
+                "量販専門店"
+              ]
+            },
+            "cat03_label": {
+              "count": 5,
+              "samples": [
+                "総数",
+                "１００ｍ未満",
+                "１００～５００ｍ",
+                "１ｋｍ以上",
+                "５００ｍ～１ｋｍ"
+              ]
+            },
+            "cat04_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "住宅地周辺商店街",
+                "住宅地周辺商店街以外",
+                "地下街",
+                "幹線道路周辺その他",
+                "幹線道路周辺ショッピングセンター",
+                "幹線道路周辺商店街",
+                "総数",
+                "駅周辺商店街",
+                "駅周辺商店街以外"
+              ]
+            }
+          },
+          "value_count": 11127,
+          "value_range": "1.0-18730.0"
+        },
+        {
+          "table_id": "0000100078",
+          "file": "0000100078.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1997
+          ],
+          "year_range": "1997-1997",
+          "areas": [
+            "三重県",
+            "中都市",
+            "京都府",
+            "人口10～15万未満市",
+            "人口15～30万未満市"
+          ],
+          "area_count": 58,
+          "axis_info": {
+            "cat01_label": {
+              "count": 9,
+              "samples": [
+                "あじ，１００ｇ",
+                "うるち米，あきたこまち，５ｋｇ",
+                "うるち米，コシヒカリ・あきたこまち以外の品種，５ｋｇ",
+                "うるち米，コシヒカリ，５ｋｇ",
+                "たこ，１００ｇ",
+                "まぐろ，１００ｇ",
+                "即席めん，日清カップヌードル醤油味，７６ｇ",
+                "小麦粉",
+                "食パン"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "その他",
+                "コンビニ",
+                "スーパー",
+                "一般小売店",
+                "生協",
+                "百貨店",
+                "総数",
+                "量販専門店"
+              ]
+            },
+            "cat03_label": {
+              "count": 12,
+              "samples": [
+                "平均",
+                "標準偏差",
+                "集計価格数",
+                "１％点",
+                "１０％点",
+                "２５％点",
+                "５％点",
+                "５０％点",
+                "７５％点",
+                "９０％点"
+              ]
+            }
+          },
+          "value_count": 35940,
+          "value_range": "0.0-9576.0"
+        },
+        {
+          "table_id": "0000100079",
+          "file": "0000100079.csv",
+          "total_rows": 50000,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1997
+          ],
+          "year_range": "1997-1997",
+          "areas": [
+            "三重県",
+            "中都市",
+            "京都府",
+            "人口10～15万未満市",
+            "人口15～30万未満市"
+          ],
+          "area_count": 58,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "あじ，１００ｇ",
+                "うるち米，あきたこまち，５ｋｇ",
+                "うるち米，コシヒカリ・あきたこまち以外の品種，５ｋｇ",
+                "うるち米，コシヒカリ，５ｋｇ",
+                "まぐろ，１００ｇ",
+                "即席めん，日清カップヌードル醤油味，７６ｇ",
+                "小麦粉",
+                "食パン"
+              ]
+            },
+            "cat02_label": {
+              "count": 10,
+              "samples": [
+                "その他",
+                "住宅周辺商店街以外",
+                "住宅地周辺商店街",
+                "地下街",
+                "幹線道路周辺その他",
+                "幹線道路周辺ショッピングセンター",
+                "幹線道路周辺商店街",
+                "総数",
+                "駅周辺商店街",
+                "駅周辺商店街以外"
+              ]
+            },
+            "cat03_label": {
+              "count": 12,
+              "samples": [
+                "平均",
+                "標準偏差",
+                "集計価格数",
+                "１％点",
+                "１０％点",
+                "２５％点",
+                "５％点",
+                "５０％点",
+                "７５％点",
+                "９０％点"
+              ]
+            }
+          },
+          "value_count": 45528,
+          "value_range": "0.0-9576.0"
         },
         {
           "table_id": "0000110001",
@@ -7953,7 +8945,7 @@
         {
           "table_id": "0002060006",
           "file": "0002060006.csv",
-          "total_rows": 28092,
+          "total_rows": 28197,
           "columns": [
             "value",
             "tab",
@@ -8068,7 +9060,7 @@
               ]
             }
           },
-          "value_count": 27444,
+          "value_count": 27549,
           "value_range": "0.0-100.0"
         },
         {
@@ -8486,7 +9478,7 @@
         {
           "table_id": "0003005865",
           "file": "0003005865.csv",
-          "total_rows": 2511,
+          "total_rows": 2520,
           "columns": [
             "value",
             "tab",
@@ -8569,7 +9561,7 @@
               ]
             }
           },
-          "value_count": 2457,
+          "value_count": 2466,
           "value_range": "1.9-76.8"
         },
         {
@@ -8679,13 +9671,13 @@
               ]
             }
           },
-          "value_count": 48632,
+          "value_count": 48638,
           "value_range": "0.3-100.0"
         },
         {
           "table_id": "0003006300",
           "file": "0003006300.csv",
-          "total_rows": 29416,
+          "total_rows": 29521,
           "columns": [
             "value",
             "tab",
@@ -8783,7 +9775,7 @@
               ]
             }
           },
-          "value_count": 28768,
+          "value_count": 28873,
           "value_range": "0.0-100.0"
         },
         {
@@ -17961,7 +18953,7 @@
     },
     "trade": {
       "file_count": 4,
-      "total_rows": 16074,
+      "total_rows": 16340,
       "tables": [
         {
           "table_id": "0003425293",
@@ -18018,7 +19010,7 @@
         {
           "table_id": "0004002160",
           "file": "0004002160.csv",
-          "total_rows": 5948,
+          "total_rows": 6054,
           "columns": [
             "value",
             "cat01",
@@ -18048,7 +19040,7 @@
             "107_モンゴル",
             "108_香港"
           ],
-          "area_count": 171,
+          "area_count": 173,
           "axis_info": {
             "cat01_label": {
               "count": 1,
@@ -18078,7 +19070,7 @@
               ]
             }
           },
-          "value_count": 5948,
+          "value_count": 6054,
           "value_range": "0.0-0.0"
         },
         {
@@ -18144,7 +19136,7 @@
         {
           "table_id": "0004002163",
           "file": "0004002163.csv",
-          "total_rows": 10030,
+          "total_rows": 10190,
           "columns": [
             "value",
             "cat01",
@@ -18204,7 +19196,7 @@
               ]
             }
           },
-          "value_count": 10030,
+          "value_count": 10190,
           "value_range": "0.0-0.0"
         }
       ]
@@ -19072,16 +20064,16 @@
       ]
     }
   },
-  "total_files": 289,
-  "total_rows": 4358042,
+  "total_files": 304,
+  "total_rows": 4840294,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
-      "size_kb": 31.0
+      "size_kb": 39.2
     },
     {
       "file": "_dir_census.json",
-      "size_kb": 20.2
+      "size_kb": 29.1
     },
     {
       "file": "_dir_construction.json",
@@ -19109,7 +20101,7 @@
     },
     {
       "file": "_dir_macro.json",
-      "size_kb": 139.5
+      "size_kb": 150.3
     },
     {
       "file": "_dir_manufacturing.json",

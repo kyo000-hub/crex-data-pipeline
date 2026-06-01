@@ -1,6 +1,6 @@
 {
   "directory": "construction",
-  "updated": "2026-05-15",
+  "updated": "2026-06-01",
   "file_count": 10,
   "tables": [
     {
@@ -18,8 +18,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "2007-2025",
-      "year_count": 19,
+      "year_range": "2007-2026",
+      "year_count": 20,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -58,7 +58,7 @@
           ]
         },
         "time_label": {
-          "count": 225,
+          "count": 227,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -253,7 +253,7 @@
     },
     {
       "table_id": "0003126568",
-      "rows": 10800,
+      "rows": 10896,
       "columns": [
         "value",
         "tab",
@@ -264,8 +264,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "2007-2025",
-      "year_count": 19,
+      "year_range": "2007-2026",
+      "year_count": 20,
       "categories": {
         "tab_label": {
           "count": 12,
@@ -294,7 +294,7 @@
           ]
         },
         "time_label": {
-          "count": 225,
+          "count": 227,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -906,5 +906,5 @@
       }
     }
   ],
-  "total_rows": 303078
+  "total_rows": 303174
 }
