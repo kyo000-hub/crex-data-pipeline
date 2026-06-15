@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01 21:54",
+  "updated": "2026-06-15 21:12",
   "directories": {
     "agriculture": {
       "file_count": 25,
@@ -2386,8 +2386,8 @@
       ]
     },
     "construction": {
-      "file_count": 10,
-      "total_rows": 303174,
+      "file_count": 15,
+      "total_rows": 334221,
       "tables": [
         {
           "table_id": "0003125915",
@@ -2467,6 +2467,372 @@
           },
           "value_count": 40047,
           "value_range": "0.0-36313.0"
+        },
+        {
+          "table_id": "0003126261",
+          "file": "0003126261.csv",
+          "total_rows": 3942,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026
+          ],
+          "year_range": "2008-2026",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "受注高",
+                "工事件数"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "合計",
+                "土木",
+                "建築"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "公共機関",
+                "民間等",
+                "総計"
+              ]
+            }
+          },
+          "value_count": 3942,
+          "value_range": "2.0-3074652.0"
+        },
+        {
+          "table_id": "0003126264",
+          "file": "0003126264.csv",
+          "total_rows": 342,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "year_range": "2007-2025",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "受注高",
+                "工事件数"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "合計",
+                "土木",
+                "建築"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "公共機関",
+                "民間等",
+                "総計"
+              ]
+            }
+          },
+          "value_count": 342,
+          "value_range": "113.0-15874365.0"
+        },
+        {
+          "table_id": "0003126265",
+          "file": "0003126265.csv",
+          "total_rows": 11991,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "year_range": "2005-2025",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "受注高"
+              ]
+            },
+            "cat01_label": {
+              "count": 20,
+              "samples": [
+                "その他",
+                "上水道・下水道",
+                "事務所・庁舎",
+                "住宅",
+                "倉庫・流通施設",
+                "医療・福祉施設",
+                "合計",
+                "土地造成",
+                "土木",
+                "娯楽施設"
+              ]
+            },
+            "cat02_label": {
+              "count": 28,
+              "samples": [
+                "その他",
+                "サービス業",
+                "不動産業",
+                "公共機関",
+                "公団・事業団",
+                "卸売業，小売業",
+                "国",
+                "国の機関",
+                "国内",
+                "地方の機関"
+              ]
+            }
+          },
+          "value_count": 11991,
+          "value_range": "-43094.0-21228638.0"
+        },
+        {
+          "table_id": "0003126277",
+          "file": "0003126277.csv",
+          "total_rows": 3942,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026
+          ],
+          "year_range": "2008-2026",
+          "areas": [
+            "中国地方",
+            "中部地方",
+            "九州・沖縄地方",
+            "北海道地方",
+            "北陸地方"
+          ],
+          "area_count": 9,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "前年同月比",
+                "受注高"
+              ]
+            }
+          },
+          "value_count": 3942,
+          "value_range": "-84.4-2084366.0"
+        },
+        {
+          "table_id": "0003126279",
+          "file": "0003126279.csv",
+          "total_rows": 10830,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "year_range": "2007-2025",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "受注高"
+              ]
+            },
+            "cat01_label": {
+              "count": 20,
+              "samples": [
+                "その他",
+                "上水道・下水道",
+                "事務所・庁舎",
+                "住宅",
+                "倉庫・流通施設",
+                "医療・福祉施設",
+                "合計",
+                "土地造成",
+                "土木",
+                "娯楽施設"
+              ]
+            },
+            "cat02_label": {
+              "count": 27,
+              "samples": [
+                "その他",
+                "サービス業",
+                "不動産業",
+                "公共機関",
+                "卸売業，小売業",
+                "国",
+                "国の機関",
+                "国内",
+                "地方の機関",
+                "地方公営企業"
+              ]
+            }
+          },
+          "value_count": 10830,
+          "value_range": "-41053.0-21149276.0"
         },
         {
           "table_id": "0003126456",
@@ -7404,7 +7770,7 @@
     },
     "macro": {
       "file_count": 77,
-      "total_rows": 1896781,
+      "total_rows": 1896920,
       "tables": [
         {
           "table_id": "0000010103",
@@ -9472,7 +9838,7 @@
               ]
             }
           },
-          "value_count": 23520,
+          "value_count": 23524,
           "value_range": "0.1-10000.0"
         },
         {
@@ -12210,7 +12576,7 @@
         {
           "table_id": "0003449369",
           "file": "0003449369.csv",
-          "total_rows": 45479,
+          "total_rows": 45618,
           "columns": [
             "value",
             "tab",
@@ -12290,7 +12656,7 @@
               ]
             }
           },
-          "value_count": 44610,
+          "value_count": 44749,
           "value_range": "0.0-6017260.0"
         },
         {
@@ -20064,8 +20430,8 @@
       ]
     }
   },
-  "total_files": 304,
-  "total_rows": 4840294,
+  "total_files": 309,
+  "total_rows": 4871480,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
@@ -20077,7 +20443,7 @@
     },
     {
       "file": "_dir_construction.json",
-      "size_kb": 21.7
+      "size_kb": 29.5
     },
     {
       "file": "_dir_corporate.json",

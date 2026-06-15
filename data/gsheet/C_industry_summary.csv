@@ -41,6 +41,11 @@ census,0003389782,225,2012-2012,cat01_label(9) / cat02_label(25),estat-census
 census,0003389783,432,2012-2012,cat01_label(9) / area_label(48),estat-census
 census,0003413553,8568,2012-2012,cat02_label(15),estat-census
 construction,0003125915,50000,2007-2026,cat02_label(5),estat-construction
+construction,0003126261,3942,2008-2026,cat01_label(2) / cat02_label(3),estat-construction
+construction,0003126264,342,2007-2025,tab_label(2) / cat01_label(3) / cat02_label(3) / time_label(19),estat-construction
+construction,0003126265,11991,2005-2025,cat01_label(2) / cat02_label(27) / time_label(21),estat-construction
+construction,0003126277,3942,2008-2026,area_label(5),estat-construction
+construction,0003126279,10830,2007-2025,cat01_label(2) / cat02_label(26) / time_label(19),estat-construction
 construction,0003126456,33620,2005-2024,cat01_label(2) / area_label(41) / time_label(20),estat-construction
 construction,0003126559,10580,2005-2024,cat01_label(3) / cat02_label(23) / time_label(20),estat-construction
 construction,0003126568,10896,2007-2026,tab_label(2) / cat01_label(4),estat-construction
@@ -177,7 +182,7 @@ macro,0003411565,100000,1995-2024,time_label(19),estat-macro
 macro,0003419448,336,2017-2019,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003421913,50000,2000-2026,area_label(4),estat-macro
 macro,0003449368,3685,2000-2025,time_label(26),estat-macro
-macro,0003449369,45479,2000-2026,cat01_label(7),estat-macro
+macro,0003449369,45618,2000-2026,cat01_label(7),estat-macro
 macro,0004003340,21,2019-2019,tab_label(3) / cat01_label(7),estat-macro
 macro,0004003341,50000,2019-2019,cat02_label(2) / cat03_label(19) / cat04_label(38),estat-macro
 macro,0004003349,51,2019-2019,tab_label(3) / cat01_label(10),estat-macro

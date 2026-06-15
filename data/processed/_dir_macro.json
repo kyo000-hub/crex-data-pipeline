@@ -1,6 +1,6 @@
 {
   "directory": "macro",
-  "updated": "2026-06-01",
+  "updated": "2026-06-15",
   "file_count": 77,
   "tables": [
     {
@@ -1768,7 +1768,7 @@
           ]
         },
         "time_label": {
-          "count": 495,
+          "count": 496,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -2022,7 +2022,7 @@
           ]
         },
         "time_label": {
-          "count": 495,
+          "count": 496,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -4888,7 +4888,7 @@
           ]
         },
         "time_label": {
-          "count": 315,
+          "count": 316,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -4991,7 +4991,7 @@
     },
     {
       "table_id": "0003449369",
-      "rows": 45479,
+      "rows": 45618,
       "columns": [
         "value",
         "tab",
@@ -5048,7 +5048,7 @@
           ]
         },
         "time_label": {
-          "count": 315,
+          "count": 316,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -5998,5 +5998,5 @@
       }
     }
   ],
-  "total_rows": 1896781
+  "total_rows": 1896920
 }
