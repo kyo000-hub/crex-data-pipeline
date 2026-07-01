@@ -1,6 +1,6 @@
 {
   "directory": "macro",
-  "updated": "2026-06-15",
+  "updated": "2026-07-01",
   "file_count": 77,
   "tables": [
     {
@@ -104,8 +104,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "1975-2024",
-      "year_count": 50,
+      "year_range": "1975-2025",
+      "year_count": 51,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -114,7 +114,7 @@
           ]
         },
         "cat01_label": {
-          "count": 18,
+          "count": 17,
           "samples": [
             "L2100_農家総所得",
             "L210101_農業所得",
@@ -154,7 +154,7 @@
           ]
         },
         "time_label": {
-          "count": 50,
+          "count": 51,
           "samples": [
             "1975年度",
             "1976年度",
@@ -1591,7 +1591,7 @@
           ]
         },
         "time_label": {
-          "count": 700,
+          "count": 701,
           "samples": [
             "1968年10月",
             "1968年11月",
@@ -1614,7 +1614,7 @@
     },
     {
       "table_id": "0002060006",
-      "rows": 28197,
+      "rows": 28302,
       "columns": [
         "value",
         "tab",
@@ -1688,7 +1688,7 @@
           ]
         },
         "time_label": {
-          "count": 496,
+          "count": 497,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -2045,7 +2045,7 @@
     },
     {
       "table_id": "0003005865",
-      "rows": 2520,
+      "rows": 2529,
       "columns": [
         "value",
         "tab",
@@ -2100,7 +2100,7 @@
           ]
         },
         "time_label": {
-          "count": 316,
+          "count": 317,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -2209,7 +2209,7 @@
           ]
         },
         "time_label": {
-          "count": 244,
+          "count": 245,
           "samples": [
             "2006年10月",
             "2006年11月",
@@ -2232,7 +2232,7 @@
     },
     {
       "table_id": "0003006300",
-      "rows": 29521,
+      "rows": 29626,
       "columns": [
         "value",
         "tab",
@@ -2302,7 +2302,7 @@
           ]
         },
         "time_label": {
-          "count": 316,
+          "count": 317,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -4888,7 +4888,7 @@
           ]
         },
         "time_label": {
-          "count": 316,
+          "count": 317,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -4991,7 +4991,7 @@
     },
     {
       "table_id": "0003449369",
-      "rows": 45618,
+      "rows": 45757,
       "columns": [
         "value",
         "tab",
@@ -5048,7 +5048,7 @@
           ]
         },
         "time_label": {
-          "count": 316,
+          "count": 317,
           "samples": [
             "2000年10月",
             "2000年11月",
@@ -5998,5 +5998,5 @@
       }
     }
   ],
-  "total_rows": 1896920
+  "total_rows": 1897278
 }

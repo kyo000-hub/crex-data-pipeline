@@ -1,6 +1,6 @@
 {
   "directory": "construction",
-  "updated": "2026-06-15",
+  "updated": "2026-07-01",
   "file_count": 15,
   "tables": [
     {
@@ -58,7 +58,7 @@
           ]
         },
         "time_label": {
-          "count": 227,
+          "count": 228,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -438,7 +438,7 @@
     },
     {
       "table_id": "0003126456",
-      "rows": 33620,
+      "rows": 35301,
       "columns": [
         "value",
         "tab",
@@ -451,8 +451,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "2005-2024",
-      "year_count": 20,
+      "year_range": "2005-2025",
+      "year_count": 21,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -501,7 +501,7 @@
           ]
         },
         "time_label": {
-          "count": 20,
+          "count": 21,
           "samples": [
             "2005年度",
             "2006年度",
@@ -524,7 +524,7 @@
     },
     {
       "table_id": "0003126559",
-      "rows": 10580,
+      "rows": 11109,
       "columns": [
         "value",
         "tab",
@@ -537,8 +537,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "2005-2024",
-      "year_count": 20,
+      "year_range": "2005-2025",
+      "year_count": 21,
       "categories": {
         "tab_label": {
           "count": 1,
@@ -587,7 +587,7 @@
           ]
         },
         "time_label": {
-          "count": 20,
+          "count": 21,
           "samples": [
             "2005年度",
             "2006年度",
@@ -610,7 +610,7 @@
     },
     {
       "table_id": "0003126568",
-      "rows": 10896,
+      "rows": 10944,
       "columns": [
         "value",
         "tab",
@@ -651,7 +651,7 @@
           ]
         },
         "time_label": {
-          "count": 227,
+          "count": 228,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -674,7 +674,7 @@
     },
     {
       "table_id": "0003422893",
-      "rows": 558,
+      "rows": 576,
       "columns": [
         "value",
         "tab",
@@ -687,8 +687,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "1994-2024",
-      "year_count": 31,
+      "year_range": "1994-2025",
+      "year_count": 32,
       "categories": {
         "tab_label": {
           "count": 4,
@@ -719,7 +719,7 @@
           ]
         },
         "time_label": {
-          "count": 31,
+          "count": 32,
           "samples": [
             "1994年度",
             "1995年度",
@@ -1263,5 +1263,5 @@
       }
     }
   ],
-  "total_rows": 334221
+  "total_rows": 336497
 }
