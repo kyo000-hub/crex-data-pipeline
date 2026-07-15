@@ -195,6 +195,7 @@ macro,cpi,100000,1975-2024,cat01_label(2) / area_label(48) / time_label(14),esta
 macro,housing-starts,1920,2023-2023,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
 macro,population,690,1991-1991,cat01_label(46) / cat02_label(3) / cat03_label(5),estat-macro
 macro,retail-sales,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
+manufacturing,0003015256,2852,2003-2007,cat02_label(44) / time_label(23),estat-manufacturing
 manufacturing,0003097058,133,—,cat01_label(7) / cat02_label(19),estat-manufacturing
 manufacturing,0003097059,7,—,cat01_label(7),estat-manufacturing
 manufacturing,0003097060,294,—,cat01_label(7) / cat02_label(42),estat-manufacturing
@@ -225,6 +226,9 @@ manufacturing,0003097464,5957,2008-2012,cat01_label(2) / cat02_label(37) / time_
 manufacturing,0003097467,364,2011-2012,cat01_label(2) / cat02_label(14) / time_label(13),estat-manufacturing
 manufacturing,0003097468,78,2011-2012,cat01_label(2) / cat02_label(3) / time_label(13),estat-manufacturing
 manufacturing,0003097469,26,2011-2012,cat01_label(2) / time_label(13),estat-manufacturing
+manufacturing,0003097955,2714,2008-2012,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003099288,116,—,cat01_label(5),estat-manufacturing
+manufacturing,0003100085,918,2008-2012,time_label(17),estat-manufacturing
 manufacturing,0003104133,80,—,cat01_label(8) / cat02_label(10),estat-manufacturing
 manufacturing,0003104134,215,—,cat01_label(5) / cat02_label(43),estat-manufacturing
 manufacturing,0003104135,80,—,cat01_label(5) / cat02_label(16),estat-manufacturing
@@ -246,6 +250,8 @@ manufacturing,0003104173,170,2008-2012,cat01_label(2) / cat02_label(5) / time_la
 manufacturing,0003104174,170,2008-2012,cat01_label(2) / cat02_label(5) / time_label(17),estat-manufacturing
 manufacturing,0003104185,34,2008-2012,cat01_label(2) / time_label(17),estat-manufacturing
 manufacturing,0003104186,68,2008-2012,cat01_label(4) / time_label(17),estat-manufacturing
+manufacturing,0003112952,112,—,cat01_label(5),estat-manufacturing
+manufacturing,0003115966,2576,2009-2013,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
 manufacturing,0003119584,1840,2009-2013,cat01_label(5) / cat02_label(10) / time_label(23),estat-manufacturing
 manufacturing,0003119601,80,—,cat01_label(8) / cat02_label(10),estat-manufacturing
 manufacturing,0003119602,28,—,cat01_label(7) / cat02_label(4),estat-manufacturing
@@ -255,6 +261,30 @@ manufacturing,0003119632,13,—,cat01_label(13),estat-manufacturing
 manufacturing,0003119633,644,2009-2013,cat01_label(7) / cat02_label(4) / time_label(23),estat-manufacturing
 manufacturing,0003119635,238,2009-2013,cat01_label(2) / cat02_label(7) / time_label(17),estat-manufacturing
 manufacturing,0003119636,68,2009-2013,cat01_label(4) / time_label(17),estat-manufacturing
+manufacturing,0003127743,112,—,cat01_label(5),estat-manufacturing
+manufacturing,0003128147,2576,2010-2014,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003137063,2576,2007-2011,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003137120,110,—,cat01_label(5),estat-manufacturing
+manufacturing,0003137177,918,2007-2011,time_label(17),estat-manufacturing
+manufacturing,0003140573,1836,2006-2010,cat01_label(30) / cat02_label(2) / time_label(17),estat-manufacturing
+manufacturing,0003140579,122,—,cat01_label(5),estat-manufacturing
+manufacturing,0003140611,2852,2006-2010,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003168708,110,—,cat01_label(5),estat-manufacturing
+manufacturing,0003168737,2530,2011-2015,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003194194,110,—,cat01_label(5),estat-manufacturing
+manufacturing,0003194236,2530,2012-2016,cat01_label(3) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003225869,2461,2013-2017,cat01_label(4) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003226683,107,—,cat01_label(6),estat-manufacturing
+manufacturing,0003343141,107,—,cat01_label(6),estat-manufacturing
+manufacturing,0003343182,2461,2014-2018,cat01_label(4) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003416704,107,—,cat01_label(6),estat-manufacturing
+manufacturing,0003416745,2461,2015-2019,cat01_label(4) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003438929,107,—,cat01_label(6),estat-manufacturing
+manufacturing,0003438970,2461,2016-2020,cat01_label(4) / cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0004001018,1978,—,cat01_label(12),estat-manufacturing
+manufacturing,0004014438,1725,2022-2022,cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0004019784,1725,2023-2023,cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0004032941,900,2024-2024,time_label(12),estat-manufacturing
 medical,0003027254,11623,2008-2008,cat01_label(17),estat-medical
 medical,0003027265,450,2008-2008,cat01_label(2) / cat02_label(3) / cat03_label(3) / cat04_label(25),estat-medical
 medical,0003027283,354,2008-2008,cat01_label(2) / cat02_label(3),estat-medical
