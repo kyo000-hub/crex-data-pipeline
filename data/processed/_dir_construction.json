@@ -1,6 +1,6 @@
 {
   "directory": "construction",
-  "updated": "2026-07-15",
+  "updated": "2026-08-01",
   "file_count": 15,
   "tables": [
     {
@@ -58,7 +58,7 @@
           ]
         },
         "time_label": {
-          "count": 228,
+          "count": 229,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -81,7 +81,7 @@
     },
     {
       "table_id": "0003126261",
-      "rows": 3942,
+      "rows": 3960,
       "columns": [
         "value",
         "tab",
@@ -121,7 +121,7 @@
           ]
         },
         "time_label": {
-          "count": 219,
+          "count": 220,
           "samples": [
             "2008年10月",
             "2008年11月",
@@ -293,7 +293,7 @@
     },
     {
       "table_id": "0003126277",
-      "rows": 3942,
+      "rows": 3960,
       "columns": [
         "value",
         "tab",
@@ -329,7 +329,7 @@
           ]
         },
         "time_label": {
-          "count": 219,
+          "count": 220,
           "samples": [
             "2008年10月",
             "2008年11月",
@@ -610,7 +610,7 @@
     },
     {
       "table_id": "0003126568",
-      "rows": 10944,
+      "rows": 10992,
       "columns": [
         "value",
         "tab",
@@ -651,7 +651,7 @@
           ]
         },
         "time_label": {
-          "count": 228,
+          "count": 229,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -1263,5 +1263,5 @@
       }
     }
   ],
-  "total_rows": 336497
+  "total_rows": 336581
 }

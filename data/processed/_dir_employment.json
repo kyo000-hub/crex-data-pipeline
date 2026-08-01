@@ -1,6 +1,6 @@
 {
   "directory": "employment",
-  "updated": "2026-07-15",
+  "updated": "2026-08-01",
   "file_count": 12,
   "tables": [
     {
@@ -974,7 +974,7 @@
     },
     {
       "table_id": "0003109558",
-      "rows": 24624,
+      "rows": 25992,
       "columns": [
         "value",
         "tab",
@@ -987,8 +987,8 @@
         "time_label",
         "unit"
       ],
-      "year_range": "2007-2024",
-      "year_count": 18,
+      "year_range": "2007-2025",
+      "year_count": 19,
       "categories": {
         "tab_label": {
           "count": 6,
@@ -1029,7 +1029,7 @@
           ]
         },
         "time_label": {
-          "count": 18,
+          "count": 19,
           "samples": [
             "2007年",
             "2008年",
@@ -1120,5 +1120,5 @@
       }
     }
   ],
-  "total_rows": 367318
+  "total_rows": 368686
 }

@@ -1,4 +1,9 @@
 directory,table_id,total_rows,year_range,categories,source_id
+agriculture,0003008532,516,—,cat01_label(4),estat-agri
+agriculture,0003008533,516,—,cat01_label(4),estat-agri
+agriculture,0003008534,324,—,cat01_label(4),estat-agri
+agriculture,0003008535,408,—,cat01_label(4),estat-agri
+agriculture,0003008536,387,—,cat01_label(3),estat-agri
 agriculture,0003050523,30,—,cat01_label(3) / cat02_label(10),estat-agri
 agriculture,0003093186,30,—,cat01_label(3) / cat02_label(10),estat-agri
 agriculture,0003104636,30,—,cat01_label(3) / cat02_label(10),estat-agri
@@ -41,14 +46,14 @@ census,0003389782,225,2012-2012,cat01_label(9) / cat02_label(25),estat-census
 census,0003389783,432,2012-2012,cat01_label(9) / area_label(48),estat-census
 census,0003413553,8568,2012-2012,cat02_label(15),estat-census
 construction,0003125915,50000,2007-2026,cat02_label(5),estat-construction
-construction,0003126261,3942,2008-2026,cat01_label(2) / cat02_label(3),estat-construction
+construction,0003126261,3960,2008-2026,cat01_label(2) / cat02_label(3),estat-construction
 construction,0003126264,342,2007-2025,tab_label(2) / cat01_label(3) / cat02_label(3) / time_label(19),estat-construction
 construction,0003126265,11991,2005-2025,cat01_label(2) / cat02_label(27) / time_label(21),estat-construction
-construction,0003126277,3942,2008-2026,area_label(5),estat-construction
+construction,0003126277,3960,2008-2026,area_label(5),estat-construction
 construction,0003126279,10830,2007-2025,cat01_label(2) / cat02_label(26) / time_label(19),estat-construction
 construction,0003126456,35301,2005-2025,cat01_label(2) / area_label(41) / time_label(21),estat-construction
 construction,0003126559,11109,2005-2025,cat01_label(3) / cat02_label(23) / time_label(21),estat-construction
-construction,0003126568,10944,2007-2026,tab_label(2) / cat01_label(4),estat-construction
+construction,0003126568,10992,2007-2026,tab_label(2) / cat01_label(4),estat-construction
 construction,0003422893,576,1994-2025,tab_label(4) / cat01_label(3) / cat02_label(6) / time_label(32),estat-construction
 construction,0003458612,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
 construction,0003458613,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
@@ -68,6 +73,11 @@ corporate,0003059049,2460,—,cat01_label(7),estat-corp-finance
 corporate,0003094240,132,2007-2008,cat01_label(2) / cat02_label(11) / cat03_label(3) / time_label(2),estat-corp-finance
 corporate,0003094258,66,2007-2008,cat02_label(11) / cat03_label(3) / time_label(2),estat-corp-finance
 corporate,0003094259,99,2008-2008,cat01_label(3) / cat02_label(11) / cat03_label(3),estat-corp-finance
+corporate,0003104182,30000,2015-2016,cat02_label(16) / cat03_label(2) / time_label(32),estat-corp-finance
+corporate,0003104200,30000,2015-2016,cat01_label(2) / cat02_label(14) / cat03_label(2) / time_label(32),estat-corp-finance
+corporate,0003104201,10560,2015-2016,cat02_label(32) / time_label(32),estat-corp-finance
+corporate,0003104219,30000,2015-2016,cat02_label(16) / cat03_label(2) / time_label(32),estat-corp-finance
+corporate,0003104228,30000,2015-2016,cat02_label(32) / time_label(32),estat-corp-finance
 corporate,0003239543,9162,—,,estat-corp-finance
 corporate,0003240110,2475,—,cat01_label(7),estat-corp-finance
 corporate,0003287200,7110,2014-2016,cat01_label(12) / cat02_label(15) / cat03_label(2) / time_label(3),estat-corp-finance
@@ -104,7 +114,7 @@ employment,0003004106,10500,2007-2007,cat01_label(2) / cat02_label(14) / cat03_l
 employment,0003004537,100000,2007-2007,cat02_label(2) / cat03_label(3) / cat04_label(2),estat-employment
 employment,0003005472,100000,2007-2007,cat02_label(13) / cat04_label(26) / cat05_label(3),estat-employment
 employment,0003005473,100000,2007-2007,cat02_label(5) / cat03_label(5) / cat04_label(16) / cat05_label(3),estat-employment
-employment,0003109558,24624,2007-2024,cat01_label(28) / cat02_label(2) / time_label(18),estat-employment
+employment,0003109558,25992,2007-2025,cat01_label(27) / cat02_label(2) / time_label(19),estat-employment
 employment,0003109570,7792,2005-2020,tab_label(2) / cat02_label(2) / time_label(4),estat-employment
 energy,0003046635,34,—,cat01_label(2) / cat02_label(16),estat-energy
 energy,0003047173,34,—,cat01_label(2) / cat02_label(16),estat-energy
@@ -138,14 +148,14 @@ macro,0000150004,2511,1991-1991,cat01_label(38) / cat02_label(3) / cat03_label(9
 macro,0000150005,150,1991-1991,cat01_label(25) / cat02_label(6),estat-macro
 macro,0000150271,2538,2006-2006,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
 macro,0002060004,50000,1968-2026,cat04_label(2),estat-macro
-macro,0002060006,28302,1985-2026,cat04_label(4),estat-macro
+macro,0002060006,28403,1985-2026,cat04_label(4),estat-macro
 macro,0002070001,30000,1985-2026,area_label(3),estat-macro
 macro,0002070002,30000,1985-2026,cat01_label(2) / cat02_label(4),estat-macro
 macro,0002070003,30000,1985-2025,area_label(28) / time_label(41),estat-macro
 macro,0002070004,30000,1985-2026,cat03_label(3),estat-macro
-macro,0003005865,2529,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
+macro,0003005865,2538,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
 macro,0003005867,50000,2006-2026,cat04_label(2) / cat05_label(4),estat-macro
-macro,0003006300,29626,2000-2026,cat04_label(4),estat-macro
+macro,0003006300,29728,2000-2026,cat04_label(4),estat-macro
 macro,0003006357,50000,2003-2008,cat04_label(9) / cat05_label(5) / time_label(24),estat-macro
 macro,0003007786,26563,2002-2002,cat03_label(3) / cat04_label(19) / cat05_label(5) / time_label(4),estat-macro
 macro,0003009245,50000,2007-2010,cat04_label(14) / cat05_label(5) / time_label(16),estat-macro
@@ -182,7 +192,7 @@ macro,0003411565,100000,1995-2024,time_label(19),estat-macro
 macro,0003419448,336,2017-2019,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003421913,50000,2000-2026,area_label(4),estat-macro
 macro,0003449368,3685,2000-2025,time_label(26),estat-macro
-macro,0003449369,45757,2000-2026,cat01_label(7),estat-macro
+macro,0003449369,45896,2000-2026,cat01_label(7),estat-macro
 macro,0004003340,21,2019-2019,tab_label(3) / cat01_label(7),estat-macro
 macro,0004003341,50000,2019-2019,cat02_label(2) / cat03_label(19) / cat04_label(38),estat-macro
 macro,0004003349,51,2019-2019,tab_label(3) / cat01_label(10),estat-macro
@@ -303,8 +313,18 @@ medical,0003385942,50000,2015-2024,cat02_label(18) / cat04_label(6) / time_label
 medical,0003385950,15300,2015-2024,cat01_label(2) / cat02_label(3) / cat03_label(3) / cat04_label(10) / time_label(10),estat-medical
 medical,0003385951,1530,2015-2024,cat01_label(12) / cat02_label(9) / time_label(10),estat-medical
 medical,0003403632,54,2018-2018,cat01_label(6) / cat02_label(9),estat-medical
+medical,0004019960,108,2021-2021,tab_label(12) / cat01_label(3) / cat02_label(7),estat-medical
+medical,0004019973,84,2021-2021,tab_label(12) / cat01_label(7),estat-medical
+medical,0004019986,504,1984-2021,tab_label(3) / cat01_label(8) / cat02_label(4) / time_label(14),estat-medical
+medical,0004019999,56,1984-2021,cat01_label(4) / time_label(14),estat-medical
+medical,0004020000,98,1984-2021,cat01_label(7) / time_label(14),estat-medical
 medical,0004029342,292,1952-2024,tab_label(2) / cat01_label(2) / cat02_label(2),estat-medical
 national-census,0000010106,100000,1975-2022,cat01_label(3) / area_label(48) / time_label(10),estat-national-census
+national-census,0000030001,3651,1980-1980,cat03_label(20),estat-national-census
+national-census,0000030002,16365,1980-1980,cat03_label(20),estat-national-census
+national-census,0000030003,100000,1980-1980,cat04_label(4) / cat05_label(5),estat-national-census
+national-census,0000030004,85848,1980-1980,cat04_label(6) / cat05_label(5),estat-national-census
+national-census,0000030005,13082,1980-1980,cat03_label(5) / cat04_label(5),estat-national-census
 national-census,0003410395,1152,1995-2020,tab_label(2) / cat01_label(24) / cat02_label(3) / time_label(8),estat-national-census
 national-census,0003410396,1512,1920-2000,tab_label(2) / cat01_label(18) / cat02_label(3) / time_label(14),estat-national-census
 national-census,0003411341,720,1995-2015,tab_label(2) / cat01_label(3) / cat02_label(24) / time_label(5),estat-national-census
@@ -325,9 +345,9 @@ service,0003102823,1197,2013-2013,tab_label(8),estat-service
 service,0003102867,1179,2013-2013,tab_label(8),estat-service
 service,0003102908,315,2013-2013,tab_label(9) / cat02_label(35),estat-service
 trade,0003425293,51,2021-2025,cat02_label(3) / area_label(6) / time_label(5),estat-trade
-trade,0004002160,6135,2023-2026,cat03_label(9) / time_label(4),estat-trade
+trade,0004002160,6202,2023-2026,cat03_label(9) / time_label(4),estat-trade
 trade,0004002162,45,2023-2026,cat02_label(3) / cat03_label(3) / area_label(4) / time_label(4),estat-trade
-trade,0004002163,10281,2023-2026,cat03_label(3) / time_label(4),estat-trade
+trade,0004002163,10364,2023-2026,cat03_label(3) / time_label(4),estat-trade
 transport,0003175401,864,2006-2015,tab_label(2) / cat01_label(6) / cat02_label(3) / cat03_label(3) / time_label(8),estat-transport
 transport,0003175402,1536,2006-2015,tab_label(2) / cat01_label(15) / area_label(14) / time_label(8),estat-transport
 transport,0003175403,80,2006-2015,cat01_label(10) / time_label(8),estat-transport
@@ -337,4 +357,9 @@ wage-structure,0003029886,100000,2009-2009,cat03_label(4) / cat04_label(13) / ca
 wage-structure,0003130236,100000,2004-2007,cat04_label(2) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(16),estat-wage-structure
 wage-structure,0003130256,100000,1999-2003,cat04_label(2) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(11),estat-wage-structure
 wage-structure,0003130276,94848,—,cat04_label(5) / cat05_label(5) / cat06_label(3) / cat07_label(3) / cat08_label(16),estat-wage-structure
+wage-structure,0003171770,100000,1999-2015,cat06_label(2) / time_label(17),estat-wage-structure
+wage-structure,0003172100,100000,2009-2015,cat04_label(5) / cat05_label(30) / time_label(7),estat-wage-structure
+wage-structure,0003426315,69600,2020-2023,cat01_label(2) / cat02_label(3) / time_label(2),estat-wage-structure
+wage-structure,0003426418,100000,2020-2023,cat02_label(4) / cat03_label(13) / cat04_label(6) / time_label(4),estat-wage-structure
 wage-structure,0003446118,78336,2020-2023,cat03_label(6) / area_label(48) / time_label(4),estat-wage-structure
+wage-structure,0003458078,100000,2020-2023,cat02_label(3) / cat03_label(13) / cat04_label(17) / time_label(2),estat-wage-structure

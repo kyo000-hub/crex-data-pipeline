@@ -1,8 +1,232 @@
 {
   "directory": "agriculture",
-  "updated": "2026-07-15",
-  "file_count": 25,
+  "updated": "2026-08-01",
+  "file_count": 30,
   "tables": [
+    {
+      "table_id": "0003008532",
+      "rows": 516,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "10ａ当たり収量",
+            "作付面積",
+            "作況指数",
+            "収穫量"
+          ]
+        },
+        "time_label": {
+          "count": 129,
+          "samples": [
+            "大.10",
+            "大.11",
+            "大.12",
+            "大.13",
+            "大.14",
+            "大.2",
+            "大.3",
+            "大.4",
+            "大.5",
+            "大.6",
+            "大.7",
+            "大.8",
+            "大.9",
+            "大.元",
+            "平.10"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003008533",
+      "rows": 516,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "10ａ当たり収量",
+            "作付面積",
+            "作況指数",
+            "収穫量"
+          ]
+        },
+        "time_label": {
+          "count": 129,
+          "samples": [
+            "大.10",
+            "大.11",
+            "大.12",
+            "大.13",
+            "大.14",
+            "大.2",
+            "大.3",
+            "大.4",
+            "大.5",
+            "大.6",
+            "大.7",
+            "大.8",
+            "大.9",
+            "大.元",
+            "平.10"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003008534",
+      "rows": 324,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "10ａ当たり収量",
+            "作付面積",
+            "作況指数(対平年比)",
+            "収穫量"
+          ]
+        },
+        "time_label": {
+          "count": 81,
+          "samples": [
+            "平.10",
+            "平.11",
+            "平.12",
+            "平.13",
+            "平.14",
+            "平.15",
+            "平.16",
+            "平.17",
+            "平.18",
+            "平.2",
+            "平.3",
+            "平.4",
+            "平.5",
+            "平.6",
+            "平.7"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003008535",
+      "rows": 408,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 4,
+          "samples": [
+            "10ａ当たり収量",
+            "作付面積",
+            "作況指数(対平年比)",
+            "収穫量"
+          ]
+        },
+        "time_label": {
+          "count": 102,
+          "samples": [
+            "大.10",
+            "大.11",
+            "大.12",
+            "大.13",
+            "大.14",
+            "大.2",
+            "大.3",
+            "大.4",
+            "大.5",
+            "大.6",
+            "大.7",
+            "大.8",
+            "大.9",
+            "大.元",
+            "平.10"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003008536",
+      "rows": 387,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "time",
+        "time_label",
+        "unit"
+      ],
+      "year_range": "—",
+      "year_count": 0,
+      "categories": {
+        "cat01_label": {
+          "count": 3,
+          "samples": [
+            "10ａ当たり収量",
+            "作付面積",
+            "収穫量"
+          ]
+        },
+        "time_label": {
+          "count": 129,
+          "samples": [
+            "大.10",
+            "大.11",
+            "大.12",
+            "大.13",
+            "大.14",
+            "大.2",
+            "大.3",
+            "大.4",
+            "大.5",
+            "大.6",
+            "大.7",
+            "大.8",
+            "大.9",
+            "大.元",
+            "平.10"
+          ]
+        }
+      }
+    },
     {
       "table_id": "0003050523",
       "rows": 30,
@@ -1558,5 +1782,5 @@
       }
     }
   ],
-  "total_rows": 230209
+  "total_rows": 232360
 }
