@@ -1,6 +1,6 @@
 {
   "directory": "macro",
-  "updated": "2026-08-01",
+  "updated": "2026-08-15",
   "file_count": 77,
   "tables": [
     {
@@ -1768,7 +1768,7 @@
           ]
         },
         "time_label": {
-          "count": 497,
+          "count": 498,
           "samples": [
             "1985年10月",
             "1985年11月",
@@ -1851,7 +1851,7 @@
           ]
         },
         "time_label": {
-          "count": 165,
+          "count": 166,
           "samples": [
             "1985年10～12月期",
             "1985年1～3月期",
@@ -2022,7 +2022,7 @@
           ]
         },
         "time_label": {
-          "count": 497,
+          "count": 498,
           "samples": [
             "1985年10月",
             "1985年11月",

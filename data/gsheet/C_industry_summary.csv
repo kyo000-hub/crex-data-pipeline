@@ -46,10 +46,10 @@ census,0003389782,225,2012-2012,cat01_label(9) / cat02_label(25),estat-census
 census,0003389783,432,2012-2012,cat01_label(9) / area_label(48),estat-census
 census,0003413553,8568,2012-2012,cat02_label(15),estat-census
 construction,0003125915,50000,2007-2026,cat02_label(5),estat-construction
-construction,0003126261,3960,2008-2026,cat01_label(2) / cat02_label(3),estat-construction
+construction,0003126261,3978,2008-2026,cat01_label(2) / cat02_label(3),estat-construction
 construction,0003126264,342,2007-2025,tab_label(2) / cat01_label(3) / cat02_label(3) / time_label(19),estat-construction
 construction,0003126265,11991,2005-2025,cat01_label(2) / cat02_label(27) / time_label(21),estat-construction
-construction,0003126277,3960,2008-2026,area_label(5),estat-construction
+construction,0003126277,3978,2008-2026,area_label(5),estat-construction
 construction,0003126279,10830,2007-2025,cat01_label(2) / cat02_label(26) / time_label(19),estat-construction
 construction,0003126456,35301,2005-2025,cat01_label(2) / area_label(41) / time_label(21),estat-construction
 construction,0003126559,11109,2005-2025,cat01_label(3) / cat02_label(23) / time_label(21),estat-construction
