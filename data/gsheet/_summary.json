@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-08-15T18:47:06.130653",
+  "timestamp": "2026-09-01T21:06:26.803035",
   "files": {
     "B_macro_annual.csv": {
       "rows": 26,
       "size_kb": 1.5
     },
     "C1_manufacturing_products.csv": {
-      "rows": 10433,
-      "size_kb": 1200.0
+      "rows": 11318,
+      "size_kb": 1269.2
     },
     "C_industry_summary.csv": {
-      "rows": 364,
-      "size_kb": 31.5
+      "rows": 409,
+      "size_kb": 35.7
     },
     "corporate_finance.csv": {
       "rows": 10780,

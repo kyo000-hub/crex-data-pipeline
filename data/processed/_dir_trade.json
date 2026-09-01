@@ -1,8 +1,265 @@
 {
   "directory": "trade",
-  "updated": "2026-08-15",
-  "file_count": 4,
+  "updated": "2026-09-01",
+  "file_count": 9,
   "tables": [
+    {
+      "table_id": "0003228116",
+      "rows": 60,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2002-2005",
+      "year_count": 4,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010110000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "area_label": {
+          "count": 9,
+          "samples": [
+            "103_大韓民国",
+            "105_中華人民共和国",
+            "108_香港",
+            "205_英国",
+            "206_アイルランド",
+            "207_オランダ",
+            "210_フランス",
+            "304_アメリカ合衆国",
+            "601_オーストラリア"
+          ]
+        },
+        "time_label": {
+          "count": 4,
+          "samples": [
+            "2002年",
+            "2003年",
+            "2004年",
+            "2005年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003228117",
+      "rows": 60,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2006-2010",
+      "year_count": 5,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010110000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "area_label": {
+          "count": 8,
+          "samples": [
+            "103_大韓民国",
+            "105_中華人民共和国",
+            "205_英国",
+            "206_アイルランド",
+            "207_オランダ",
+            "210_フランス",
+            "304_アメリカ合衆国",
+            "601_オーストラリア"
+          ]
+        },
+        "time_label": {
+          "count": 5,
+          "samples": [
+            "2006年",
+            "2007年",
+            "2008年",
+            "2009年",
+            "2010年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003228118",
+      "rows": 6,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "2011-2011",
+      "year_count": 1,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010110000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "area_label": {
+          "count": 2,
+          "samples": [
+            "103_大韓民国",
+            "210_フランス"
+          ]
+        },
+        "time_label": {
+          "count": 1,
+          "samples": [
+            "2011年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003258343",
+      "rows": 12,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "1988-1990",
+      "year_count": 3,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010111000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "area_label": {
+          "count": 2,
+          "samples": [
+            "103_大韓民国",
+            "210_フランス"
+          ]
+        },
+        "time_label": {
+          "count": 3,
+          "samples": [
+            "1988年",
+            "1989年",
+            "1990年"
+          ]
+        }
+      }
+    },
+    {
+      "table_id": "0003258344",
+      "rows": 21,
+      "columns": [
+        "value",
+        "cat01",
+        "cat01_label",
+        "cat02",
+        "cat02_label",
+        "area",
+        "area_label",
+        "time",
+        "time_label"
+      ],
+      "year_range": "1991-1995",
+      "year_count": 5,
+      "categories": {
+        "cat01_label": {
+          "count": 1,
+          "samples": [
+            "010111000"
+          ]
+        },
+        "cat02_label": {
+          "count": 3,
+          "samples": [
+            "単位2",
+            "合計_数量1",
+            "合計_数量2"
+          ]
+        },
+        "area_label": {
+          "count": 3,
+          "samples": [
+            "103_大韓民国",
+            "205_英国",
+            "304_アメリカ合衆国"
+          ]
+        },
+        "time_label": {
+          "count": 5,
+          "samples": [
+            "1991年",
+            "1992年",
+            "1993年",
+            "1994年",
+            "1995年"
+          ]
+        }
+      }
+    },
     {
       "table_id": "0003425293",
       "rows": 51,
@@ -283,5 +540,5 @@
       }
     }
   ],
-  "total_rows": 16662
+  "total_rows": 16821
 }

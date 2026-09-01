@@ -123,6 +123,891 @@ table_id,category,product_name,value,source_id
 0003015256,生産金額（百万円）,　　　その他の磁気テープ,91068.0,estat-manufacturing
 0003015256,生産金額（百万円）,　　光ディスク,68003.0,estat-manufacturing
 0003015256,生産金額（百万円）,　　スイッチング電源,113973.0,estat-manufacturing
+0003094991,受入,合計 (t),2521494.0,estat-manufacturing
+0003094991,受入,フェロマンガン 計 (t),528174.0,estat-manufacturing
+0003094991,受入,フェロマンガン 高炭素 (t),429299.0,estat-manufacturing
+0003094991,受入,フェロマンガン 低炭素 (t),98875.0,estat-manufacturing
+0003094991,受入,シリコマンガン (t),341346.0,estat-manufacturing
+0003094991,受入,フェロシリコン (t),393946.0,estat-manufacturing
+0003094991,受入,フェロクロム 計 (t),881014.0,estat-manufacturing
+0003094991,受入,フェロクロム 高炭素 (t),831019.0,estat-manufacturing
+0003094991,受入,フェロクロム 低炭素 (t),49995.0,estat-manufacturing
+0003094991,受入,フェロニッケル (t),260413.0,estat-manufacturing
+0003094991,受入,フェロタングステン (t),1407.0,estat-manufacturing
+0003094991,受入,フェロモリブデン (t),5762.0,estat-manufacturing
+0003094991,受入,フェロバナジウム (t),7883.0,estat-manufacturing
+0003094991,受入,その他のフェロアロイ (t),101549.0,estat-manufacturing
+0003094991,消費,合計 (t),2394599.0,estat-manufacturing
+0003094991,消費,フェロマンガン 計 (t),517034.0,estat-manufacturing
+0003094991,消費,フェロマンガン 高炭素 (t),419763.0,estat-manufacturing
+0003094991,消費,フェロマンガン 低炭素 (t),97271.0,estat-manufacturing
+0003094991,消費,シリコマンガン (t),332668.0,estat-manufacturing
+0003094991,消費,フェロシリコン (t),386710.0,estat-manufacturing
+0003094991,消費,フェロクロム 計 (t),808194.0,estat-manufacturing
+0003094991,消費,フェロクロム 高炭素 (t),760340.0,estat-manufacturing
+0003094991,消費,フェロクロム 低炭素 (t),47854.0,estat-manufacturing
+0003094991,消費,フェロニッケル (t),236874.0,estat-manufacturing
+0003094991,消費,フェロタングステン (t),1253.0,estat-manufacturing
+0003094991,消費,フェロモリブデン (t),5421.0,estat-manufacturing
+0003094991,消費,フェロバナジウム (t),7230.0,estat-manufacturing
+0003094991,消費,その他のフェロアロイ (t),99215.0,estat-manufacturing
+0003094991,在庫,合計 (t),353308.0,estat-manufacturing
+0003094991,在庫,フェロマンガン 計 (t),25070.0,estat-manufacturing
+0003094991,在庫,フェロマンガン 高炭素 (t),18875.0,estat-manufacturing
+0003094991,在庫,フェロマンガン 低炭素 (t),6195.0,estat-manufacturing
+0003094991,在庫,シリコマンガン (t),38890.0,estat-manufacturing
+0003094991,在庫,フェロシリコン (t),29156.0,estat-manufacturing
+0003094991,在庫,フェロクロム 計 (t),193774.0,estat-manufacturing
+0003094991,在庫,フェロクロム 高炭素 (t),184758.0,estat-manufacturing
+0003094991,在庫,フェロクロム 低炭素 (t),9016.0,estat-manufacturing
+0003094991,在庫,フェロニッケル (t),49452.0,estat-manufacturing
+0003094991,在庫,フェロタングステン (t),412.0,estat-manufacturing
+0003094991,在庫,フェロモリブデン (t),1276.0,estat-manufacturing
+0003094991,在庫,フェロバナジウム (t),1332.0,estat-manufacturing
+0003094991,在庫,その他のフェロアロイ (t),13946.0,estat-manufacturing
+0003095001,計,生産 (t),86171136.0,estat-manufacturing
+0003095001,計,受入 (t),4795332.0,estat-manufacturing
+0003095001,計,消費 (t),85509958.0,estat-manufacturing
+0003095001,計,出荷　販売 (t),4197992.0,estat-manufacturing
+0003095001,計,出荷 その他 (t),370370.0,estat-manufacturing
+0003095001,計,在庫 (t),1119048.0,estat-manufacturing
+0003095001,製鋼用銑,生産 (t),85599251.0,estat-manufacturing
+0003095001,製鋼用銑,受入 (t),4733744.0,estat-manufacturing
+0003095001,製鋼用銑,出荷　販売 (t),3649149.0,estat-manufacturing
+0003095001,製鋼用銑,出荷 その他 (t),370042.0,estat-manufacturing
+0003095001,製鋼用銑,在庫 (t),1021410.0,estat-manufacturing
+0003095001,鋳物用銑,生産 (t),571885.0,estat-manufacturing
+0003095001,鋳物用銑,受入 (t),25134.0,estat-manufacturing
+0003095001,鋳物用銑,出荷　販売 (t),548843.0,estat-manufacturing
+0003095001,鋳物用銑,出荷 その他 (t),328.0,estat-manufacturing
+0003095001,鋳物用銑,在庫 (t),89423.0,estat-manufacturing
+0003095001,鋳鉄管用,受入 (t),36454.0,estat-manufacturing
+0003095001,鋳鉄管用,在庫 (t),8215.0,estat-manufacturing
+0003095001,製鋼用・鋳物用　転炉用,消費 (t),84696050.0,estat-manufacturing
+0003095001,製鋼用・鋳物用　電気炉用,消費 (t),779073.0,estat-manufacturing
+0003095001,製鋼用・鋳物用　鋳鉄管用,消費 (t),34835.0,estat-manufacturing
+0003095020,計,合計,118739328.0,estat-manufacturing
+0003095020,計,転炉,89238291.0,estat-manufacturing
+0003095020,計,電気炉,29501037.0,estat-manufacturing
+0003095020,圧延用鋼塊 小計,合計,117507637.0,estat-manufacturing
+0003095020,圧延用鋼塊 小計,転炉,89220201.0,estat-manufacturing
+0003095020,圧延用鋼塊 小計,電気炉,28287436.0,estat-manufacturing
+0003095020,圧延用鋼塊（インゴットケースによるもの）,合計,1260645.0,estat-manufacturing
+0003095020,圧延用鋼塊（インゴットケースによるもの）,転炉,364395.0,estat-manufacturing
+0003095020,圧延用鋼塊（インゴットケースによるもの）,電気炉,896250.0,estat-manufacturing
+0003095020,圧延用鋼塊（連続鋳造によるもの）,合計,116246992.0,estat-manufacturing
+0003095020,圧延用鋼塊（連続鋳造によるもの）,転炉,88855806.0,estat-manufacturing
+0003095020,圧延用鋼塊（連続鋳造によるもの）,電気炉,27391186.0,estat-manufacturing
+0003095020,鍛鋼用鋼塊,合計,688464.0,estat-manufacturing
+0003095020,鍛鋼用鋼塊,転炉,18090.0,estat-manufacturing
+0003095020,鍛鋼用鋼塊,電気炉,670374.0,estat-manufacturing
+0003095020,鋳鋼鋳込,合計,543227.0,estat-manufacturing
+0003095020,鋳鋼鋳込,電気炉,543227.0,estat-manufacturing
+0003095023,生産,合計 (t),827823.0,estat-manufacturing
+0003095023,生産,フェロマンガン 計 (t),431181.0,estat-manufacturing
+0003095023,生産,フェロマンガン 高炭素 (t),323500.0,estat-manufacturing
+0003095023,生産,フェロマンガン 低炭素 (t),107681.0,estat-manufacturing
+0003095023,生産,シリコマンガン (t),58884.0,estat-manufacturing
+0003095023,生産,フェロクロム 計 (t),13888.0,estat-manufacturing
+0003095023,生産,フェロクロム 低炭素 (t),13888.0,estat-manufacturing
+0003095023,生産,フェロニッケル (t),301361.0,estat-manufacturing
+0003095023,生産,フェロモリブデン (t),4554.0,estat-manufacturing
+0003095023,生産,フェロバナジウム (t),3477.0,estat-manufacturing
+0003095023,生産,その他のフェロアロイ (t),14478.0,estat-manufacturing
+0003095023,受入,合計 (t),257705.0,estat-manufacturing
+0003095023,受入,フェロマンガン 計 (t),191863.0,estat-manufacturing
+0003095023,受入,フェロマンガン 高炭素 (t),166711.0,estat-manufacturing
+0003095023,受入,フェロマンガン 低炭素 (t),25152.0,estat-manufacturing
+0003095023,受入,シリコマンガン (t),9092.0,estat-manufacturing
+0003095023,受入,フェロシリコン (t),33454.0,estat-manufacturing
+0003095023,受入,フェロクロム 計 (t),15468.0,estat-manufacturing
+0003095023,受入,フェロクロム 高炭素 (t),13386.0,estat-manufacturing
+0003095023,受入,フェロクロム 低炭素 (t),2082.0,estat-manufacturing
+0003095023,受入,フェロニッケル (t),684.0,estat-manufacturing
+0003095023,受入,フェロモリブデン (t),56.0,estat-manufacturing
+0003095023,受入,フェロバナジウム (t),268.0,estat-manufacturing
+0003095023,受入,その他のフェロアロイ (t),6820.0,estat-manufacturing
+0003095023,消費,合計 (t),296436.0,estat-manufacturing
+0003095023,消費,フェロマンガン 計 (t),206112.0,estat-manufacturing
+0003095023,消費,フェロマンガン 高炭素 (t),151308.0,estat-manufacturing
+0003095023,消費,フェロマンガン 低炭素 (t),54804.0,estat-manufacturing
+0003095023,消費,シリコマンガン (t),39816.0,estat-manufacturing
+0003095023,消費,フェロシリコン (t),32246.0,estat-manufacturing
+0003095023,消費,フェロクロム 計 (t),10864.0,estat-manufacturing
+0003095023,消費,フェロクロム 高炭素 (t),7285.0,estat-manufacturing
+0003095023,消費,フェロクロム 低炭素 (t),3579.0,estat-manufacturing
+0003095023,消費,フェロニッケル (t),735.0,estat-manufacturing
+0003095023,消費,フェロモリブデン (t),50.0,estat-manufacturing
+0003095023,消費,フェロバナジウム (t),331.0,estat-manufacturing
+0003095023,消費,その他のフェロアロイ (t),6282.0,estat-manufacturing
+0003095023,出荷 販売,合計 (t),898170.0,estat-manufacturing
+0003095023,出荷 販売,フェロマンガン 計 (t),571618.0,estat-manufacturing
+0003095023,出荷 販売,フェロマンガン 高炭素 (t),451872.0,estat-manufacturing
+0003095023,出荷 販売,フェロマンガン 低炭素 (t),119746.0,estat-manufacturing
+0003095023,出荷 販売,シリコマンガン (t),39979.0,estat-manufacturing
+0003095023,出荷 販売,フェロシリコン (t),965.0,estat-manufacturing
+0003095023,出荷 販売,フェロクロム 計 (t),20605.0,estat-manufacturing
+0003095023,出荷 販売,フェロクロム 高炭素 (t),7964.0,estat-manufacturing
+0003095023,出荷 販売,フェロクロム 低炭素 (t),12641.0,estat-manufacturing
+0003095023,出荷 販売,フェロニッケル (t),241634.0,estat-manufacturing
+0003095023,出荷 販売,フェロモリブデン (t),4504.0,estat-manufacturing
+0003095023,出荷 販売,フェロバナジウム (t),3197.0,estat-manufacturing
+0003095023,出荷 販売,その他のフェロアロイ (t),15668.0,estat-manufacturing
+0003095023,出荷 その他,合計 (t),73397.0,estat-manufacturing
+0003095023,出荷 その他,フェロマンガン 計 (t),15993.0,estat-manufacturing
+0003095023,出荷 その他,フェロマンガン 高炭素 (t),15993.0,estat-manufacturing
+0003095023,出荷 その他,フェロマンガン 低炭素 (t),20.0,estat-manufacturing
+0003095023,出荷 その他,シリコマンガン (t),5350.0,estat-manufacturing
+0003095023,出荷 その他,フェロシリコン (t),71.0,estat-manufacturing
+0003095023,出荷 その他,フェロニッケル (t),51965.0,estat-manufacturing
+0003095023,出荷 その他,フェロバナジウム (t),5.0,estat-manufacturing
+0003095023,出荷 その他,その他のフェロアロイ (t),18.0,estat-manufacturing
+0003095023,在庫,合計 (t),149421.0,estat-manufacturing
+0003095023,在庫,フェロマンガン 計 (t),76487.0,estat-manufacturing
+0003095023,在庫,フェロマンガン 高炭素 (t),56605.0,estat-manufacturing
+0003095023,在庫,フェロマンガン 低炭素 (t),19882.0,estat-manufacturing
+0003095023,在庫,シリコマンガン (t),17889.0,estat-manufacturing
+0003095023,在庫,フェロシリコン (t),2005.0,estat-manufacturing
+0003095023,在庫,フェロクロム 計 (t),7502.0,estat-manufacturing
+0003095023,在庫,フェロクロム 高炭素 (t),3241.0,estat-manufacturing
+0003095023,在庫,フェロクロム 低炭素 (t),4261.0,estat-manufacturing
+0003095023,在庫,フェロニッケル (t),38102.0,estat-manufacturing
+0003095023,在庫,フェロモリブデン (t),450.0,estat-manufacturing
+0003095023,在庫,フェロバナジウム (t),686.0,estat-manufacturing
+0003095023,在庫,その他のフェロアロイ (t),6300.0,estat-manufacturing
+0003095059,生産,合計 (t),115357783.0,estat-manufacturing
+0003095059,生産,普通鋼 (t),91600759.0,estat-manufacturing
+0003095059,生産,特殊鋼 (t),23757024.0,estat-manufacturing
+0003095059,受入,合計 (t),8760683.0,estat-manufacturing
+0003095059,受入,普通鋼 (t),6185780.0,estat-manufacturing
+0003095059,受入,特殊鋼 (t),2574903.0,estat-manufacturing
+0003095059,消費,合計 (t),110517652.0,estat-manufacturing
+0003095059,消費,普通鋼 (t),84361044.0,estat-manufacturing
+0003095059,消費,特殊鋼 (t),26156608.0,estat-manufacturing
+0003095059,出荷 販売,合計 (t),8977887.0,estat-manufacturing
+0003095059,出荷 販売,普通鋼 (t),7468906.0,estat-manufacturing
+0003095059,出荷 販売,特殊鋼 (t),1508981.0,estat-manufacturing
+0003095059,出荷 その他,合計 (t),9130757.0,estat-manufacturing
+0003095059,出荷 その他,普通鋼 (t),5898805.0,estat-manufacturing
+0003095059,出荷 その他,特殊鋼 (t),3231952.0,estat-manufacturing
+0003095059,在庫,合計 (t),4226884.0,estat-manufacturing
+0003095059,在庫,普通鋼 (t),2981836.0,estat-manufacturing
+0003095059,在庫,特殊鋼 (t),1245048.0,estat-manufacturing
+0003095076,生産,合計 (t),309065.0,estat-manufacturing
+0003095076,生産,普通鋼 (t),158653.0,estat-manufacturing
+0003095076,生産,特殊鋼 (t),150412.0,estat-manufacturing
+0003095076,受入,合計 (t),223.0,estat-manufacturing
+0003095076,受入,普通鋼 (t),12.0,estat-manufacturing
+0003095076,受入,特殊鋼 (t),211.0,estat-manufacturing
+0003095076,消費,合計 (t),130870.0,estat-manufacturing
+0003095076,消費,普通鋼 (t),53861.0,estat-manufacturing
+0003095076,消費,特殊鋼 (t),77009.0,estat-manufacturing
+0003095076,出荷 販売,合計 (t),176534.0,estat-manufacturing
+0003095076,出荷 販売,普通鋼 (t),103352.0,estat-manufacturing
+0003095076,出荷 販売,特殊鋼 (t),73182.0,estat-manufacturing
+0003095076,出荷 その他,合計 (t),1320.0,estat-manufacturing
+0003095076,出荷 その他,普通鋼 (t),303.0,estat-manufacturing
+0003095076,出荷 その他,特殊鋼 (t),1017.0,estat-manufacturing
+0003095076,在庫,合計 (t),24565.0,estat-manufacturing
+0003095076,在庫,普通鋼 (t),13978.0,estat-manufacturing
+0003095076,在庫,特殊鋼 (t),10587.0,estat-manufacturing
+0003095083,計,合計,808917.0,estat-manufacturing
+0003095083,計,鋼塊,790554.0,estat-manufacturing
+0003095083,計,鋳鋼鋳込,18363.0,estat-manufacturing
+0003095083,普通鋼,合計,84615.0,estat-manufacturing
+0003095083,普通鋼,鋼塊,73639.0,estat-manufacturing
+0003095083,普通鋼,鋳鋼鋳込,10976.0,estat-manufacturing
+0003095083,特殊鋼,合計,724302.0,estat-manufacturing
+0003095083,特殊鋼,鋼塊,716915.0,estat-manufacturing
+0003095083,特殊鋼,鋳鋼鋳込,7387.0,estat-manufacturing
+0003095121,生産,合計 (t),738143.0,estat-manufacturing
+0003095121,生産,普通鋼 (t),214672.0,estat-manufacturing
+0003095121,生産,特殊鋼 (t),523471.0,estat-manufacturing
+0003095121,受入,合計 (t),80.0,estat-manufacturing
+0003095121,受入,普通鋼 (t),21.0,estat-manufacturing
+0003095121,受入,特殊鋼 (t),59.0,estat-manufacturing
+0003095121,消費,合計 (t),234665.0,estat-manufacturing
+0003095121,消費,普通鋼 (t),73650.0,estat-manufacturing
+0003095121,消費,特殊鋼 (t),161015.0,estat-manufacturing
+0003095121,出荷 販売,合計 (t),493686.0,estat-manufacturing
+0003095121,出荷 販売,普通鋼 (t),139040.0,estat-manufacturing
+0003095121,出荷 販売,特殊鋼 (t),354646.0,estat-manufacturing
+0003095121,出荷 その他,合計 (t),9825.0,estat-manufacturing
+0003095121,出荷 その他,普通鋼 (t),2874.0,estat-manufacturing
+0003095121,出荷 その他,特殊鋼 (t),6951.0,estat-manufacturing
+0003095121,在庫,合計 (t),21933.0,estat-manufacturing
+0003095121,在庫,普通鋼 (t),9216.0,estat-manufacturing
+0003095121,在庫,特殊鋼 (t),12717.0,estat-manufacturing
+0003095236,生産,磨帯鋼 (t),146686.0,estat-manufacturing
+0003095236,生産,冷延広幅帯鋼 (t),23773488.0,estat-manufacturing
+0003095236,生産,冷延鋼板 (t),32512.0,estat-manufacturing
+0003095236,生産,冷延電気鋼帯 (t),1901765.0,estat-manufacturing
+0003095236,生産,磨棒鋼 (t),205990.0,estat-manufacturing
+0003095236,生産,鉄線 (t),816253.0,estat-manufacturing
+0003095236,生産,冷間圧造用炭素鋼線 (t),404120.0,estat-manufacturing
+0003095236,生産,硬鋼線 (t),385128.0,estat-manufacturing
+0003095236,生産,溶接棒心線 (t),257777.0,estat-manufacturing
+0003095236,受入,冷延広幅帯鋼 (t),1402195.0,estat-manufacturing
+0003095236,受入,冷延鋼板 (t),10703.0,estat-manufacturing
+0003095236,消費,磨帯鋼 (t),165.0,estat-manufacturing
+0003095236,消費,冷延広幅帯鋼 (t),16896531.0,estat-manufacturing
+0003095236,消費,冷延鋼板 (t),10892.0,estat-manufacturing
+0003095236,消費,磨棒鋼 (t),8809.0,estat-manufacturing
+0003095236,消費,鉄線 (t),254144.0,estat-manufacturing
+0003095236,消費,冷間圧造用炭素鋼線 (t),5124.0,estat-manufacturing
+0003095236,消費,硬鋼線 (t),183473.0,estat-manufacturing
+0003095236,消費,溶接棒心線 (t),258014.0,estat-manufacturing
+0003095236,出荷 販売（鋼材次工程用消費で外数）,磨帯鋼 (t),17153.0,estat-manufacturing
+0003095236,出荷 販売（鋼材次工程用消費で外数）,冷延広幅帯鋼 (t),16866035.0,estat-manufacturing
+0003095236,出荷 販売（鋼材次工程用消費で外数）,冷延鋼板 (t),10892.0,estat-manufacturing
+0003095236,出荷 販売,磨帯鋼 (t),135970.0,estat-manufacturing
+0003095236,出荷 販売,冷延広幅帯鋼 (t),7359543.0,estat-manufacturing
+0003095236,出荷 販売,冷延鋼板 (t),28394.0,estat-manufacturing
+0003095236,出荷 販売,冷延電気鋼帯 (t),1917015.0,estat-manufacturing
+0003095236,出荷 販売,磨棒鋼 (t),207731.0,estat-manufacturing
+0003095236,出荷 販売,鉄線 (t),560686.0,estat-manufacturing
+0003095236,出荷 販売,冷間圧造用炭素鋼線 (t),387515.0,estat-manufacturing
+0003095236,出荷 販売,硬鋼線 (t),198684.0,estat-manufacturing
+0003095236,出荷 販売,溶接棒心線 (t),27.0,estat-manufacturing
+0003095236,出荷 その他,磨帯鋼 (t),3.0,estat-manufacturing
+0003095236,出荷 その他,冷延広幅帯鋼 (t),969108.0,estat-manufacturing
+0003095236,出荷 その他,冷延鋼板 (t),5043.0,estat-manufacturing
+0003095236,出荷 その他,冷延電気鋼帯 (t),558.0,estat-manufacturing
+0003095236,出荷 その他,磨棒鋼 (t),731.0,estat-manufacturing
+0003095236,出荷 その他,鉄線 (t),1041.0,estat-manufacturing
+0003095236,出荷 その他,冷間圧造用炭素鋼線 (t),14170.0,estat-manufacturing
+0003095236,出荷 その他,硬鋼線 (t),2564.0,estat-manufacturing
+0003095236,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,磨帯鋼 (t),1200.0,estat-manufacturing
+0003095236,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,冷延広幅帯鋼 (t),23842.0,estat-manufacturing
+0003095236,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,冷延鋼板 (t),629.0,estat-manufacturing
+0003095236,在庫,磨帯鋼 (t),26338.0,estat-manufacturing
+0003095236,在庫,冷延広幅帯鋼 (t),369706.0,estat-manufacturing
+0003095236,在庫,冷延鋼板 (t),591.0,estat-manufacturing
+0003095236,在庫,冷延電気鋼帯 (t),56253.0,estat-manufacturing
+0003095236,在庫,磨棒鋼 (t),25509.0,estat-manufacturing
+0003095236,在庫,鉄線 (t),31508.0,estat-manufacturing
+0003095236,在庫,冷間圧造用炭素鋼線 (t),7636.0,estat-manufacturing
+0003095236,在庫,硬鋼線 (t),9781.0,estat-manufacturing
+0003095236,在庫,溶接棒心線 (t),5519.0,estat-manufacturing
+0003095237,めっき鋼材 ブリキ (t),生産,1112841.0,estat-manufacturing
+0003095237,めっき鋼材 ブリキ (t),受入,473.0,estat-manufacturing
+0003095237,めっき鋼材 ブリキ (t),出荷 販売,1099495.0,estat-manufacturing
+0003095237,めっき鋼材 ブリキ (t),出荷 その他,6801.0,estat-manufacturing
+0003095237,めっき鋼材 ブリキ (t),在庫,69059.0,estat-manufacturing
+0003095237,めっき鋼材 ティンフリースチール (t),生産,842858.0,estat-manufacturing
+0003095237,めっき鋼材 ティンフリースチール (t),受入,222.0,estat-manufacturing
+0003095237,めっき鋼材 ティンフリースチール (t),出荷 販売,837940.0,estat-manufacturing
+0003095237,めっき鋼材 ティンフリースチール (t),出荷 その他,817.0,estat-manufacturing
+0003095237,めっき鋼材 ティンフリースチール (t),在庫,45490.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),生産,14773123.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),受入,207315.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),消費,185097.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),出荷 販売（鋼材次工程用消費で外数）,390827.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),出荷 販売,14509745.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),出荷 その他,332583.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,32480.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 計 (t),在庫,631388.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),生産,11409892.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),受入,207296.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),消費,170874.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),出荷 販売,11165079.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),出荷 その他,300545.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 溶融めっき (t),在庫,512031.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),生産,3363231.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),受入,19.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),消費,14223.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),出荷 販売,3344666.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),出荷 その他,32038.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき鋼板 電気めっき (t),在庫,119357.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),生産,1242614.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),受入,7687.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),消費,44108.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),出荷 販売,1205452.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),出荷 その他,5701.0,estat-manufacturing
+0003095237,めっき鋼材 その他の金属めっき鋼板 (t),在庫,122733.0,estat-manufacturing
+0003095237,めっき鋼材 針金 (t),生産,121750.0,estat-manufacturing
+0003095237,めっき鋼材 針金 (t),消費,5156.0,estat-manufacturing
+0003095237,めっき鋼材 針金 (t),出荷 販売,114613.0,estat-manufacturing
+0003095237,めっき鋼材 針金 (t),出荷 その他,15.0,estat-manufacturing
+0003095237,めっき鋼材 針金 (t),在庫,18714.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき硬鋼線 (t),生産,120568.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき硬鋼線 (t),消費,70928.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき硬鋼線 (t),出荷 販売,49950.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき硬鋼線 (t),出荷 その他,2160.0,estat-manufacturing
+0003095237,めっき鋼材 亜鉛めっき硬鋼線 (t),在庫,4868.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 簡易鋼矢板 (t),生産,11558.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 簡易鋼矢板 (t),出荷 販売,12946.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 簡易鋼矢板 (t),在庫,1373.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),生産,655949.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),受入,1941.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),消費,52.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),出荷 販売,652038.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),出荷 その他,8531.0,estat-manufacturing
+0003095237,冷間ロール成型形鋼 軽量形鋼 (t),在庫,26892.0,estat-manufacturing
+0003095291,生産,合計 (t),84299487.0,estat-manufacturing
+0003095291,生産,軌条 計（含付属品） (t),529467.0,estat-manufacturing
+0003095291,生産,軌条 重軌条（含付属品） (t),479915.0,estat-manufacturing
+0003095291,生産,軌条 軽軌条（含付属品） (t),49552.0,estat-manufacturing
+0003095291,生産,鋼矢板 (t),767813.0,estat-manufacturing
+0003095291,生産,形鋼 計 (t),7357224.0,estat-manufacturing
+0003095291,生産,形鋼 Ｈ形 (t),4573897.0,estat-manufacturing
+0003095291,生産,形鋼 大中小形 計 (t),2783327.0,estat-manufacturing
+0003095291,生産,形鋼 大中小形 大形 (t),1473729.0,estat-manufacturing
+0003095291,生産,形鋼 大中小形 中小形 (t),1309598.0,estat-manufacturing
+0003095291,生産,棒鋼 計 (t),11624807.0,estat-manufacturing
+0003095291,生産,棒鋼 大形 (t),484555.0,estat-manufacturing
+0003095291,生産,棒鋼 中形 (t),568715.0,estat-manufacturing
+0003095291,生産,棒鋼 小形 小計 (t),10571537.0,estat-manufacturing
+0003095291,生産,棒鋼 小形 鉄筋用 (t),9812891.0,estat-manufacturing
+0003095291,生産,棒鋼 小形 その他用 (t),758646.0,estat-manufacturing
+0003095291,生産,管材 (t),749505.0,estat-manufacturing
+0003095291,生産,線材 計 (t),2386309.0,estat-manufacturing
+0003095291,生産,線材 バーインコイル 小計 (t),609574.0,estat-manufacturing
+0003095291,生産,線材 バーインコイル 鉄筋用 (t),342275.0,estat-manufacturing
+0003095291,生産,線材 バーインコイル その他用 (t),267299.0,estat-manufacturing
+0003095291,生産,線材 普通鋼線材 計 (t),1776735.0,estat-manufacturing
+0003095291,生産,線材 普通鋼線材 普通線材 (t),993987.0,estat-manufacturing
+0003095291,生産,線材 普通鋼線材 特殊線材 小計 (t),782748.0,estat-manufacturing
+0003095291,生産,線材 普通鋼線材 特殊線材 低炭素 (t),143264.0,estat-manufacturing
+0003095291,生産,線材 普通鋼線材 特殊線材 高炭素 (t),639484.0,estat-manufacturing
+0003095291,生産,鋼板 計 (t),13986932.0,estat-manufacturing
+0003095291,生産,鋼板 厚板 (t),13822448.0,estat-manufacturing
+0003095291,生産,鋼板 中板・薄板 (t),164484.0,estat-manufacturing
+0003095291,生産,鋼帯 計 (t),46813590.0,estat-manufacturing
+0003095291,生産,鋼帯 幅600mm以上 小計 (t),45959379.0,estat-manufacturing
+0003095291,生産,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),2104218.0,estat-manufacturing
+0003095291,生産,鋼帯 幅600mm以上 その他 (t),43855161.0,estat-manufacturing
+0003095291,生産,鋼帯 幅600mm未満 (t),854211.0,estat-manufacturing
+0003095291,生産,外輪 (t),83840.0,estat-manufacturing
+0003095291,生産 内再生鋼材,合計 (t),89919.0,estat-manufacturing
+0003095291,生産 内再生鋼材,棒鋼 計 (t),89919.0,estat-manufacturing
+0003095291,生産 内再生鋼材,棒鋼 小形 小計 (t),89919.0,estat-manufacturing
+0003095291,生産 内再生鋼材,棒鋼 小形 鉄筋用 (t),67147.0,estat-manufacturing
+0003095291,生産 内再生鋼材,棒鋼 小形 その他用 (t),22772.0,estat-manufacturing
+0003095291,受入,合計 (t),2007135.0,estat-manufacturing
+0003095291,受入,鋼矢板 (t),186767.0,estat-manufacturing
+0003095291,受入,形鋼 計 (t),380560.0,estat-manufacturing
+0003095291,受入,形鋼 Ｈ形 (t),371189.0,estat-manufacturing
+0003095291,受入,形鋼 大中小形 計 (t),9371.0,estat-manufacturing
+0003095291,受入,形鋼 大中小形 大形 (t),4522.0,estat-manufacturing
+0003095291,受入,形鋼 大中小形 中小形 (t),4849.0,estat-manufacturing
+0003095291,受入,棒鋼 計 (t),93581.0,estat-manufacturing
+0003095291,受入,棒鋼 大形 (t),1588.0,estat-manufacturing
+0003095291,受入,棒鋼 中形 (t),13716.0,estat-manufacturing
+0003095291,受入,棒鋼 小形 小計 (t),78277.0,estat-manufacturing
+0003095291,受入,棒鋼 小形 鉄筋用 (t),39703.0,estat-manufacturing
+0003095291,受入,棒鋼 小形 その他用 (t),38574.0,estat-manufacturing
+0003095291,受入,管材 (t),15965.0,estat-manufacturing
+0003095291,受入,線材 計 (t),255602.0,estat-manufacturing
+0003095291,受入,線材 バーインコイル 小計 (t),105429.0,estat-manufacturing
+0003095291,受入,線材 バーインコイル 鉄筋用 (t),23497.0,estat-manufacturing
+0003095291,受入,線材 バーインコイル その他用 (t),81932.0,estat-manufacturing
+0003095291,受入,線材 普通鋼線材 計 (t),150173.0,estat-manufacturing
+0003095291,受入,線材 普通鋼線材 普通線材 (t),95680.0,estat-manufacturing
+0003095291,受入,線材 普通鋼線材 特殊線材 小計 (t),54493.0,estat-manufacturing
+0003095291,受入,線材 普通鋼線材 特殊線材 低炭素 (t),2.0,estat-manufacturing
+0003095291,受入,線材 普通鋼線材 特殊線材 高炭素 (t),54493.0,estat-manufacturing
+0003095291,受入,鋼板 計 (t),143172.0,estat-manufacturing
+0003095291,受入,鋼板 厚板 (t),132683.0,estat-manufacturing
+0003095291,受入,鋼板 中板・薄板 (t),10489.0,estat-manufacturing
+0003095291,受入,鋼帯 計 (t),931488.0,estat-manufacturing
+0003095291,受入,鋼帯 幅600mm以上 小計 (t),931488.0,estat-manufacturing
+0003095291,受入,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),4718.0,estat-manufacturing
+0003095291,受入,鋼帯 幅600mm以上 その他 (t),926770.0,estat-manufacturing
+0003095291,受入,鋼帯 幅600mm未満 (t),48361.0,estat-manufacturing
+0003095291,消費,合計 (t),24303160.0,estat-manufacturing
+0003095291,消費,鋼矢板 (t),856.0,estat-manufacturing
+0003095291,消費,形鋼 計 (t),1617.0,estat-manufacturing
+0003095291,消費,形鋼 Ｈ形 (t),1617.0,estat-manufacturing
+0003095291,消費,管材 (t),10147.0,estat-manufacturing
+0003095291,消費,線材 計 (t),47592.0,estat-manufacturing
+0003095291,消費,線材 普通鋼線材 計 (t),47592.0,estat-manufacturing
+0003095291,消費,線材 普通鋼線材 普通線材 (t),40.0,estat-manufacturing
+0003095291,消費,線材 普通鋼線材 特殊線材 小計 (t),47552.0,estat-manufacturing
+0003095291,消費,線材 普通鋼線材 特殊線材 低炭素 (t),17402.0,estat-manufacturing
+0003095291,消費,線材 普通鋼線材 特殊線材 高炭素 (t),30150.0,estat-manufacturing
+0003095291,消費,鋼板 計 (t),245945.0,estat-manufacturing
+0003095291,消費,鋼板 厚板 (t),245945.0,estat-manufacturing
+0003095291,消費,鋼帯 計 (t),23914830.0,estat-manufacturing
+0003095291,消費,鋼帯 幅600mm以上 小計 (t),23424158.0,estat-manufacturing
+0003095291,消費,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),1908153.0,estat-manufacturing
+0003095291,消費,鋼帯 幅600mm以上 その他 (t),21516005.0,estat-manufacturing
+0003095291,消費,鋼帯 幅600mm未満 (t),490672.0,estat-manufacturing
+0003095291,消費,外輪 (t),82173.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,合計 (t),33826713.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,管材 (t),388534.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼板 計 (t),569846.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼板 厚板 (t),561316.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼板 中板・薄板 (t),8530.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼帯 計 (t),32868333.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼帯 幅600mm以上 小計 (t),32868333.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),1908153.0,estat-manufacturing
+0003095291,出荷 販売（鋼材次工程用消費で外数）,鋼帯 幅600mm以上 その他 (t),30960180.0,estat-manufacturing
+0003095291,出荷 販売,合計 (t),56144227.0,estat-manufacturing
+0003095291,出荷 販売,軌条 計（含付属品） (t),523720.0,estat-manufacturing
+0003095291,出荷 販売,軌条 重軌条（含付属品） (t),474912.0,estat-manufacturing
+0003095291,出荷 販売,軌条 軽軌条（含付属品） (t),48808.0,estat-manufacturing
+0003095291,出荷 販売,鋼矢板 (t),768756.0,estat-manufacturing
+0003095291,出荷 販売,形鋼 計 (t),7439664.0,estat-manufacturing
+0003095291,出荷 販売,形鋼 Ｈ形 (t),4609161.0,estat-manufacturing
+0003095291,出荷 販売,形鋼 大中小形 計 (t),2830503.0,estat-manufacturing
+0003095291,出荷 販売,形鋼 大中小形 大形 (t),1479640.0,estat-manufacturing
+0003095291,出荷 販売,形鋼 大中小形 中小形 (t),1350863.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 計 (t),11674841.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 大形 (t),485780.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 中形 (t),574910.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 小形 小計 (t),10614151.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 小形 鉄筋用 (t),9847838.0,estat-manufacturing
+0003095291,出荷 販売,棒鋼 小形 その他用 (t),766313.0,estat-manufacturing
+0003095291,出荷 販売,管材 (t),458214.0,estat-manufacturing
+0003095291,出荷 販売,線材 計 (t),2298352.0,estat-manufacturing
+0003095291,出荷 販売,線材 バーインコイル 小計 (t),634515.0,estat-manufacturing
+0003095291,出荷 販売,線材 バーインコイル 鉄筋用 (t),343295.0,estat-manufacturing
+0003095291,出荷 販売,線材 バーインコイル その他用 (t),291220.0,estat-manufacturing
+0003095291,出荷 販売,線材 普通鋼線材 計 (t),1663837.0,estat-manufacturing
+0003095291,出荷 販売,線材 普通鋼線材 普通線材 (t),964460.0,estat-manufacturing
+0003095291,出荷 販売,線材 普通鋼線材 特殊線材 小計 (t),699377.0,estat-manufacturing
+0003095291,出荷 販売,線材 普通鋼線材 特殊線材 低炭素 (t),46312.0,estat-manufacturing
+0003095291,出荷 販売,線材 普通鋼線材 特殊線材 高炭素 (t),653065.0,estat-manufacturing
+0003095291,出荷 販売,鋼板 計 (t),13683053.0,estat-manufacturing
+0003095291,出荷 販売,鋼板 厚板 (t),13516555.0,estat-manufacturing
+0003095291,出荷 販売,鋼板 中板・薄板 (t),166498.0,estat-manufacturing
+0003095291,出荷 販売,鋼帯 計 (t),19297627.0,estat-manufacturing
+0003095291,出荷 販売,鋼帯 幅600mm以上 小計 (t),18967576.0,estat-manufacturing
+0003095291,出荷 販売,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),14976.0,estat-manufacturing
+0003095291,出荷 販売,鋼帯 幅600mm以上 その他 (t),18952600.0,estat-manufacturing
+0003095291,出荷 販売,鋼帯 幅600mm未満 (t),330051.0,estat-manufacturing
+0003095291,出荷 販売,外輪 (t),9604.0,estat-manufacturing
+0003095291,出荷 その他,合計 (t),6219170.0,estat-manufacturing
+0003095291,出荷 その他,軌条 計（含付属品） (t),5322.0,estat-manufacturing
+0003095291,出荷 その他,軌条 重軌条（含付属品） (t),5322.0,estat-manufacturing
+0003095291,出荷 その他,鋼矢板 (t),197913.0,estat-manufacturing
+0003095291,出荷 その他,形鋼 計 (t),388573.0,estat-manufacturing
+0003095291,出荷 その他,形鋼 Ｈ形 (t),382195.0,estat-manufacturing
+0003095291,出荷 その他,形鋼 大中小形 計 (t),6378.0,estat-manufacturing
+0003095291,出荷 その他,形鋼 大中小形 大形 (t),5902.0,estat-manufacturing
+0003095291,出荷 その他,形鋼 大中小形 中小形 (t),476.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 計 (t),138664.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 大形 (t),116.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 中形 (t),23096.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 小形 小計 (t),115452.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 小形 鉄筋用 (t),75656.0,estat-manufacturing
+0003095291,出荷 その他,棒鋼 小形 その他用 (t),39796.0,estat-manufacturing
+0003095291,出荷 その他,管材 (t),291888.0,estat-manufacturing
+0003095291,出荷 その他,線材 計 (t),297223.0,estat-manufacturing
+0003095291,出荷 その他,線材 バーインコイル 小計 (t),106602.0,estat-manufacturing
+0003095291,出荷 その他,線材 バーインコイル 鉄筋用 (t),24286.0,estat-manufacturing
+0003095291,出荷 その他,線材 バーインコイル その他用 (t),82316.0,estat-manufacturing
+0003095291,出荷 その他,線材 普通鋼線材 計 (t),190621.0,estat-manufacturing
+0003095291,出荷 その他,線材 普通鋼線材 普通線材 (t),99162.0,estat-manufacturing
+0003095291,出荷 その他,線材 普通鋼線材 特殊線材 小計 (t),91459.0,estat-manufacturing
+0003095291,出荷 その他,線材 普通鋼線材 特殊線材 低炭素 (t),78047.0,estat-manufacturing
+0003095291,出荷 その他,線材 普通鋼線材 特殊線材 高炭素 (t),13412.0,estat-manufacturing
+0003095291,出荷 その他,鋼板 計 (t),214285.0,estat-manufacturing
+0003095291,出荷 その他,鋼板 厚板 (t),209486.0,estat-manufacturing
+0003095291,出荷 その他,鋼板 中板・薄板 (t),4799.0,estat-manufacturing
+0003095291,出荷 その他,鋼帯 計 (t),4685302.0,estat-manufacturing
+0003095291,出荷 その他,鋼帯 幅600mm以上 小計 (t),4653597.0,estat-manufacturing
+0003095291,出荷 その他,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),154252.0,estat-manufacturing
+0003095291,出荷 その他,鋼帯 幅600mm以上 その他 (t),4499345.0,estat-manufacturing
+0003095291,出荷 その他,鋼帯 幅600mm未満 (t),31705.0,estat-manufacturing
+0003095291,出荷 その他,外輪 (t),13.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,合計 (t),518285.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,管材 (t),24025.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,鋼板 計 (t),8316.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,鋼板 厚板 (t),8316.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,鋼帯 計 (t),485944.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,鋼帯 幅600mm以上 小計 (t),485944.0,estat-manufacturing
+0003095291,在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）,鋼帯 幅600mm以上 その他 (t),485944.0,estat-manufacturing
+0003095291,在庫,合計 (t),2423733.0,estat-manufacturing
+0003095291,在庫,軌条 計（含付属品） (t),33642.0,estat-manufacturing
+0003095291,在庫,軌条 重軌条（含付属品） (t),28417.0,estat-manufacturing
+0003095291,在庫,軌条 軽軌条（含付属品） (t),5225.0,estat-manufacturing
+0003095291,在庫,鋼矢板 (t),34590.0,estat-manufacturing
+0003095291,在庫,形鋼 計 (t),280241.0,estat-manufacturing
+0003095291,在庫,形鋼 Ｈ形 (t),153304.0,estat-manufacturing
+0003095291,在庫,形鋼 大中小形 計 (t),126937.0,estat-manufacturing
+0003095291,在庫,形鋼 大中小形 大形 (t),62645.0,estat-manufacturing
+0003095291,在庫,形鋼 大中小形 中小形 (t),64292.0,estat-manufacturing
+0003095291,在庫,棒鋼 計 (t),645170.0,estat-manufacturing
+0003095291,在庫,棒鋼 大形 (t),37186.0,estat-manufacturing
+0003095291,在庫,棒鋼 中形 (t),45036.0,estat-manufacturing
+0003095291,在庫,棒鋼 小形 小計 (t),562948.0,estat-manufacturing
+0003095291,在庫,棒鋼 小形 鉄筋用 (t),505495.0,estat-manufacturing
+0003095291,在庫,棒鋼 小形 その他用 (t),57453.0,estat-manufacturing
+0003095291,在庫,管材 (t),36021.0,estat-manufacturing
+0003095291,在庫,線材 計 (t),96112.0,estat-manufacturing
+0003095291,在庫,線材 バーインコイル 小計 (t),26129.0,estat-manufacturing
+0003095291,在庫,線材 バーインコイル 鉄筋用 (t),10528.0,estat-manufacturing
+0003095291,在庫,線材 バーインコイル その他用 (t),15601.0,estat-manufacturing
+0003095291,在庫,線材 普通鋼線材 計 (t),69983.0,estat-manufacturing
+0003095291,在庫,線材 普通鋼線材 普通線材 (t),38569.0,estat-manufacturing
+0003095291,在庫,線材 普通鋼線材 特殊線材 小計 (t),31414.0,estat-manufacturing
+0003095291,在庫,線材 普通鋼線材 特殊線材 低炭素 (t),4800.0,estat-manufacturing
+0003095291,在庫,線材 普通鋼線材 特殊線材 高炭素 (t),26614.0,estat-manufacturing
+0003095291,在庫,鋼板 計 (t),456509.0,estat-manufacturing
+0003095291,在庫,鋼板 厚板 (t),431478.0,estat-manufacturing
+0003095291,在庫,鋼板 中板・薄板 (t),25031.0,estat-manufacturing
+0003095291,在庫,鋼帯 計 (t),833653.0,estat-manufacturing
+0003095291,在庫,鋼帯 幅600mm以上 小計 (t),820482.0,estat-manufacturing
+0003095291,在庫,鋼帯 幅600mm以上 冷延電気鋼帯用 (t),27640.0,estat-manufacturing
+0003095291,在庫,鋼帯 幅600mm以上 その他 (t),792842.0,estat-manufacturing
+0003095291,在庫,鋼帯 幅600mm未満 (t),13171.0,estat-manufacturing
+0003095291,在庫,外輪 (t),7795.0,estat-manufacturing
+0003095304,合計 (t),生産,21782133.0,estat-manufacturing
+0003095304,合計 (t),在庫,648312.0,estat-manufacturing
+0003095304,工具鋼 計 (t),生産,278962.0,estat-manufacturing
+0003095304,工具鋼 計 (t),在庫,8093.0,estat-manufacturing
+0003095304,工具鋼 炭素工具鋼 (t),生産,130664.0,estat-manufacturing
+0003095304,工具鋼 炭素工具鋼 (t),在庫,2888.0,estat-manufacturing
+0003095304,工具鋼 合金工具鋼 (t),生産,126668.0,estat-manufacturing
+0003095304,工具鋼 合金工具鋼 (t),在庫,4615.0,estat-manufacturing
+0003095304,工具鋼 高速度工具鋼 (t),生産,17876.0,estat-manufacturing
+0003095304,工具鋼 高速度工具鋼 (t),在庫,590.0,estat-manufacturing
+0003095304,工具鋼 その他の工具鋼 (t),生産,3754.0,estat-manufacturing
+0003095304,工具鋼 その他の工具鋼 (t),在庫,8.0,estat-manufacturing
+0003095304,構造用鋼 計 (t),生産,9344488.0,estat-manufacturing
+0003095304,構造用鋼 計 (t),在庫,256087.0,estat-manufacturing
+0003095304,構造用鋼 機械構造用炭素鋼 (t),生産,5152106.0,estat-manufacturing
+0003095304,構造用鋼 機械構造用炭素鋼 (t),在庫,158724.0,estat-manufacturing
+0003095304,構造用鋼 構造用合金鋼 (t),生産,4192382.0,estat-manufacturing
+0003095304,構造用鋼 構造用合金鋼 (t),在庫,97363.0,estat-manufacturing
+0003095304,特殊用途鋼 計 (t),生産,12158683.0,estat-manufacturing
+0003095304,特殊用途鋼 計 (t),在庫,384132.0,estat-manufacturing
+0003095304,特殊用途鋼 ばね鋼 (t),生産,509061.0,estat-manufacturing
+0003095304,特殊用途鋼 ばね鋼 (t),在庫,20118.0,estat-manufacturing
+0003095304,特殊用途鋼 軸受鋼 (t),生産,1047806.0,estat-manufacturing
+0003095304,特殊用途鋼 軸受鋼 (t),在庫,33335.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 小計 (t),生産,3209876.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 小計 (t),在庫,117440.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cｒ系 (t),生産,1247297.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cｒ系 (t),在庫,35350.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Mo系 (t),生産,219456.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Mo系 (t),在庫,8356.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Mn系 (t),生産,86498.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Mn系 (t),在庫,1588.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Ni系 (t),生産,1356663.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Ni系 (t),在庫,62715.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Ni-Mo系 (t),生産,299962.0,estat-manufacturing
+0003095304,特殊用途鋼 ステンレス鋼 Cr-Ni-Mo系 (t),在庫,9431.0,estat-manufacturing
+0003095304,特殊用途鋼 快削鋼 (t),生産,919300.0,estat-manufacturing
+0003095304,特殊用途鋼 快削鋼 (t),在庫,34460.0,estat-manufacturing
+0003095304,特殊用途鋼 ピアノ線材 (t),生産,789847.0,estat-manufacturing
+0003095304,特殊用途鋼 ピアノ線材 (t),在庫,30533.0,estat-manufacturing
+0003095304,特殊用途鋼 高抗張力鋼 (t),生産,5580765.0,estat-manufacturing
+0003095304,特殊用途鋼 高抗張力鋼 (t),在庫,143757.0,estat-manufacturing
+0003095304,特殊用途鋼 その他の特殊用途鋼 (t),生産,102028.0,estat-manufacturing
+0003095304,特殊用途鋼 その他の特殊用途鋼 (t),在庫,4489.0,estat-manufacturing
+0003095304,合わせ鋼材 (t),生産,82452.0,estat-manufacturing
+0003095304,合わせ鋼材 (t),在庫,1032.0,estat-manufacturing
+0003095311,合計 (t),生産,9721750.0,estat-manufacturing
+0003095311,合計 (t),受入,1144425.0,estat-manufacturing
+0003095311,合計 (t),消費,1276581.0,estat-manufacturing
+0003095311,合計 (t),出荷 販売（冷けん用及びめっき用に消費された数量で外数）,1269995.0,estat-manufacturing
+0003095311,合計 (t),出荷 販売,9024188.0,estat-manufacturing
+0003095311,合計 (t),出荷 その他,643265.0,estat-manufacturing
+0003095311,合計 (t),在庫（冷けん及びめっき専業者の素材在庫で外数）,30804.0,estat-manufacturing
+0003095311,合計 (t),在庫,639488.0,estat-manufacturing
+0003095311,普通鋼 計 (t),生産,6568860.0,estat-manufacturing
+0003095311,普通鋼 計 (t),受入,1067419.0,estat-manufacturing
+0003095311,普通鋼 計 (t),消費,990385.0,estat-manufacturing
+0003095311,普通鋼 計 (t),出荷 販売（冷けん用及びめっき用に消費された数量で外数）,990385.0,estat-manufacturing
+0003095311,普通鋼 計 (t),出荷 販売,6093031.0,estat-manufacturing
+0003095311,普通鋼 計 (t),出荷 その他,609178.0,estat-manufacturing
+0003095311,普通鋼 計 (t),在庫（冷けん及びめっき専業者の素材在庫で外数）,27424.0,estat-manufacturing
+0003095311,普通鋼 計 (t),在庫,410014.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),生産,5589267.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),受入,882852.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),消費,990385.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),出荷 販売（冷けん用及びめっき用に消費された数量で外数）,990385.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),出荷 販売,5163939.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),出荷 その他,364795.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),在庫（冷けん及びめっき専業者の素材在庫で外数）,27424.0,estat-manufacturing
+0003095311,普通鋼 熱間鋼管 (t),在庫,347776.0,estat-manufacturing
+0003095311,普通鋼 冷けん鋼管 (t),生産,346048.0,estat-manufacturing
+0003095311,普通鋼 冷けん鋼管 (t),受入,750.0,estat-manufacturing
+0003095311,普通鋼 冷けん鋼管 (t),出荷 販売,341034.0,estat-manufacturing
+0003095311,普通鋼 冷けん鋼管 (t),出荷 その他,11058.0,estat-manufacturing
+0003095311,普通鋼 冷けん鋼管 (t),在庫,10336.0,estat-manufacturing
+0003095311,普通鋼 めっき鋼管 (t),生産,633545.0,estat-manufacturing
+0003095311,普通鋼 めっき鋼管 (t),受入,183817.0,estat-manufacturing
+0003095311,普通鋼 めっき鋼管 (t),出荷 販売,588058.0,estat-manufacturing
+0003095311,普通鋼 めっき鋼管 (t),出荷 その他,233325.0,estat-manufacturing
+0003095311,普通鋼 めっき鋼管 (t),在庫,51902.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),生産,3152890.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),受入,77006.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),消費,286196.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),出荷 販売（冷けん用及びめっき用に消費された数量で外数）,279610.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),出荷 販売,2931157.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),出荷 その他,34087.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),在庫（冷けん及びめっき専業者の素材在庫で外数）,3380.0,estat-manufacturing
+0003095311,特殊鋼 計 (t),在庫,229474.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),生産,2952923.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),受入,76958.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),消費,280059.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),出荷 販売（冷けん用及びめっき用に消費された数量で外数）,279610.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),出荷 販売,2748562.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),出荷 その他,30899.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),在庫（冷けん及びめっき専業者の素材在庫で外数）,3380.0,estat-manufacturing
+0003095311,特殊鋼 熱間鋼管 (t),在庫,216150.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),生産,199967.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),受入,48.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),消費,6137.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),出荷 販売,182595.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),出荷 その他,3188.0,estat-manufacturing
+0003095311,特殊鋼 冷けん鋼管 (t),在庫,13324.0,estat-manufacturing
+0003095321,合計 (t),生産,21782133.0,estat-manufacturing
+0003095321,合計 (t),受入,3371699.0,estat-manufacturing
+0003095321,合計 (t),消費,6392939.0,estat-manufacturing
+0003095321,合計 (t),出荷 販売（鋼材次工程用消費で外数）,6991038.0,estat-manufacturing
+0003095321,合計 (t),出荷 販売,16344092.0,estat-manufacturing
+0003095321,合計 (t),出荷 その他,2341078.0,estat-manufacturing
+0003095321,合計 (t),在庫（鋼材次工程業者の素材在庫で外数）,130357.0,estat-manufacturing
+0003095321,合計 (t),在庫,648312.0,estat-manufacturing
+0003095321,形鋼 (t),生産,397569.0,estat-manufacturing
+0003095321,形鋼 (t),受入,2622.0,estat-manufacturing
+0003095321,形鋼 (t),消費,76.0,estat-manufacturing
+0003095321,形鋼 (t),出荷 販売,398502.0,estat-manufacturing
+0003095321,形鋼 (t),出荷 その他,5697.0,estat-manufacturing
+0003095321,形鋼 (t),在庫,18522.0,estat-manufacturing
+0003095321,棒鋼 (t),生産,6883261.0,estat-manufacturing
+0003095321,棒鋼 (t),受入,378041.0,estat-manufacturing
+0003095321,棒鋼 (t),消費,138371.0,estat-manufacturing
+0003095321,棒鋼 (t),出荷 販売,6771138.0,estat-manufacturing
+0003095321,棒鋼 (t),出荷 その他,378327.0,estat-manufacturing
+0003095321,棒鋼 (t),在庫（鋼材次工程業者の素材在庫で外数）,1471.0,estat-manufacturing
+0003095321,棒鋼 (t),在庫,182433.0,estat-manufacturing
+0003095321,管材 (t),生産,1685010.0,estat-manufacturing
+0003095321,管材 (t),受入,1037630.0,estat-manufacturing
+0003095321,管材 (t),消費,1127978.0,estat-manufacturing
+0003095321,管材 (t),出荷 販売（鋼材次工程用消費で外数）,1616995.0,estat-manufacturing
+0003095321,管材 (t),出荷 販売,1190835.0,estat-manufacturing
+0003095321,管材 (t),出荷 その他,351815.0,estat-manufacturing
+0003095321,管材 (t),在庫（鋼材次工程業者の素材在庫で外数）,33528.0,estat-manufacturing
+0003095321,管材 (t),在庫,21923.0,estat-manufacturing
+0003095321,線材 (t),生産,4446064.0,estat-manufacturing
+0003095321,線材 (t),受入,166828.0,estat-manufacturing
+0003095321,線材 (t),消費,178500.0,estat-manufacturing
+0003095321,線材 (t),出荷 販売,4322288.0,estat-manufacturing
+0003095321,線材 (t),出荷 その他,95777.0,estat-manufacturing
+0003095321,線材 (t),在庫,170164.0,estat-manufacturing
+0003095321,鋼板 (t),生産,2303024.0,estat-manufacturing
+0003095321,鋼板 (t),受入,43513.0,estat-manufacturing
+0003095321,鋼板 (t),消費,964695.0,estat-manufacturing
+0003095321,鋼板 (t),出荷 販売（鋼材次工程用消費で外数）,971505.0,estat-manufacturing
+0003095321,鋼板 (t),出荷 販売,1340702.0,estat-manufacturing
+0003095321,鋼板 (t),出荷 その他,52438.0,estat-manufacturing
+0003095321,鋼板 (t),在庫（鋼材次工程業者の素材在庫で外数）,251.0,estat-manufacturing
+0003095321,鋼板 (t),在庫,76397.0,estat-manufacturing
+0003095321,鋼帯 (t),生産,6067205.0,estat-manufacturing
+0003095321,鋼帯 (t),受入,1743065.0,estat-manufacturing
+0003095321,鋼帯 (t),消費,3983319.0,estat-manufacturing
+0003095321,鋼帯 (t),出荷 販売（鋼材次工程用消費で外数）,4402538.0,estat-manufacturing
+0003095321,鋼帯 (t),出荷 販売,2320627.0,estat-manufacturing
+0003095321,鋼帯 (t),出荷 その他,1457024.0,estat-manufacturing
+0003095321,鋼帯 (t),在庫（鋼材次工程業者の素材在庫で外数）,49835.0,estat-manufacturing
+0003095321,鋼帯 (t),在庫,178873.0,estat-manufacturing
+0003095361,計,普通鋼熱間鋼管 (t),5589267.0,estat-manufacturing
+0003095361,計,特殊鋼熱間鋼管 (t),2952923.0,estat-manufacturing
+0003095361,継目無鋼管,普通鋼熱間鋼管 (t),706868.0,estat-manufacturing
+0003095361,継目無鋼管,特殊鋼熱間鋼管 (t),1399109.0,estat-manufacturing
+0003095361,継目無鋼管（内ユージン・セジュルネ法）,特殊鋼熱間鋼管 (t),90013.0,estat-manufacturing
+0003095361,鍛接鋼管,普通鋼熱間鋼管 (t),212523.0,estat-manufacturing
+0003095361,電縫鋼管,普通鋼熱間鋼管 (t),3541420.0,estat-manufacturing
+0003095361,電縫鋼管,特殊鋼熱間鋼管 (t),523649.0,estat-manufacturing
+0003095361,電弧溶接鋼管,普通鋼熱間鋼管 (t),1128456.0,estat-manufacturing
+0003095361,電弧溶接鋼管,特殊鋼熱間鋼管 (t),1030165.0,estat-manufacturing
+0003095365,計,特殊鋼熱間鋼管 (t),2952923.0,estat-manufacturing
+0003095365,合金工具鋼,特殊鋼熱間鋼管 (t),76.0,estat-manufacturing
+0003095365,機械構造用炭素鋼,特殊鋼熱間鋼管 (t),46326.0,estat-manufacturing
+0003095365,構造用合金鋼,特殊鋼熱間鋼管 (t),844710.0,estat-manufacturing
+0003095365,軸受鋼,特殊鋼熱間鋼管 (t),126010.0,estat-manufacturing
+0003095365,ステンレス鋼,特殊鋼熱間鋼管 (t),417108.0,estat-manufacturing
+0003095365,高抗張力鋼,特殊鋼熱間鋼管 (t),1518118.0,estat-manufacturing
+0003095365,その他の特殊用途鋼,特殊鋼熱間鋼管 (t),575.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),生産,2997530.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),受入,132545.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),消費,58432.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),出荷 販売,2953229.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),出荷 その他,126371.0,estat-manufacturing
+0003095387,合計 （１）～（３） (t),在庫,151092.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),生産,321584.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),受入,22.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),消費,234.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),出荷 販売,316895.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),出荷 その他,1757.0,estat-manufacturing
+0003095387,磨帯鋼 （１） (t),在庫,19144.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),生産,2528876.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),受入,132523.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),消費,58198.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),出荷 販売,2489434.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),出荷 その他,124128.0,estat-manufacturing
+0003095387,冷延広幅帯鋼 （２） (t),在庫,121915.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),生産,147070.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),生産 内ステンレス鋼板,34286.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),受入,53.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),出荷 販売,146900.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),出荷 その他,486.0,estat-manufacturing
+0003095387,冷延鋼板 （３） (t),在庫,10033.0,estat-manufacturing
+0003095387,磨棒鋼 (t),生産,863289.0,estat-manufacturing
+0003095387,磨棒鋼 (t),消費,13984.0,estat-manufacturing
+0003095387,磨棒鋼 (t),出荷 販売,844829.0,estat-manufacturing
+0003095387,磨棒鋼 (t),出荷 その他,19400.0,estat-manufacturing
+0003095387,磨棒鋼 (t),在庫,43653.0,estat-manufacturing
+0003095387,ＰＣ鋼線 (t),生産,102199.0,estat-manufacturing
+0003095387,ＰＣ鋼線 (t),消費,80134.0,estat-manufacturing
+0003095387,ＰＣ鋼線 (t),出荷 販売,22092.0,estat-manufacturing
+0003095387,ＰＣ鋼線 (t),在庫,1028.0,estat-manufacturing
+0003095387,ピアノ線 (t),生産,44172.0,estat-manufacturing
+0003095387,ピアノ線 (t),出荷 販売,43134.0,estat-manufacturing
+0003095387,ピアノ線 (t),在庫,3571.0,estat-manufacturing
+0003095387,ステンレス鋼線 (t),生産,84817.0,estat-manufacturing
+0003095387,ステンレス鋼線 (t),消費,2245.0,estat-manufacturing
+0003095387,ステンレス鋼線 (t),出荷 販売,82358.0,estat-manufacturing
+0003095387,ステンレス鋼線 (t),出荷 その他,536.0,estat-manufacturing
+0003095387,ステンレス鋼線 (t),在庫,5595.0,estat-manufacturing
+0003095387,冷間圧造用炭素鋼線 (t),生産,809607.0,estat-manufacturing
+0003095387,冷間圧造用炭素鋼線 (t),消費,33590.0,estat-manufacturing
+0003095387,冷間圧造用炭素鋼線 (t),出荷 販売,781315.0,estat-manufacturing
+0003095387,冷間圧造用炭素鋼線 (t),出荷 その他,20330.0,estat-manufacturing
+0003095387,冷間圧造用炭素鋼線 (t),在庫,9662.0,estat-manufacturing
+0003095387,その他の特殊鋼線 (t),生産,500961.0,estat-manufacturing
+0003095387,その他の特殊鋼線 (t),消費,36278.0,estat-manufacturing
+0003095387,その他の特殊鋼線 (t),出荷 販売,444007.0,estat-manufacturing
+0003095387,その他の特殊鋼線 (t),出荷 その他,36377.0,estat-manufacturing
+0003095387,その他の特殊鋼線 (t),在庫,9580.0,estat-manufacturing
+0003095387,鋳鉄管 (t),生産,434131.0,estat-manufacturing
+0003095387,鋳鉄管 (t),出荷 販売,421767.0,estat-manufacturing
+0003095387,鋳鉄管 (t),出荷 その他,6154.0,estat-manufacturing
+0003095387,鋳鉄管 (t),在庫,91931.0,estat-manufacturing
+0003095388,鋼索 (t),生産,466058.0,estat-manufacturing
+0003095388,鋼索 (t),生産 内鋼より線,362548.0,estat-manufacturing
+0003095388,鋼索 (t),出荷 販売,461380.0,estat-manufacturing
+0003095388,鋼索 (t),出荷 販売 内鋼より線,361079.0,estat-manufacturing
+0003095388,鋼索 (t),出荷 その他,7288.0,estat-manufacturing
+0003095388,鋼索 (t),出荷 その他 内鋼より線,619.0,estat-manufacturing
+0003095388,鋼索 (t),在庫,34180.0,estat-manufacturing
+0003095388,鋼索 (t),在庫 内鋼より線,18140.0,estat-manufacturing
+0003095388,ＰＣ鋼より線 (t),生産,74946.0,estat-manufacturing
+0003095388,ＰＣ鋼より線 (t),出荷 販売,80160.0,estat-manufacturing
+0003095388,ＰＣ鋼より線 (t),出荷 その他,24.0,estat-manufacturing
+0003095388,ＰＣ鋼より線 (t),在庫,4985.0,estat-manufacturing
+0003095388,金網 計 (t),生産,315692.0,estat-manufacturing
+0003095388,金網 計 (t),出荷 販売,312422.0,estat-manufacturing
+0003095388,金網 計 (t),出荷 その他,2995.0,estat-manufacturing
+0003095388,金網 計 (t),在庫,16501.0,estat-manufacturing
+0003095388,金網 一般金網 (t),生産,48658.0,estat-manufacturing
+0003095388,金網 一般金網 (t),出荷 販売,49028.0,estat-manufacturing
+0003095388,金網 一般金網 (t),出荷 その他,392.0,estat-manufacturing
+0003095388,金網 一般金網 (t),在庫,3161.0,estat-manufacturing
+0003095388,金網 蛇かご (t),生産,19339.0,estat-manufacturing
+0003095388,金網 蛇かご (t),出荷 販売,19365.0,estat-manufacturing
+0003095388,金網 蛇かご (t),出荷 その他,19.0,estat-manufacturing
+0003095388,金網 蛇かご (t),在庫,2003.0,estat-manufacturing
+0003095388,金網 溶接金網 (t),生産,247695.0,estat-manufacturing
+0003095388,金網 溶接金網 (t),出荷 販売,244029.0,estat-manufacturing
+0003095388,金網 溶接金網 (t),出荷 その他,2584.0,estat-manufacturing
+0003095388,金網 溶接金網 (t),在庫,11337.0,estat-manufacturing
+0003095388,鉄くぎ 計 (t),生産,62815.0,estat-manufacturing
+0003095388,鉄くぎ 計 (t),出荷 販売,63588.0,estat-manufacturing
+0003095388,鉄くぎ 計 (t),出荷 その他,3.0,estat-manufacturing
+0003095388,鉄くぎ 計 (t),在庫,6567.0,estat-manufacturing
+0003095388,鉄くぎ 鉄丸くぎ (t),生産,15031.0,estat-manufacturing
+0003095388,鉄くぎ 鉄丸くぎ (t),出荷 販売,15481.0,estat-manufacturing
+0003095388,鉄くぎ 鉄丸くぎ (t),出荷 その他,3.0,estat-manufacturing
+0003095388,鉄くぎ 鉄丸くぎ (t),在庫,2198.0,estat-manufacturing
+0003095388,鉄くぎ 特殊くぎ (t),生産,47784.0,estat-manufacturing
+0003095388,鉄くぎ 特殊くぎ (t),出荷 販売,48107.0,estat-manufacturing
+0003095388,鉄くぎ 特殊くぎ (t),出荷 その他,5.0,estat-manufacturing
+0003095388,鉄くぎ 特殊くぎ (t),在庫,4369.0,estat-manufacturing
+0003095388,電気溶接棒 (t),生産,319528.0,estat-manufacturing
+0003095388,電気溶接棒 (t),出荷 販売,316930.0,estat-manufacturing
+0003095388,電気溶接棒 (t),出荷 その他,991.0,estat-manufacturing
+0003095388,電気溶接棒 (t),在庫,11745.0,estat-manufacturing
+0003095388,ドラム缶 (t),生産,375047.0,estat-manufacturing
+0003095388,ドラム缶 (t),出荷 販売,375694.0,estat-manufacturing
+0003095388,ドラム缶 (t),在庫,2678.0,estat-manufacturing
+0003095388,１８リットル缶 (t),生産,213143.0,estat-manufacturing
+0003095388,１８リットル缶 (t),出荷 販売,210204.0,estat-manufacturing
+0003095388,１８リットル缶 (t),出荷 その他,1236.0,estat-manufacturing
+0003095388,１８リットル缶 (t),在庫,4089.0,estat-manufacturing
+0003095388,食缶 (t),生産,561857.0,estat-manufacturing
+0003095388,食缶 (t),出荷 販売,522678.0,estat-manufacturing
+0003095388,食缶 (t),出荷 その他,150628.0,estat-manufacturing
+0003095388,食缶 (t),在庫,26467.0,estat-manufacturing
+0003095388,一般缶 (t),生産,113061.0,estat-manufacturing
+0003095388,一般缶 (t),出荷 販売,111733.0,estat-manufacturing
+0003095388,一般缶 (t),出荷 その他,2121.0,estat-manufacturing
+0003095388,一般缶 (t),在庫,7643.0,estat-manufacturing
+0003095453,製銑設備 計 (能力：t/年),　基数,31.0,estat-manufacturing
+0003095453,製銑設備 計 (能力：t/年),　能力,86814053.0,estat-manufacturing
+0003095453,製銑設備 高炉 (能力：t/年),　基数,28.0,estat-manufacturing
+0003095453,製銑設備 高炉 (能力：t/年),　能力,85687553.0,estat-manufacturing
+0003095453,製銑設備 その他の炉 (能力：t/年),　基数,3.0,estat-manufacturing
+0003095453,製銑設備 その他の炉 (能力：t/年),　能力,1126500.0,estat-manufacturing
+0003095453,製鋼設備 計 (能力：t/年),　基数,408.0,estat-manufacturing
+0003095453,製鋼設備 計 (能力：t/年),　能力,129833724.0,estat-manufacturing
+0003095453,製鋼設備 転炉 (能力：t/年),　基数,64.0,estat-manufacturing
+0003095453,製鋼設備 転炉 (能力：t/年),　能力,89511522.0,estat-manufacturing
+0003095453,製鋼設備 電気炉 (能力：t/年),　基数,344.0,estat-manufacturing
+0003095453,製鋼設備 電気炉 (能力：t/年),　能力,40322202.0,estat-manufacturing
+0003095462,合計 (t),生産,20593890.0,estat-manufacturing
+0003095462,合計 (t),出荷,20647827.0,estat-manufacturing
+0003095462,合計 (t),在庫,1061892.0,estat-manufacturing
+0003095462,熱間圧延鋼材 計 (t),生産,14723080.0,estat-manufacturing
+0003095462,熱間圧延鋼材 計 (t),出荷,14744298.0,estat-manufacturing
+0003095462,熱間圧延鋼材 計 (t),在庫,677946.0,estat-manufacturing
+0003095462,熱間圧延鋼材 形鋼 (t),生産,397569.0,estat-manufacturing
+0003095462,熱間圧延鋼材 形鋼 (t),出荷,401693.0,estat-manufacturing
+0003095462,熱間圧延鋼材 形鋼 (t),在庫,18522.0,estat-manufacturing
+0003095462,熱間圧延鋼材 棒鋼 (t),生産,6883261.0,estat-manufacturing
+0003095462,熱間圧延鋼材 棒鋼 (t),出荷,6902998.0,estat-manufacturing
+0003095462,熱間圧延鋼材 棒鋼 (t),在庫,183904.0,estat-manufacturing
+0003095462,熱間圧延鋼材 線材 (t),生産,4446064.0,estat-manufacturing
+0003095462,熱間圧延鋼材 線材 (t),出荷,4431495.0,estat-manufacturing
+0003095462,熱間圧延鋼材 線材 (t),在庫,170164.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼板 (t),生産,1331519.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼板 (t),出荷,1328237.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼板 (t),在庫,76648.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼帯 (t),生産,1664667.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼帯 (t),出荷,1679875.0,estat-manufacturing
+0003095462,熱間圧延鋼材 鋼帯 (t),在庫,228708.0,estat-manufacturing
+0003095462,冷間仕上鋼材 計 (t),生産,2997530.0,estat-manufacturing
+0003095462,冷間仕上鋼材 計 (t),出荷,3006498.0,estat-manufacturing
+0003095462,冷間仕上鋼材 計 (t),在庫,151092.0,estat-manufacturing
+0003095462,冷間仕上鋼材 磨帯鋼 (t),生産,321584.0,estat-manufacturing
+0003095462,冷間仕上鋼材 磨帯鋼 (t),出荷,320447.0,estat-manufacturing
+0003095462,冷間仕上鋼材 磨帯鋼 (t),在庫,19144.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延広幅帯鋼 (t),生産,2528876.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延広幅帯鋼 (t),出荷,2539569.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延広幅帯鋼 (t),在庫,121915.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延鋼板 (t),生産,147070.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延鋼板 (t),出荷,146482.0,estat-manufacturing
+0003095462,冷間仕上鋼材 冷延鋼板 (t),在庫,10033.0,estat-manufacturing
+0003095462,鋼管 計 (t),生産,2873280.0,estat-manufacturing
+0003095462,鋼管 計 (t),出荷,2897031.0,estat-manufacturing
+0003095462,鋼管 計 (t),在庫,232854.0,estat-manufacturing
+0003095462,鋼管 熱間 (t),生産,2673313.0,estat-manufacturing
+0003095462,鋼管 熱間 (t),出荷,2701717.0,estat-manufacturing
+0003095462,鋼管 熱間 (t),在庫,219530.0,estat-manufacturing
+0003095462,鋼管 冷けん (t),生産,199967.0,estat-manufacturing
+0003095462,鋼管 冷けん (t),出荷,195314.0,estat-manufacturing
+0003095462,鋼管 冷けん (t),在庫,13324.0,estat-manufacturing
+0003095491,計 (人),計,157361.0,estat-manufacturing
+0003095491,計 (人),高炉メーカー,48983.0,estat-manufacturing
+0003095491,計 (人),電炉メーカー,23861.0,estat-manufacturing
+0003095491,計 (人),その他メーカー,84517.0,estat-manufacturing
+0003095491,鉄鋼部門 (人),計,98983.0,estat-manufacturing
+0003095491,鉄鋼部門 (人),高炉メーカー,45371.0,estat-manufacturing
+0003095491,鉄鋼部門 (人),電炉メーカー,20767.0,estat-manufacturing
+0003095491,鉄鋼部門 (人),その他メーカー,32845.0,estat-manufacturing
+0003095491,鉄鋼加工部門 (人),計,13090.0,estat-manufacturing
+0003095491,鉄鋼加工部門 (人),高炉メーカー,439.0,estat-manufacturing
+0003095491,鉄鋼加工部門 (人),その他メーカー,12651.0,estat-manufacturing
+0003095491,その他の部門 (人),計,45288.0,estat-manufacturing
+0003095491,その他の部門 (人),高炉メーカー,3173.0,estat-manufacturing
+0003095491,その他の部門 (人),電炉メーカー,3094.0,estat-manufacturing
+0003095491,その他の部門 (人),その他メーカー,39021.0,estat-manufacturing
 0003097058,生産,アンモニア(NH3 100％ 換算) (t),1054652.0,estat-manufacturing
 0003097058,生産,硝酸 (98％換算) (t),433854.0,estat-manufacturing
 0003097058,生産,硫酸アンモニウム 計 (t),1245352.0,estat-manufacturing

@@ -53,7 +53,7 @@ construction,0003126277,3978,2008-2026,area_label(5),estat-construction
 construction,0003126279,10830,2007-2025,cat01_label(2) / cat02_label(26) / time_label(19),estat-construction
 construction,0003126456,35301,2005-2025,cat01_label(2) / area_label(41) / time_label(21),estat-construction
 construction,0003126559,11109,2005-2025,cat01_label(3) / cat02_label(23) / time_label(21),estat-construction
-construction,0003126568,10992,2007-2026,tab_label(2) / cat01_label(4),estat-construction
+construction,0003126568,11040,2007-2026,tab_label(2) / cat01_label(4),estat-construction
 construction,0003422893,576,1994-2025,tab_label(4) / cat01_label(3) / cat02_label(6) / time_label(32),estat-construction
 construction,0003458612,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
 construction,0003458613,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
@@ -147,15 +147,16 @@ macro,0000150003,87,1991-1991,cat01_label(29) / cat02_label(3),estat-macro
 macro,0000150004,2511,1991-1991,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
 macro,0000150005,150,1991-1991,cat01_label(25) / cat02_label(6),estat-macro
 macro,0000150271,2538,2006-2006,cat01_label(38) / cat02_label(3) / cat03_label(9),estat-macro
+macro,0002050001,30000,1970-2011,area_label(2),estat-macro
 macro,0002060004,50000,1968-2026,cat04_label(2),estat-macro
-macro,0002060006,28403,1985-2026,cat04_label(4),estat-macro
+macro,0002060006,28508,1985-2026,cat04_label(4),estat-macro
 macro,0002070001,30000,1985-2026,area_label(3),estat-macro
 macro,0002070002,30000,1985-2026,cat01_label(2) / cat02_label(4),estat-macro
 macro,0002070003,30000,1985-2025,area_label(28) / time_label(41),estat-macro
 macro,0002070004,30000,1985-2026,cat03_label(3),estat-macro
-macro,0003005865,2538,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
+macro,0003005865,2547,2000-2026,cat02_label(2) / cat03_label(3),estat-macro
 macro,0003005867,50000,2006-2026,cat04_label(2) / cat05_label(4),estat-macro
-macro,0003006300,29728,2000-2026,cat04_label(4),estat-macro
+macro,0003006300,29834,2000-2026,cat04_label(4),estat-macro
 macro,0003006357,50000,2003-2008,cat04_label(9) / cat05_label(5) / time_label(24),estat-macro
 macro,0003007786,26563,2002-2002,cat03_label(3) / cat04_label(19) / cat05_label(5) / time_label(4),estat-macro
 macro,0003009245,50000,2007-2010,cat04_label(14) / cat05_label(5) / time_label(16),estat-macro
@@ -165,14 +166,20 @@ macro,0003014819,1220,—,cat01_label(17),estat-macro
 macro,0003014820,954,—,cat01_label(18) / cat02_label(45),estat-macro
 macro,0003014821,954,—,cat01_label(18) / cat02_label(45),estat-macro
 macro,0003014822,954,—,cat01_label(18) / cat02_label(45),estat-macro
+macro,0003036792,30000,1970-2016,area_label(2),estat-macro
 macro,0003046410,2490,—,cat01_label(4) / cat02_label(3),estat-macro
 macro,0003080204,2490,—,cat01_label(4) / cat02_label(3),estat-macro
 macro,0003094423,2490,—,cat01_label(4) / cat02_label(3),estat-macro
+macro,0003114490,100000,2011-2024,cat02_label(2) / time_label(14),estat-macro
 macro,0003114496,100000,2011-2024,area_label(6),estat-macro
 macro,0003114534,47040,2011-2024,cat02_label(2) / cat03_label(5),estat-macro
 macro,0003114540,100000,2011-2024,cat03_label(2) / area_label(49) / time_label(14),estat-macro
 macro,0003114570,3920,2011-2024,cat01_label(3) / cat02_label(7) / cat03_label(5) / time_label(14),estat-macro
 macro,0003114627,100000,2011-2023,cat03_label(2) / area_label(49) / time_label(13),estat-macro
+macro,0003117508,1911,2011-2023,tab_label(2) / cat01_label(7) / cat02_label(7) / time_label(13),estat-macro
+macro,0003117525,100000,2011-2023,cat02_label(2) / time_label(13),estat-macro
+macro,0003139220,2058,2011-2024,tab_label(2) / cat01_label(7) / cat02_label(7) / time_label(14),estat-macro
+macro,0003143513,30000,1970-2021,area_label(2),estat-macro
 macro,0003147742,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003199746,336,2014-2016,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003217545,22557,2018-2025,cat02_label(6) / cat03_label(3) / cat04_label(2) / time_label(32),estat-macro
@@ -191,8 +198,10 @@ macro,0003411564,100000,2015-2024,time_label(10),estat-macro
 macro,0003411565,100000,1995-2024,time_label(19),estat-macro
 macro,0003419448,336,2017-2019,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 macro,0003421913,50000,2000-2026,area_label(4),estat-macro
+macro,0003427113,30000,1970-2026,area_label(2),estat-macro
 macro,0003449368,3685,2000-2025,time_label(26),estat-macro
 macro,0003449369,45896,2000-2026,cat01_label(7),estat-macro
+macro,0004000400,100000,2011-2024,area_label(6),estat-macro
 macro,0004003340,21,2019-2019,tab_label(3) / cat01_label(7),estat-macro
 macro,0004003341,50000,2019-2019,cat02_label(2) / cat03_label(19) / cat04_label(38),estat-macro
 macro,0004003349,51,2019-2019,tab_label(3) / cat01_label(10),estat-macro
@@ -200,12 +209,43 @@ macro,0004003350,11,2019-2019,cat01_label(11),estat-macro
 macro,0004003360,72,2019-2019,tab_label(3) / cat01_label(3) / cat02_label(8),estat-macro
 macro,0004023580,1920,2023-2023,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
 macro,0004039718,1920,2024-2024,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
+macro,0004052037,30000,1970-2026,area_label(2),estat-macro
 macro,avg-wage,2356,1970-2010,cat01_label(17) / cat03_label(2) / time_label(41),estat-macro
 macro,cpi,100000,1975-2024,cat01_label(2) / area_label(48) / time_label(14),estat-macro
 macro,housing-starts,1920,2023-2023,tab_label(2) / cat01_label(5) / cat02_label(4) / area_label(48),estat-macro
 macro,population,690,1991-1991,cat01_label(46) / cat02_label(3) / cat03_label(5),estat-macro
 macro,retail-sales,336,2013-2015,cat01_label(2) / area_label(8) / time_label(21),estat-macro
 manufacturing,0003015256,2852,2003-2007,cat02_label(44) / time_label(23),estat-manufacturing
+manufacturing,0003094991,966,2008-2012,cat01_label(3) / cat02_label(14) / time_label(23),estat-manufacturing
+manufacturing,0003095001,483,2008-2012,cat01_label(7) / cat02_label(6) / time_label(23),estat-manufacturing
+manufacturing,0003095020,1173,2008-2012,cat01_label(5) / cat02_label(3) / cat03_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095023,1932,2008-2012,cat01_label(4) / cat02_label(14) / time_label(23),estat-manufacturing
+manufacturing,0003095059,414,2008-2012,cat01_label(6) / cat02_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095076,414,2008-2012,cat01_label(6) / cat02_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095083,1035,2008-2012,cat01_label(3) / cat02_label(3) / cat03_label(5) / time_label(23),estat-manufacturing
+manufacturing,0003095121,414,2008-2012,cat01_label(6) / cat02_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095236,1265,2008-2012,cat01_label(7) / cat02_label(9) / time_label(23),estat-manufacturing
+manufacturing,0003095237,1380,2008-2012,cat01_label(8) / cat02_label(8) / time_label(23),estat-manufacturing
+manufacturing,0003095291,5336,2008-2012,cat01_label(3) / cat02_label(35) / time_label(23),estat-manufacturing
+manufacturing,0003095304,1058,2008-2012,cat01_label(22) / cat02_label(2) / time_label(23),estat-manufacturing
+manufacturing,0003095311,1357,2008-2012,cat01_label(6) / cat02_label(8) / time_label(23),estat-manufacturing
+manufacturing,0003095321,1173,2008-2012,cat01_label(7) / cat02_label(8) / time_label(23),estat-manufacturing
+manufacturing,0003095361,230,2008-2012,cat01_label(6) / cat02_label(2) / time_label(23),estat-manufacturing
+manufacturing,0003095365,207,2008-2012,cat01_label(9) / time_label(23),estat-manufacturing
+manufacturing,0003095387,1380,2008-2012,cat01_label(8) / cat02_label(8) / time_label(23),estat-manufacturing
+manufacturing,0003095388,1380,2008-2012,cat01_label(10) / cat02_label(8) / time_label(23),estat-manufacturing
+manufacturing,0003095399,828,2008-2012,cat01_label(36) / time_label(23),estat-manufacturing
+manufacturing,0003095423,69,2008-2012,cat01_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095432,299,2008-2012,cat01_label(13) / time_label(23),estat-manufacturing
+manufacturing,0003095433,69,2008-2012,cat01_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095445,230,2008-2012,cat01_label(10) / time_label(23),estat-manufacturing
+manufacturing,0003095446,68,2008-2012,cat01_label(4) / time_label(17),estat-manufacturing
+manufacturing,0003095453,204,2008-2012,cat01_label(6) / cat02_label(2) / time_label(17),estat-manufacturing
+manufacturing,0003095462,966,2008-2012,cat01_label(14) / cat02_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095485,391,2008-2012,cat01_label(17) / time_label(23),estat-manufacturing
+manufacturing,0003095486,299,2008-2012,cat01_label(13) / time_label(23),estat-manufacturing
+manufacturing,0003095489,69,2008-2012,cat01_label(3) / time_label(23),estat-manufacturing
+manufacturing,0003095491,16,—,cat01_label(4) / cat02_label(4),estat-manufacturing
 manufacturing,0003097058,133,—,cat01_label(7) / cat02_label(19),estat-manufacturing
 manufacturing,0003097059,7,—,cat01_label(7),estat-manufacturing
 manufacturing,0003097060,294,—,cat01_label(7) / cat02_label(42),estat-manufacturing
@@ -344,6 +384,11 @@ service,0003067917,5355,2009-2012,tab_label(2) / time_label(7),estat-service
 service,0003102823,1197,2013-2013,tab_label(8),estat-service
 service,0003102867,1179,2013-2013,tab_label(8),estat-service
 service,0003102908,315,2013-2013,tab_label(9) / cat02_label(35),estat-service
+trade,0003228116,60,2002-2005,cat02_label(3) / area_label(9) / time_label(4),estat-trade
+trade,0003228117,60,2006-2010,cat02_label(3) / area_label(8) / time_label(5),estat-trade
+trade,0003228118,6,2011-2011,cat02_label(3) / area_label(2),estat-trade
+trade,0003258343,12,1988-1990,cat02_label(3) / area_label(2) / time_label(3),estat-trade
+trade,0003258344,21,1991-1995,cat02_label(3) / area_label(3) / time_label(5),estat-trade
 trade,0003425293,51,2021-2025,cat02_label(3) / area_label(6) / time_label(5),estat-trade
 trade,0004002160,6202,2023-2026,cat03_label(9) / time_label(4),estat-trade
 trade,0004002162,45,2023-2026,cat02_label(3) / cat03_label(3) / area_label(4) / time_label(4),estat-trade

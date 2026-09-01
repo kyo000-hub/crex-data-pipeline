@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 18:44",
+  "updated": "2026-09-01 21:03",
   "directories": {
     "agriculture": {
       "file_count": 30,
@@ -2546,7 +2546,7 @@
     },
     "construction": {
       "file_count": 15,
-      "total_rows": 336617,
+      "total_rows": 336665,
       "tables": [
         {
           "table_id": "0003125915",
@@ -2624,7 +2624,7 @@
               ]
             }
           },
-          "value_count": 40403,
+          "value_count": 40585,
           "value_range": "0.0-36313.0"
         },
         {
@@ -3157,7 +3157,7 @@
         {
           "table_id": "0003126568",
           "file": "0003126568.csv",
-          "total_rows": 10992,
+          "total_rows": 11040,
           "columns": [
             "value",
             "tab",
@@ -3221,7 +3221,7 @@
               ]
             }
           },
-          "value_count": 10697,
+          "value_count": 10741,
           "value_range": "0.0-41761429.0"
         },
         {
@@ -8299,8 +8299,8 @@
       ]
     },
     "macro": {
-      "file_count": 77,
-      "total_rows": 1897629,
+      "file_count": 87,
+      "total_rows": 2351818,
       "tables": [
         {
           "table_id": "0000010103",
@@ -9704,6 +9704,93 @@
           "value_range": "-59896.0-127769510.0"
         },
         {
+          "table_id": "0002050001",
+          "file": "0002050001.csv",
+          "total_rows": 30000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1970,
+            1971,
+            1972,
+            1973,
+            1974,
+            1975,
+            1976,
+            1977,
+            1978,
+            1979,
+            1980,
+            1981,
+            1982,
+            1983,
+            1984,
+            1985,
+            1986,
+            1987,
+            1988,
+            1989,
+            1990,
+            1991,
+            1992,
+            1993,
+            1994,
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011
+          ],
+          "year_range": "1970-2011",
+          "areas": [
+            "01100 札幌市",
+            "02201 青森市",
+            "03201 盛岡市",
+            "04100 仙台市",
+            "05201 秋田市"
+          ],
+          "area_count": 52,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "指数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "0001 総合"
+              ]
+            }
+          },
+          "value_count": 30000,
+          "value_range": "29.9-108.1"
+        },
+        {
           "table_id": "0002060004",
           "file": "0002060004.csv",
           "total_rows": 50000,
@@ -9842,7 +9929,7 @@
         {
           "table_id": "0002060006",
           "file": "0002060006.csv",
-          "total_rows": 28403,
+          "total_rows": 28508,
           "columns": [
             "value",
             "tab",
@@ -9957,7 +10044,7 @@
               ]
             }
           },
-          "value_count": 27755,
+          "value_count": 27860,
           "value_range": "0.0-100.0"
         },
         {
@@ -10375,7 +10462,7 @@
         {
           "table_id": "0003005865",
           "file": "0003005865.csv",
-          "total_rows": 2538,
+          "total_rows": 2547,
           "columns": [
             "value",
             "tab",
@@ -10458,7 +10545,7 @@
               ]
             }
           },
-          "value_count": 2484,
+          "value_count": 2493,
           "value_range": "1.9-76.8"
         },
         {
@@ -10568,13 +10655,13 @@
               ]
             }
           },
-          "value_count": 48650,
+          "value_count": 48656,
           "value_range": "0.3-100.0"
         },
         {
           "table_id": "0003006300",
           "file": "0003006300.csv",
-          "total_rows": 29728,
+          "total_rows": 29834,
           "columns": [
             "value",
             "tab",
@@ -10672,7 +10759,7 @@
               ]
             }
           },
-          "value_count": 29080,
+          "value_count": 29186,
           "value_range": "0.0-100.0"
         },
         {
@@ -11319,6 +11406,98 @@
           "value_range": "1.0-3919782.0"
         },
         {
+          "table_id": "0003036792",
+          "file": "0003036792.csv",
+          "total_rows": 30000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1970,
+            1971,
+            1972,
+            1973,
+            1974,
+            1975,
+            1976,
+            1977,
+            1978,
+            1979,
+            1980,
+            1981,
+            1982,
+            1983,
+            1984,
+            1985,
+            1986,
+            1987,
+            1988,
+            1989,
+            1990,
+            1991,
+            1992,
+            1993,
+            1994,
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "year_range": "1970-2016",
+          "areas": [
+            "01100 札幌市",
+            "02201 青森市",
+            "03201 盛岡市",
+            "04100 仙台市",
+            "05201 秋田市"
+          ],
+          "area_count": 47,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "指数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "0001 総合"
+              ]
+            }
+          },
+          "value_count": 30000,
+          "value_range": "30.0-107.5"
+        },
+        {
           "table_id": "0003046410",
           "file": "0003046410.csv",
           "total_rows": 2490,
@@ -11539,6 +11718,84 @@
           },
           "value_count": 2484,
           "value_range": "-23072.0-127515133.0"
+        },
+        {
+          "table_id": "0003114490",
+          "file": "0003114490.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "year_range": "2011-2024",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "全国市部"
+          ],
+          "area_count": 50,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "建築物の数"
+              ]
+            },
+            "cat01_label": {
+              "count": 2,
+              "samples": [
+                "国",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 74,
+              "samples": [
+                "11居住農林水産業併用",
+                "12居住鉱業，採石業，砂利採取業，建設業併用",
+                "13居住製造業併用",
+                "14居住電気・ガス・熱供給・水道業併用",
+                "15居住情報通信業併用",
+                "16居住運輸業併用",
+                "17居住卸売業，小売業併用",
+                "18居住金融業，保険業併用",
+                "19居住不動産業併用",
+                "20居住宿泊業，飲食サービス業併用"
+              ]
+            }
+          },
+          "value_count": 100000,
+          "value_range": "0.0-676332.0"
         },
         {
           "table_id": "0003114496",
@@ -11964,6 +12221,328 @@
           },
           "value_count": 100000,
           "value_range": "0.0-987254.0"
+        },
+        {
+          "table_id": "0003117508",
+          "file": "0003117508.csv",
+          "total_rows": 1911,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "year_range": "2011-2023",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "工事費予定額",
+                "床面積の合計",
+                "建築物の数"
+              ]
+            },
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "会社",
+                "会社でない団体",
+                "個人",
+                "国",
+                "市区町村",
+                "計",
+                "都道府県"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "その他",
+                "コンクリートブロック造",
+                "木造",
+                "計",
+                "鉄筋コンクリート造",
+                "鉄骨造",
+                "鉄骨鉄筋コンクリート造"
+              ]
+            }
+          },
+          "value_count": 1911,
+          "value_range": "1.0-2902840620.0"
+        },
+        {
+          "table_id": "0003117525",
+          "file": "0003117525.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "year_range": "2011-2023",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "全国市部"
+          ],
+          "area_count": 50,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "建築物の数"
+              ]
+            },
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "国",
+                "計",
+                "都道府県"
+              ]
+            },
+            "cat02_label": {
+              "count": 74,
+              "samples": [
+                "11居住農林水産業併用",
+                "12居住鉱業，採石業，砂利採取業，建設業併用",
+                "13居住製造業併用",
+                "14居住電気・ガス・熱供給・水道業併用",
+                "15居住情報通信業併用",
+                "16居住運輸業併用",
+                "17居住卸売業，小売業併用",
+                "18居住金融業，保険業併用",
+                "19居住不動産業併用",
+                "20居住宿泊業，飲食サービス業併用"
+              ]
+            }
+          },
+          "value_count": 100000,
+          "value_range": "0.0-676684.0"
+        },
+        {
+          "table_id": "0003139220",
+          "file": "0003139220.csv",
+          "total_rows": 2058,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "year_range": "2011-2024",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 3,
+              "samples": [
+                "工事費予定額",
+                "床面積の合計",
+                "建築物の数"
+              ]
+            },
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "その他",
+                "コンクリートブロック造",
+                "木造",
+                "計",
+                "鉄筋コンクリート造",
+                "鉄骨造",
+                "鉄骨鉄筋コンクリート造"
+              ]
+            },
+            "cat02_label": {
+              "count": 7,
+              "samples": [
+                "会社",
+                "会社でない団体",
+                "個人",
+                "国",
+                "市区町村",
+                "計",
+                "都道府県"
+              ]
+            }
+          },
+          "value_count": 2058,
+          "value_range": "1.0-2925037818.0"
+        },
+        {
+          "table_id": "0003143513",
+          "file": "0003143513.csv",
+          "total_rows": 30000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1970,
+            1971,
+            1972,
+            1973,
+            1974,
+            1975,
+            1976,
+            1977,
+            1978,
+            1979,
+            1980,
+            1981,
+            1982,
+            1983,
+            1984,
+            1985,
+            1986,
+            1987,
+            1988,
+            1989,
+            1990,
+            1991,
+            1992,
+            1993,
+            1994,
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "year_range": "1970-2021",
+          "areas": [
+            "01100 札幌市",
+            "02201 青森市",
+            "03201 盛岡市",
+            "04100 仙台市",
+            "05201 秋田市"
+          ],
+          "area_count": 43,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "指数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "0001 総合"
+              ]
+            }
+          },
+          "value_count": 30000,
+          "value_range": "29.1-104.8"
         },
         {
           "table_id": "0003147742",
@@ -13020,6 +13599,108 @@
           "value_range": "468.0-7496.0"
         },
         {
+          "table_id": "0003427113",
+          "file": "0003427113.csv",
+          "total_rows": 30000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1970,
+            1971,
+            1972,
+            1973,
+            1974,
+            1975,
+            1976,
+            1977,
+            1978,
+            1979,
+            1980,
+            1981,
+            1982,
+            1983,
+            1984,
+            1985,
+            1986,
+            1987,
+            1988,
+            1989,
+            1990,
+            1991,
+            1992,
+            1993,
+            1994,
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026
+          ],
+          "year_range": "1970-2026",
+          "areas": [
+            "01100 札幌市",
+            "02201 青森市",
+            "03201 盛岡市",
+            "04100 仙台市",
+            "05201 秋田市"
+          ],
+          "area_count": 39,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "指数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "0001 総合"
+              ]
+            }
+          },
+          "value_count": 30000,
+          "value_range": "28.5-117.5"
+        },
+        {
           "table_id": "0003449368",
           "file": "0003449368.csv",
           "total_rows": 3685,
@@ -13189,6 +13870,83 @@
           },
           "value_count": 45026,
           "value_range": "0.0-6017260.0"
+        },
+        {
+          "table_id": "0004000400",
+          "file": "0004000400.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "year_range": "2011-2024",
+          "areas": [
+            "三重県",
+            "京都府",
+            "佐賀県",
+            "全国",
+            "全国市部"
+          ],
+          "area_count": 50,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "建築物の数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 12,
+              "samples": [
+                "11居住農林水産業併用",
+                "12居住鉱業，採石業，砂利採取業，建設業併用",
+                "13居住製造業併用",
+                "14居住電気・ガス・熱供給・水道業併用",
+                "15居住情報通信業併用",
+                "16居住運輸業併用",
+                "17居住卸売業，小売業併用",
+                "18居住金融業，保険業併用",
+                "計",
+                "Ａ居住専用住宅"
+              ]
+            }
+          },
+          "value_count": 100000,
+          "value_range": "0.0-64668.0"
         },
         {
           "table_id": "0004003340",
@@ -13691,6 +14449,108 @@
           "value_range": "0.0-37423.0"
         },
         {
+          "table_id": "0004052037",
+          "file": "0004052037.csv",
+          "total_rows": 30000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1970,
+            1971,
+            1972,
+            1973,
+            1974,
+            1975,
+            1976,
+            1977,
+            1978,
+            1979,
+            1980,
+            1981,
+            1982,
+            1983,
+            1984,
+            1985,
+            1986,
+            1987,
+            1988,
+            1989,
+            1990,
+            1991,
+            1992,
+            1993,
+            1994,
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026
+          ],
+          "year_range": "1970-2026",
+          "areas": [
+            "01100 札幌市",
+            "02201 青森市",
+            "03201 盛岡市",
+            "04100 仙台市",
+            "05201 秋田市"
+          ],
+          "area_count": 39,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "指数"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "0001 総合"
+              ]
+            }
+          },
+          "value_count": 30000,
+          "value_range": "25.1-103.1"
+        },
+        {
           "table_id": "avg-wage",
           "file": "avg-wage.csv",
           "total_rows": 2356,
@@ -14077,8 +14937,8 @@
       ]
     },
     "manufacturing": {
-      "file_count": 90,
-      "total_rows": 112570,
+      "file_count": 120,
+      "total_rows": 137675,
       "tables": [
         {
           "table_id": "0003015256",
@@ -14131,6 +14991,1484 @@
           },
           "value_count": 2852,
           "value_range": "1.1-705360201.0"
+        },
+        {
+          "table_id": "0003094991",
+          "file": "0003094991.csv",
+          "total_rows": 966,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "受入",
+                "在庫",
+                "消費"
+              ]
+            },
+            "cat02_label": {
+              "count": 14,
+              "samples": [
+                "その他のフェロアロイ (t)",
+                "シリコマンガン (t)",
+                "フェロクロム 低炭素 (t)",
+                "フェロクロム 計 (t)",
+                "フェロクロム 高炭素 (t)",
+                "フェロシリコン (t)",
+                "フェロタングステン (t)",
+                "フェロニッケル (t)",
+                "フェロバナジウム (t)",
+                "フェロマンガン 低炭素 (t)"
+              ]
+            }
+          },
+          "value_count": 966,
+          "value_range": "49.0-2521494.0"
+        },
+        {
+          "table_id": "0003095001",
+          "file": "0003095001.csv",
+          "total_rows": 483,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "製鋼用・鋳物用　転炉用",
+                "製鋼用・鋳物用　鋳鉄管用",
+                "製鋼用・鋳物用　電気炉用",
+                "製鋼用銑",
+                "計",
+                "鋳物用銑",
+                "鋳鉄管用"
+              ]
+            },
+            "cat02_label": {
+              "count": 6,
+              "samples": [
+                "出荷 その他 (t)",
+                "出荷　販売 (t)",
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 (t)",
+                "生産 (t)"
+              ]
+            }
+          },
+          "value_count": 481,
+          "value_range": "85.0-86171136.0"
+        },
+        {
+          "table_id": "0003095020",
+          "file": "0003095020.csv",
+          "total_rows": 1173,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "圧延用鋼塊 小計",
+                "圧延用鋼塊（インゴットケースによるもの）",
+                "圧延用鋼塊（連続鋳造によるもの）",
+                "計",
+                "鋳鋼鋳込",
+                "鍛鋼用鋼塊"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計",
+                "転炉",
+                "電気炉"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "合計 (t)",
+                "普通鋼 (t)",
+                "特殊鋼 (t)"
+              ]
+            }
+          },
+          "value_count": 1132,
+          "value_range": "33.0-118739328.0"
+        },
+        {
+          "table_id": "0003095023",
+          "file": "0003095023.csv",
+          "total_rows": 1932,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "受入",
+                "在庫",
+                "消費",
+                "生産"
+              ]
+            },
+            "cat02_label": {
+              "count": 14,
+              "samples": [
+                "その他のフェロアロイ (t)",
+                "シリコマンガン (t)",
+                "フェロクロム 低炭素 (t)",
+                "フェロクロム 計 (t)",
+                "フェロクロム 高炭素 (t)",
+                "フェロシリコン (t)",
+                "フェロタングステン (t)",
+                "フェロニッケル (t)",
+                "フェロバナジウム (t)",
+                "フェロマンガン 低炭素 (t)"
+              ]
+            }
+          },
+          "value_count": 1593,
+          "value_range": "1.0-933194.0"
+        },
+        {
+          "table_id": "0003095059",
+          "file": "0003095059.csv",
+          "total_rows": 414,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "受入",
+                "在庫",
+                "消費",
+                "生産"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計 (t)",
+                "普通鋼 (t)",
+                "特殊鋼 (t)"
+              ]
+            }
+          },
+          "value_count": 414,
+          "value_range": "63131.0-115357783.0"
+        },
+        {
+          "table_id": "0003095076",
+          "file": "0003095076.csv",
+          "total_rows": 414,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "受入",
+                "在庫",
+                "消費",
+                "生産"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計 (t)",
+                "普通鋼 (t)",
+                "特殊鋼 (t)"
+              ]
+            }
+          },
+          "value_count": 399,
+          "value_range": "1.0-309065.0"
+        },
+        {
+          "table_id": "0003095083",
+          "file": "0003095083.csv",
+          "total_rows": 1035,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "普通鋼",
+                "特殊鋼",
+                "計"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計",
+                "鋳鋼鋳込",
+                "鋼塊"
+              ]
+            },
+            "cat03_label": {
+              "count": 5,
+              "samples": [
+                "その他 (t)",
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 (t)",
+                "販売 (t)"
+              ]
+            }
+          },
+          "value_count": 940,
+          "value_range": "23.0-119150253.0"
+        },
+        {
+          "table_id": "0003095121",
+          "file": "0003095121.csv",
+          "total_rows": 414,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "受入",
+                "在庫",
+                "消費",
+                "生産"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "合計 (t)",
+                "普通鋼 (t)",
+                "特殊鋼 (t)"
+              ]
+            }
+          },
+          "value_count": 398,
+          "value_range": "2.0-738143.0"
+        },
+        {
+          "table_id": "0003095236",
+          "file": "0003095236.csv",
+          "total_rows": 1265,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（鋼材次工程用消費で外数）",
+                "受入",
+                "在庫",
+                "在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）",
+                "消費",
+                "生産"
+              ]
+            },
+            "cat02_label": {
+              "count": 9,
+              "samples": [
+                "冷延広幅帯鋼 (t)",
+                "冷延鋼板 (t)",
+                "冷延電気鋼帯 (t)",
+                "冷間圧造用炭素鋼線 (t)",
+                "溶接棒心線 (t)",
+                "硬鋼線 (t)",
+                "磨帯鋼 (t)",
+                "磨棒鋼 (t)",
+                "鉄線 (t)"
+              ]
+            }
+          },
+          "value_count": 1158,
+          "value_range": "1.0-23773488.0"
+        },
+        {
+          "table_id": "0003095237",
+          "file": "0003095237.csv",
+          "total_rows": 1380,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 10,
+              "samples": [
+                "めっき鋼材 その他の金属めっき鋼板 (t)",
+                "めっき鋼材 ティンフリースチール (t)",
+                "めっき鋼材 ブリキ (t)",
+                "めっき鋼材 亜鉛めっき硬鋼線 (t)",
+                "めっき鋼材 亜鉛めっき鋼板 溶融めっき (t)",
+                "めっき鋼材 亜鉛めっき鋼板 計 (t)",
+                "めっき鋼材 亜鉛めっき鋼板 電気めっき (t)",
+                "めっき鋼材 針金 (t)",
+                "冷間ロール成型形鋼 簡易鋼矢板 (t)",
+                "冷間ロール成型形鋼 軽量形鋼 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（鋼材次工程用消費で外数）",
+                "受入",
+                "在庫",
+                "在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）",
+                "消費",
+                "生産"
+              ]
+            }
+          },
+          "value_count": 1202,
+          "value_range": "1.0-14773123.0"
+        },
+        {
+          "table_id": "0003095291",
+          "file": "0003095291.csv",
+          "total_rows": 5336,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 9,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（鋼材次工程用消費で外数）",
+                "受入",
+                "在庫",
+                "在庫（普通鋼鋼管専業者、冷間仕上鋼材（線類を除く）、めっき鋼材（線類を除く）及び冷間ロール成型形鋼専業者分の在庫を示す）",
+                "消費",
+                "生産",
+                "生産 内再生鋼材"
+              ]
+            },
+            "cat02_label": {
+              "count": 35,
+              "samples": [
+                "合計 (t)",
+                "外輪 (t)",
+                "形鋼 大中小形 中小形 (t)",
+                "形鋼 大中小形 大形 (t)",
+                "形鋼 大中小形 計 (t)",
+                "形鋼 計 (t)",
+                "形鋼 Ｈ形 (t)",
+                "棒鋼 中形 (t)",
+                "棒鋼 大形 (t)",
+                "棒鋼 小形 その他用 (t)"
+              ]
+            }
+          },
+          "value_count": 4667,
+          "value_range": "1.0-84299487.0"
+        },
+        {
+          "table_id": "0003095304",
+          "file": "0003095304.csv",
+          "total_rows": 1058,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 23,
+              "samples": [
+                "合わせ鋼材 (t)",
+                "合計 (t)",
+                "工具鋼 その他の工具鋼 (t)",
+                "工具鋼 合金工具鋼 (t)",
+                "工具鋼 炭素工具鋼 (t)",
+                "工具鋼 計 (t)",
+                "工具鋼 高速度工具鋼 (t)",
+                "構造用鋼 構造用合金鋼 (t)",
+                "構造用鋼 機械構造用炭素鋼 (t)",
+                "構造用鋼 計 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "在庫",
+                "生産"
+              ]
+            }
+          },
+          "value_count": 1032,
+          "value_range": "2.0-21782133.0"
+        },
+        {
+          "table_id": "0003095311",
+          "file": "0003095311.csv",
+          "total_rows": 1357,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 8,
+              "samples": [
+                "合計 (t)",
+                "普通鋼 めっき鋼管 (t)",
+                "普通鋼 冷けん鋼管 (t)",
+                "普通鋼 熱間鋼管 (t)",
+                "普通鋼 計 (t)",
+                "特殊鋼 冷けん鋼管 (t)",
+                "特殊鋼 熱間鋼管 (t)",
+                "特殊鋼 計 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（冷けん用及びめっき用に消費された数量で外数）",
+                "受入",
+                "在庫",
+                "在庫（冷けん及びめっき専業者の素材在庫で外数）",
+                "消費",
+                "生産"
+              ]
+            }
+          },
+          "value_count": 1285,
+          "value_range": "1.0-9721750.0"
+        },
+        {
+          "table_id": "0003095321",
+          "file": "0003095321.csv",
+          "total_rows": 1173,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 7,
+              "samples": [
+                "合計 (t)",
+                "形鋼 (t)",
+                "棒鋼 (t)",
+                "管材 (t)",
+                "線材 (t)",
+                "鋼帯 (t)",
+                "鋼板 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（鋼材次工程用消費で外数）",
+                "受入",
+                "在庫",
+                "在庫（鋼材次工程業者の素材在庫で外数）",
+                "消費",
+                "生産"
+              ]
+            }
+          },
+          "value_count": 1173,
+          "value_range": "1.0-21782133.0"
+        },
+        {
+          "table_id": "0003095361",
+          "file": "0003095361.csv",
+          "total_rows": 230,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "継目無鋼管",
+                "継目無鋼管（内ユージン・セジュルネ法）",
+                "計",
+                "鍛接鋼管",
+                "電弧溶接鋼管",
+                "電縫鋼管"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "普通鋼熱間鋼管 (t)",
+                "特殊鋼熱間鋼管 (t)"
+              ]
+            }
+          },
+          "value_count": 230,
+          "value_range": "5231.0-5589267.0"
+        },
+        {
+          "table_id": "0003095365",
+          "file": "0003095365.csv",
+          "total_rows": 207,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 9,
+              "samples": [
+                "その他の特殊用途鋼",
+                "ステンレス鋼",
+                "合金工具鋼",
+                "快削鋼",
+                "構造用合金鋼",
+                "機械構造用炭素鋼",
+                "計",
+                "軸受鋼",
+                "高抗張力鋼"
+              ]
+            },
+            "cat02_label": {
+              "count": 1,
+              "samples": [
+                "特殊鋼熱間鋼管 (t)"
+              ]
+            }
+          },
+          "value_count": 176,
+          "value_range": "4.0-2952923.0"
+        },
+        {
+          "table_id": "0003095387",
+          "file": "0003095387.csv",
+          "total_rows": 1380,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 11,
+              "samples": [
+                "その他の特殊鋼線 (t)",
+                "ステンレス鋼線 (t)",
+                "ピアノ線 (t)",
+                "冷延広幅帯鋼 （２） (t)",
+                "冷延鋼板 （３） (t)",
+                "冷間圧造用炭素鋼線 (t)",
+                "合計 （１）～（３） (t)",
+                "磨帯鋼 （１） (t)",
+                "磨棒鋼 (t)",
+                "鋳鉄管 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 販売",
+                "出荷 販売（鋼材次工程用消費で外数）",
+                "受入",
+                "在庫",
+                "消費",
+                "生産",
+                "生産 内ステンレス鋼板"
+              ]
+            }
+          },
+          "value_count": 1227,
+          "value_range": "1.0-3076984.0"
+        },
+        {
+          "table_id": "0003095388",
+          "file": "0003095388.csv",
+          "total_rows": 1380,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 14,
+              "samples": [
+                "ドラム缶 (t)",
+                "一般缶 (t)",
+                "金網 一般金網 (t)",
+                "金網 溶接金網 (t)",
+                "金網 蛇かご (t)",
+                "金網 計 (t)",
+                "鉄くぎ 特殊くぎ (t)",
+                "鉄くぎ 計 (t)",
+                "鉄くぎ 鉄丸くぎ (t)",
+                "鋼索 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 8,
+              "samples": [
+                "出荷 その他",
+                "出荷 その他 内鋼より線",
+                "出荷 販売",
+                "出荷 販売 内鋼より線",
+                "在庫",
+                "在庫 内鋼より線",
+                "生産",
+                "生産 内鋼より線"
+              ]
+            }
+          },
+          "value_count": 1318,
+          "value_range": "1.0-561857.0"
+        },
+        {
+          "table_id": "0003095399",
+          "file": "0003095399.csv",
+          "total_rows": 828,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 36,
+              "samples": [
+                "その他の金属めっき鋼板 (t)",
+                "ティンフリースチール (t)",
+                "ブリキ (t)",
+                "中板・薄板 (t)",
+                "亜鉛めっき鋼板 (t)",
+                "冷延薄板類 冷延広幅帯鋼 (t)",
+                "冷延薄板類 冷延鋼板 (t)",
+                "冷延薄板類 磨帯鋼 (t)",
+                "冷延薄板類 計 (t)",
+                "冷延電気鋼帯 (t)"
+              ]
+            }
+          },
+          "value_count": 828,
+          "value_range": "368.0-82702700.0"
+        },
+        {
+          "table_id": "0003095423",
+          "file": "0003095423.csv",
+          "total_rows": 69,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "合計 (t)",
+                "普通鋼計 (t)",
+                "特殊鋼計 (t)"
+              ]
+            }
+          },
+          "value_count": 69,
+          "value_range": "1302946.0-103296590.0"
+        },
+        {
+          "table_id": "0003095432",
+          "file": "0003095432.csv",
+          "total_rows": 299,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 13,
+              "samples": [
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 その他 (t)",
+                "消費 計 (t)",
+                "消費 鉄鋼部門消費 その他 (t)",
+                "消費 鉄鋼部門消費 フェロアロイ用 (t)",
+                "消費 鉄鋼部門消費 小計 (t)",
+                "消費 鉄鋼部門消費 製銑用（高炉） (t)",
+                "消費 鉄鋼部門消費 製鋼用 小計 (t)",
+                "消費 鉄鋼部門消費 製鋼用 転炉 (t)"
+              ]
+            }
+          },
+          "value_count": 299,
+          "value_range": "0.0-1236813.0"
+        },
+        {
+          "table_id": "0003095433",
+          "file": "0003095433.csv",
+          "total_rows": 69,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 鉄鋼部門圧延用 (t)"
+              ]
+            }
+          },
+          "value_count": 69,
+          "value_range": "1386.0-33128.0"
+        },
+        {
+          "table_id": "0003095445",
+          "file": "0003095445.csv",
+          "total_rows": 230,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 10,
+              "samples": [
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 その他 (t)",
+                "消費 計 (t)",
+                "消費 鉄鋼部門消費 再生用 (t)",
+                "消費 鉄鋼部門消費 小計 (t)",
+                "消費 鉄鋼部門消費 溶解用 その他 (t)",
+                "消費 鉄鋼部門消費 溶解用 製銑用 (t)",
+                "消費 鉄鋼部門消費 溶解用 製鋼用 (t)",
+                "発生 (t)"
+              ]
+            }
+          },
+          "value_count": 229,
+          "value_range": "954.0-45605984.0"
+        },
+        {
+          "table_id": "0003095446",
+          "file": "0003095446.csv",
+          "total_rows": 68,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "その他の部門 (人)",
+                "計 (人)",
+                "鉄鋼加工製品部門 (人)",
+                "鉄鋼部門 (人)"
+              ]
+            }
+          },
+          "value_count": 68,
+          "value_range": "13090.0-162350.0"
+        },
+        {
+          "table_id": "0003095453",
+          "file": "0003095453.csv",
+          "total_rows": 204,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 6,
+              "samples": [
+                "製銑設備 その他の炉 (能力：t/年)",
+                "製銑設備 計 (能力：t/年)",
+                "製銑設備 高炉 (能力：t/年)",
+                "製鋼設備 計 (能力：t/年)",
+                "製鋼設備 転炉 (能力：t/年)",
+                "製鋼設備 電気炉 (能力：t/年)"
+              ]
+            },
+            "cat02_label": {
+              "count": 2,
+              "samples": [
+                "　基数",
+                "　能力"
+              ]
+            }
+          },
+          "value_count": 204,
+          "value_range": "3.0-132600720.0"
+        },
+        {
+          "table_id": "0003095462",
+          "file": "0003095462.csv",
+          "total_rows": 966,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 14,
+              "samples": [
+                "冷間仕上鋼材 冷延広幅帯鋼 (t)",
+                "冷間仕上鋼材 冷延鋼板 (t)",
+                "冷間仕上鋼材 磨帯鋼 (t)",
+                "冷間仕上鋼材 計 (t)",
+                "合計 (t)",
+                "熱間圧延鋼材 形鋼 (t)",
+                "熱間圧延鋼材 棒鋼 (t)",
+                "熱間圧延鋼材 線材 (t)",
+                "熱間圧延鋼材 計 (t)",
+                "熱間圧延鋼材 鋼帯 (t)"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "出荷",
+                "在庫",
+                "生産"
+              ]
+            }
+          },
+          "value_count": 966,
+          "value_range": "4148.0-20647827.0"
+        },
+        {
+          "table_id": "0003095485",
+          "file": "0003095485.csv",
+          "total_rows": 391,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 17,
+              "samples": [
+                "合計 (t)",
+                "工具鋼 その他の工具鋼 (t)",
+                "工具鋼 合金工具鋼 (t)",
+                "工具鋼 炭素工具鋼 (t)",
+                "工具鋼 計 (t)",
+                "工具鋼 高速度工具鋼 (t)",
+                "構造用鋼 構造用合金鋼 (t)",
+                "構造用鋼 機械構造用炭素鋼 (t)",
+                "構造用鋼 計 (t)",
+                "特殊用途鋼 その他の特殊用途鋼 (t)"
+              ]
+            }
+          },
+          "value_count": 384,
+          "value_range": "4.0-20593890.0"
+        },
+        {
+          "table_id": "0003095486",
+          "file": "0003095486.csv",
+          "total_rows": 299,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 13,
+              "samples": [
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 その他 (t)",
+                "消費 計 (t)",
+                "消費 鉄鋼部門消費 その他 (t)",
+                "消費 鉄鋼部門消費 フェロアロイ用 (t)",
+                "消費 鉄鋼部門消費 小計 (t)",
+                "消費 鉄鋼部門消費 製銑用（高炉） (t)",
+                "消費 鉄鋼部門消費 製鋼用 小計 (t)",
+                "消費 鉄鋼部門消費 製鋼用 転炉 (t)"
+              ]
+            }
+          },
+          "value_count": 297,
+          "value_range": "24.0-45511688.0"
+        },
+        {
+          "table_id": "0003095489",
+          "file": "0003095489.csv",
+          "total_rows": 69,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "year_range": "2008-2012",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 3,
+              "samples": [
+                "受入 (t)",
+                "在庫 (t)",
+                "消費 (t)"
+              ]
+            }
+          },
+          "value_count": 69,
+          "value_range": "1927.0-61168.0"
+        },
+        {
+          "table_id": "0003095491",
+          "file": "0003095491.csv",
+          "total_rows": 16,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label"
+          ],
+          "has_time": false,
+          "has_area": false,
+          "years": [],
+          "year_range": "—",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "その他の部門 (人)",
+                "計 (人)",
+                "鉄鋼加工部門 (人)",
+                "鉄鋼部門 (人)"
+              ]
+            },
+            "cat02_label": {
+              "count": 4,
+              "samples": [
+                "その他メーカー",
+                "計",
+                "電炉メーカー",
+                "高炉メーカー"
+              ]
+            }
+          },
+          "value_count": 15,
+          "value_range": "439.0-157361.0"
         },
         {
           "table_id": "0003097058",
@@ -22047,9 +24385,254 @@
       ]
     },
     "trade": {
-      "file_count": 4,
-      "total_rows": 16662,
+      "file_count": 9,
+      "total_rows": 16821,
       "tables": [
+        {
+          "table_id": "0003228116",
+          "file": "0003228116.csv",
+          "total_rows": 60,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2002,
+            2003,
+            2004,
+            2005
+          ],
+          "year_range": "2002-2005",
+          "areas": [
+            "103_大韓民国",
+            "105_中華人民共和国",
+            "108_香港",
+            "205_英国",
+            "206_アイルランド"
+          ],
+          "area_count": 9,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010110000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            }
+          },
+          "value_count": 40,
+          "value_range": "0.0-25.0"
+        },
+        {
+          "table_id": "0003228117",
+          "file": "0003228117.csv",
+          "total_rows": 60,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2006,
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "year_range": "2006-2010",
+          "areas": [
+            "103_大韓民国",
+            "105_中華人民共和国",
+            "205_英国",
+            "206_アイルランド",
+            "207_オランダ"
+          ],
+          "area_count": 8,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010110000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            }
+          },
+          "value_count": 40,
+          "value_range": "0.0-81.0"
+        },
+        {
+          "table_id": "0003228118",
+          "file": "0003228118.csv",
+          "total_rows": 6,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            2011
+          ],
+          "year_range": "2011-2011",
+          "areas": [
+            "103_大韓民国",
+            "210_フランス"
+          ],
+          "area_count": 2,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010110000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            }
+          },
+          "value_count": 4,
+          "value_range": "0.0-20.0"
+        },
+        {
+          "table_id": "0003258343",
+          "file": "0003258343.csv",
+          "total_rows": 12,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1988,
+            1989,
+            1990
+          ],
+          "year_range": "1988-1990",
+          "areas": [
+            "103_大韓民国",
+            "210_フランス"
+          ],
+          "area_count": 2,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010111000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            }
+          },
+          "value_count": 8,
+          "value_range": "0.0-4.0"
+        },
+        {
+          "table_id": "0003258344",
+          "file": "0003258344.csv",
+          "total_rows": 21,
+          "columns": [
+            "value",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "area",
+            "area_label",
+            "time",
+            "time_label"
+          ],
+          "has_time": true,
+          "has_area": true,
+          "years": [
+            1991,
+            1992,
+            1993,
+            1994,
+            1995
+          ],
+          "year_range": "1991-1995",
+          "areas": [
+            "103_大韓民国",
+            "205_英国",
+            "304_アメリカ合衆国"
+          ],
+          "area_count": 3,
+          "axis_info": {
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "010111000"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "単位2",
+                "合計_数量1",
+                "合計_数量2"
+              ]
+            }
+          },
+          "value_count": 14,
+          "value_range": "0.0-7.0"
+        },
         {
           "table_id": "0003425293",
           "file": "0003425293.csv",
@@ -23663,8 +26246,8 @@
       ]
     }
   },
-  "total_files": 364,
-  "total_rows": 5740652,
+  "total_files": 409,
+  "total_rows": 6220153,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
@@ -23700,11 +26283,11 @@
     },
     {
       "file": "_dir_macro.json",
-      "size_kb": 150.3
+      "size_kb": 168.4
     },
     {
       "file": "_dir_manufacturing.json",
-      "size_kb": 153.2
+      "size_kb": 196.7
     },
     {
       "file": "_dir_medical.json",
@@ -23728,7 +26311,7 @@
     },
     {
       "file": "_dir_trade.json",
-      "size_kb": 6.1
+      "size_kb": 11.3
     },
     {
       "file": "_dir_transport.json",
