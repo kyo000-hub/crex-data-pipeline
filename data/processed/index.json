@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 21:03",
+  "updated": "2026-09-15 21:09",
   "directories": {
     "agriculture": {
       "file_count": 30,
@@ -2546,7 +2546,7 @@
     },
     "construction": {
       "file_count": 15,
-      "total_rows": 336665,
+      "total_rows": 336719,
       "tables": [
         {
           "table_id": "0003125915",
@@ -2630,7 +2630,7 @@
         {
           "table_id": "0003126261",
           "file": "0003126261.csv",
-          "total_rows": 3978,
+          "total_rows": 3996,
           "columns": [
             "value",
             "tab",
@@ -2694,7 +2694,7 @@
               ]
             }
           },
-          "value_count": 3978,
+          "value_count": 3996,
           "value_range": "2.0-3074652.0"
         },
         {
@@ -2855,7 +2855,7 @@
         {
           "table_id": "0003126277",
           "file": "0003126277.csv",
-          "total_rows": 3978,
+          "total_rows": 4014,
           "columns": [
             "value",
             "tab",
@@ -2907,7 +2907,7 @@
               ]
             }
           },
-          "value_count": 3978,
+          "value_count": 4014,
           "value_range": "-84.4-2084366.0"
         },
         {
@@ -8300,7 +8300,7 @@
     },
     "macro": {
       "file_count": 87,
-      "total_rows": 2351818,
+      "total_rows": 2351957,
       "tables": [
         {
           "table_id": "0000010103",
@@ -13595,7 +13595,7 @@
               ]
             }
           },
-          "value_count": 49886,
+          "value_count": 49919,
           "value_range": "468.0-7496.0"
         },
         {
@@ -13788,7 +13788,7 @@
         {
           "table_id": "0003449369",
           "file": "0003449369.csv",
-          "total_rows": 45896,
+          "total_rows": 46035,
           "columns": [
             "value",
             "tab",
@@ -13868,7 +13868,7 @@
               ]
             }
           },
-          "value_count": 45026,
+          "value_count": 45165,
           "value_range": "0.0-6017260.0"
         },
         {
@@ -26247,7 +26247,7 @@
     }
   },
   "total_files": 409,
-  "total_rows": 6220153,
+  "total_rows": 6220346,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
