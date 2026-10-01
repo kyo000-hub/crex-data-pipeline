@@ -1,6 +1,6 @@
 {
   "directory": "trade",
-  "updated": "2026-09-15",
+  "updated": "2026-10-01",
   "file_count": 9,
   "tables": [
     {
@@ -316,7 +316,7 @@
     },
     {
       "table_id": "0004002160",
-      "rows": 6202,
+      "rows": 6306,
       "columns": [
         "value",
         "cat01",
@@ -346,7 +346,7 @@
           ]
         },
         "cat03_label": {
-          "count": 111,
+          "count": 112,
           "samples": [
             "つくば",
             "三島",
@@ -459,7 +459,7 @@
     },
     {
       "table_id": "0004002163",
-      "rows": 10364,
+      "rows": 10493,
       "columns": [
         "value",
         "cat01",
@@ -509,7 +509,7 @@
           ]
         },
         "area_label": {
-          "count": 193,
+          "count": 194,
           "samples": [
             "103_大韓民国",
             "105_中華人民共和国",
@@ -540,5 +540,5 @@
       }
     }
   ],
-  "total_rows": 16821
+  "total_rows": 17054
 }

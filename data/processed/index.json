@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 21:09",
+  "updated": "2026-10-01 22:40",
   "directories": {
     "agriculture": {
       "file_count": 30,
@@ -2546,7 +2546,7 @@
     },
     "construction": {
       "file_count": 15,
-      "total_rows": 336719,
+      "total_rows": 336767,
       "tables": [
         {
           "table_id": "0003125915",
@@ -2624,7 +2624,7 @@
               ]
             }
           },
-          "value_count": 40585,
+          "value_count": 40769,
           "value_range": "0.0-36313.0"
         },
         {
@@ -3157,7 +3157,7 @@
         {
           "table_id": "0003126568",
           "file": "0003126568.csv",
-          "total_rows": 11040,
+          "total_rows": 11088,
           "columns": [
             "value",
             "tab",
@@ -3221,7 +3221,7 @@
               ]
             }
           },
-          "value_count": 10741,
+          "value_count": 10785,
           "value_range": "0.0-41761429.0"
         },
         {
@@ -10140,7 +10140,7 @@
               ]
             }
           },
-          "value_count": 18760,
+          "value_count": 18815,
           "value_range": "5.0-10000.0"
         },
         {
@@ -10456,7 +10456,7 @@
               ]
             }
           },
-          "value_count": 23610,
+          "value_count": 23653,
           "value_range": "0.1-10000.0"
         },
         {
@@ -24386,7 +24386,7 @@
     },
     "trade": {
       "file_count": 9,
-      "total_rows": 16821,
+      "total_rows": 17054,
       "tables": [
         {
           "table_id": "0003228116",
@@ -24688,7 +24688,7 @@
         {
           "table_id": "0004002160",
           "file": "0004002160.csv",
-          "total_rows": 6202,
+          "total_rows": 6306,
           "columns": [
             "value",
             "cat01",
@@ -24733,7 +24733,7 @@
               ]
             },
             "cat03_label": {
-              "count": 111,
+              "count": 112,
               "samples": [
                 "つくば",
                 "三島",
@@ -24748,7 +24748,7 @@
               ]
             }
           },
-          "value_count": 6202,
+          "value_count": 6306,
           "value_range": "0.0-0.0"
         },
         {
@@ -24814,7 +24814,7 @@
         {
           "table_id": "0004002163",
           "file": "0004002163.csv",
-          "total_rows": 10364,
+          "total_rows": 10493,
           "columns": [
             "value",
             "cat01",
@@ -24844,7 +24844,7 @@
             "107_モンゴル",
             "108_香港"
           ],
-          "area_count": 193,
+          "area_count": 194,
           "axis_info": {
             "cat01_label": {
               "count": 1,
@@ -24874,7 +24874,7 @@
               ]
             }
           },
-          "value_count": 10364,
+          "value_count": 10493,
           "value_range": "0.0-0.0"
         }
       ]
@@ -26247,7 +26247,7 @@
     }
   },
   "total_files": 409,
-  "total_rows": 6220346,
+  "total_rows": 6220627,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",

@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-09-15T21:09:43.447214",
+  "timestamp": "2026-10-01T22:40:46.888758",
   "targets": 48,
   "total_success": 185,
-  "total_rows": 2874354,
-  "total_errors": 29,
+  "total_rows": 2780626,
+  "total_errors": 28,
   "results": [
     {
       "source_id": "estat-population",
       "name": "人口推計",
-      "timestamp": "2026-09-15T20:31:13.778238",
+      "timestamp": "2026-10-01T22:03:27.717601",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -50,7 +50,7 @@
     {
       "source_id": "estat-cpi",
       "name": "消費者物価指数",
-      "timestamp": "2026-09-15T20:31:42.770474",
+      "timestamp": "2026-10-01T22:04:02.469078",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -74,7 +74,7 @@
     {
       "source_id": "estat-wage",
       "name": "毎月勤労統計",
-      "timestamp": "2026-09-15T20:32:12.841595",
+      "timestamp": "2026-10-01T22:04:37.232419",
       "tables_found": 35,
       "tables_processed": 5,
       "tables_success": 5,
@@ -116,49 +116,51 @@
     {
       "source_id": "estat-housing",
       "name": "住宅着工統計",
-      "timestamp": "2026-09-15T20:32:53.535984",
-      "tables_found": 29,
+      "timestamp": "2026-10-01T22:05:27.820193",
+      "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 350960,
+      "total_rows": 303969,
       "files": [
         {
-          "table_id": "0003114496",
-          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "table_id": "0003114490",
+          "title": "用途別、建築主別／建築物の数、床面積、工事費予定額",
           "rows": 100000,
-          "file": "data/raw/macro/0003114496.csv"
+          "file": "data/raw/macro/0003114490.csv"
         },
         {
-          "table_id": "0003114540",
-          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "table_id": "0003117525",
+          "title": "用途別、建築主別／建築物の数、床面積、工事費予定額",
           "rows": 100000,
-          "file": "data/raw/macro/0003114540.csv"
+          "file": "data/raw/macro/0003117525.csv"
         },
         {
-          "table_id": "0003114627",
-          "title": "（新設住宅）資金別、利用関係別、建築主別／戸数、床面積",
+          "table_id": "0004000400",
+          "title": "用途別、建築主別／建築物の数、床面積、工事費予定額",
           "rows": 100000,
-          "file": "data/raw/macro/0003114627.csv"
+          "file": "data/raw/macro/0004000400.csv"
         },
         {
-          "table_id": "0003114534",
-          "title": "（新設住宅）利用関係別、構造別、住宅の種類別／戸数、床面積",
-          "rows": 47040,
-          "file": "data/raw/macro/0003114534.csv"
+          "table_id": "0003117508",
+          "title": "建築主別、構造別／建築物の数、床面積、工事費予定額",
+          "rows": 1911,
+          "file": "data/raw/macro/0003117508.csv"
         },
         {
-          "table_id": "0003114570",
-          "title": "（新設住宅）利用関係別、構造別、住宅の種類別／戸数、床面積",
-          "rows": 3920,
-          "file": "data/raw/macro/0003114570.csv"
+          "table_id": "0003139220",
+          "title": "建築主別、構造別／建築物の数、床面積、工事費予定額",
+          "rows": 2058,
+          "file": "data/raw/macro/0003139220.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '住宅着工統計 新設住宅 利用関係別': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-retail",
       "name": "商業動態統計",
-      "timestamp": "2026-09-15T20:34:02.919229",
+      "timestamp": "2026-10-01T22:07:01.706778",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -200,7 +202,7 @@
     {
       "source_id": "estat-labor",
       "name": "労働力調査（失業率）",
-      "timestamp": "2026-09-15T20:34:33.457217",
+      "timestamp": "2026-10-01T22:07:32.324120",
       "tables_found": 28,
       "tables_processed": 5,
       "tables_success": 5,
@@ -242,7 +244,7 @@
     {
       "source_id": "estat-iip",
       "name": "鉱工業指数",
-      "timestamp": "2026-09-15T20:35:30.237862",
+      "timestamp": "2026-10-01T22:08:26.544719",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -284,51 +286,49 @@
     {
       "source_id": "estat-household",
       "name": "家計調査",
-      "timestamp": "2026-09-15T20:36:16.730141",
-      "tables_found": 5,
+      "timestamp": "2026-10-01T22:09:08.766357",
+      "tables_found": 29,
       "tables_processed": 5,
       "tables_success": 5,
       "total_rows": 150000,
       "files": [
         {
-          "table_id": "0002050001",
-          "title": "消費者物価指数（平成17年基準）",
+          "table_id": "0000010112",
+          "title": "Ｌ　家計",
           "rows": 30000,
-          "file": "data/raw/macro/0002050001.csv"
+          "file": "data/raw/macro/0000010112.csv"
         },
         {
-          "table_id": "0003036792",
-          "title": "消費者物価指数（平成22年基準）",
+          "table_id": "0002070001",
+          "title": "用途分類 用途分類（総数）",
           "rows": 30000,
-          "file": "data/raw/macro/0003036792.csv"
+          "file": "data/raw/macro/0002070001.csv"
         },
         {
-          "table_id": "0003143513",
-          "title": "消費者物価指数（2015年基準）",
+          "table_id": "0002070002",
+          "title": "用途分類 用途分類（総数）",
           "rows": 30000,
-          "file": "data/raw/macro/0003143513.csv"
+          "file": "data/raw/macro/0002070002.csv"
         },
         {
-          "table_id": "0003427113",
-          "title": "消費者物価指数（2020年基準）",
+          "table_id": "0002070003",
+          "title": "用途分類 用途分類（総数）",
           "rows": 30000,
-          "file": "data/raw/macro/0003427113.csv"
+          "file": "data/raw/macro/0002070003.csv"
         },
         {
-          "table_id": "0004052037",
-          "title": "消費者物価指数（2025年基準）",
+          "table_id": "0002070004",
+          "title": "用途分類 用途分類（年間収入五分位階級別）",
           "rows": 30000,
-          "file": "data/raw/macro/0004052037.csv"
+          "file": "data/raw/macro/0002070004.csv"
         }
       ],
-      "errors": [
-        "Search '家計調査 二人以上の世帯 消費支出 年': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     },
     {
       "source_id": "estat-census-activity",
       "name": "経済センサス-活動調査",
-      "timestamp": "2026-09-15T20:38:07.092189",
+      "timestamp": "2026-10-01T22:10:06.307905",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 0,
@@ -345,7 +345,7 @@
     {
       "source_id": "estat-census-basic",
       "name": "経済センサス-基礎調査",
-      "timestamp": "2026-09-15T20:38:52.414994",
+      "timestamp": "2026-10-01T22:10:52.274262",
       "tables_found": 1,
       "tables_processed": 1,
       "tables_success": 1,
@@ -363,25 +363,24 @@
     {
       "source_id": "estat-trade",
       "name": "貿易統計",
-      "timestamp": "2026-09-15T20:39:29.359104",
-      "tables_found": 50,
+      "timestamp": "2026-10-01T22:11:16.295994",
+      "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 0,
       "total_rows": 0,
       "files": [],
       "errors": [
-        "Search '貿易統計 品別国別 年': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "0003228116: dict contains fields not in fieldnames: 'unit'",
-        "0003228117: dict contains fields not in fieldnames: 'unit'",
-        "0003228118: dict contains fields not in fieldnames: 'unit'",
-        "0003258343: dict contains fields not in fieldnames: 'unit'",
-        "0003258344: dict contains fields not in fieldnames: 'unit'"
+        "0004002162: Timeout (120s)",
+        "0004002161: Timeout (120s)",
+        "0004002160: dict contains fields not in fieldnames: 'unit'",
+        "0004002163: dict contains fields not in fieldnames: 'unit'",
+        "0003425293: dict contains fields not in fieldnames: 'unit'"
       ]
     },
     {
       "source_id": "estat-corp-finance",
       "name": "法人企業統計",
-      "timestamp": "2026-09-15T20:44:48.940038",
+      "timestamp": "2026-10-01T22:17:32.976464",
       "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
@@ -423,8 +422,8 @@
     {
       "source_id": "estat-manufacturing",
       "name": "生産動態統計",
-      "timestamp": "2026-09-15T20:45:39.019718",
-      "tables_found": 298,
+      "timestamp": "2026-10-01T22:18:41.256646",
+      "tables_found": 268,
       "tables_processed": 30,
       "tables_success": 30,
       "total_rows": 52150,
@@ -610,12 +609,14 @@
           "file": "data/raw/manufacturing/0003097469.csv"
         }
       ],
-      "errors": []
+      "errors": [
+        "Search '生産動態統計 年報 窯業': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "source_id": "estat-wage-structure",
       "name": "賃金構造基本統計",
-      "timestamp": "2026-09-15T20:50:38.697288",
+      "timestamp": "2026-10-01T22:23:35.661984",
       "tables_found": 31,
       "tables_processed": 5,
       "tables_success": 5,
@@ -657,7 +658,7 @@
     {
       "source_id": "estat-employment-trend",
       "name": "雇用動向調査",
-      "timestamp": "2026-09-15T20:52:26.595028",
+      "timestamp": "2026-10-01T22:25:15.105015",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -681,7 +682,7 @@
     {
       "source_id": "estat-employment-structure",
       "name": "就業構造基本調査",
-      "timestamp": "2026-09-15T20:52:54.782934",
+      "timestamp": "2026-10-01T22:25:32.095951",
       "tables_found": 22,
       "tables_processed": 5,
       "tables_success": 5,
@@ -723,8 +724,8 @@
     {
       "source_id": "estat-national-census",
       "name": "国勢調査",
-      "timestamp": "2026-09-15T20:54:10.195618",
-      "tables_found": 30,
+      "timestamp": "2026-10-01T22:26:50.318641",
+      "tables_found": 51,
       "tables_processed": 5,
       "tables_success": 5,
       "total_rows": 30276,
@@ -760,14 +761,12 @@
           "file": "data/raw/national-census/0004008860.csv"
         }
       ],
-      "errors": [
-        "Search '国勢調査 産業 職業': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     },
     {
       "source_id": "estat-service",
       "name": "サービス産業動向調査",
-      "timestamp": "2026-09-15T20:55:24.528270",
+      "timestamp": "2026-10-01T22:27:40.680720",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -809,7 +808,7 @@
     {
       "source_id": "estat-ict",
       "name": "情報通信業基本調査",
-      "timestamp": "2026-09-15T20:56:01.842241",
+      "timestamp": "2026-10-01T22:28:08.219765",
       "tables_found": 16,
       "tables_processed": 5,
       "tables_success": 5,
@@ -851,7 +850,7 @@
     {
       "source_id": "estat-rd",
       "name": "科学技術研究調査",
-      "timestamp": "2026-09-15T20:56:32.075710",
+      "timestamp": "2026-10-01T22:28:38.397808",
       "tables_found": 1,
       "tables_processed": 1,
       "tables_success": 0,
@@ -864,7 +863,7 @@
     {
       "source_id": "estat-medical",
       "name": "医療施設調査",
-      "timestamp": "2026-09-15T20:56:50.809803",
+      "timestamp": "2026-10-01T22:29:01.821536",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 4,
@@ -902,7 +901,7 @@
     {
       "source_id": "estat-patient",
       "name": "患者調査",
-      "timestamp": "2026-09-15T20:57:19.824664",
+      "timestamp": "2026-10-01T22:29:25.855914",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -944,7 +943,7 @@
     {
       "source_id": "estat-care",
       "name": "介護サービス施設調査",
-      "timestamp": "2026-09-15T20:57:57.993806",
+      "timestamp": "2026-10-01T22:29:58.067933",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -957,7 +956,7 @@
     {
       "source_id": "estat-pharma",
       "name": "薬事工業生産動態統計",
-      "timestamp": "2026-09-15T20:58:10.424419",
+      "timestamp": "2026-10-01T22:30:12.266416",
       "tables_found": 13,
       "tables_processed": 5,
       "tables_success": 5,
@@ -999,7 +998,7 @@
     {
       "source_id": "estat-medical-cost",
       "name": "社会医療診療行為別統計",
-      "timestamp": "2026-09-15T20:58:42.833136",
+      "timestamp": "2026-10-01T22:30:47.766127",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1012,93 +1011,93 @@
     {
       "source_id": "estat-agri-census",
       "name": "農林業センサス",
-      "timestamp": "2026-09-15T20:58:49.689828",
-      "tables_found": 31,
-      "tables_processed": 5,
-      "tables_success": 5,
-      "total_rows": 22406,
-      "files": [
-        {
-          "table_id": "0003278878",
-          "title": "販売農家 農作物　販売目的の作物の類別作付（栽培）農家数・面積",
-          "rows": 3618,
-          "file": "data/raw/agriculture/0003278878.csv"
-        },
-        {
-          "table_id": "0003278879",
-          "title": "販売農家 農作物　販売目的の作物の作物別作付（栽培）農家数と作付（栽培）面積",
-          "rows": 10586,
-          "file": "data/raw/agriculture/0003278879.csv"
-        },
-        {
-          "table_id": "0003278880",
-          "title": "販売農家 農作物　販売目的の作物の作物別作付（栽培）農家数と作付（栽培）面積（北海道のみ）",
-          "rows": 33,
-          "file": "data/raw/agriculture/0003278880.csv"
-        },
-        {
-          "table_id": "0003278881",
-          "title": "販売農家 農作物　販売目的の作物の作物別作付（栽培）農家数と作付（栽培）面積（沖縄県のみ）",
-          "rows": 62,
-          "file": "data/raw/agriculture/0003278881.csv"
-        },
-        {
-          "table_id": "0003278882",
-          "title": "販売農家 農作物　販売目的の作物の作付（栽培）面積規模別農家数",
-          "rows": 8107,
-          "file": "data/raw/agriculture/0003278882.csv"
-        }
-      ],
-      "errors": [
-        "Search '農林業センサス 経営体数 農家数': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
-      ]
-    },
-    {
-      "source_id": "estat-fishery-census",
-      "name": "漁業センサス",
-      "timestamp": "2026-09-15T20:59:34.388508",
+      "timestamp": "2026-10-01T22:30:55.767889",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 139574,
+      "total_rows": 35343,
       "files": [
         {
-          "table_id": "0003117386",
-          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
-          "rows": 28272,
-          "file": "data/raw/agriculture/0003117386.csv"
+          "table_id": "0003195151",
+          "title": "第２部　法制上の地域指定別 ２　農業経営体 (5)　農業労働力 山村・過疎・特定農山村地域別類型",
+          "rows": 6831,
+          "file": "data/raw/agriculture/0003195151.csv"
         },
         {
-          "table_id": "0003117418",
-          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
-          "rows": 26942,
-          "file": "data/raw/agriculture/0003117418.csv"
+          "table_id": "0003195162",
+          "title": "第２部　法制上の地域指定別 ２　農業経営体 (5)　農業労働力 農業振興地域・都市計画区域別類型",
+          "rows": 12144,
+          "file": "data/raw/agriculture/0003195162.csv"
         },
         {
-          "table_id": "0003117424",
-          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
-          "rows": 29868,
-          "file": "data/raw/agriculture/0003117424.csv"
+          "table_id": "0003194860",
+          "title": "農業経営体 経営形態別統計 (12) 農業労働力 - （ｲ） 雇用労働",
+          "rows": 5544,
+          "file": "data/raw/agriculture/0003194860.csv"
         },
         {
-          "table_id": "0003117514",
-          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
-          "rows": 28234,
-          "file": "data/raw/agriculture/0003117514.csv"
+          "table_id": "0003195083",
+          "title": "販売農家 主副業別統計 (8) 雇用労働",
+          "rows": 5544,
+          "file": "data/raw/agriculture/0003195083.csv"
         },
         {
-          "table_id": "0003117490",
-          "title": "統計表 漁業経営体 経営体階層別経営体数 経営体階層",
-          "rows": 26258,
-          "file": "data/raw/agriculture/0003117490.csv"
+          "table_id": "0003195093",
+          "title": "林業経営体 経営形態別統計 (3) 林業労働力 - (ｲ) 雇用労働",
+          "rows": 5280,
+          "file": "data/raw/agriculture/0003195093.csv"
         }
       ],
       "errors": []
     },
     {
+      "source_id": "estat-fishery-census",
+      "name": "漁業センサス",
+      "timestamp": "2026-10-01T22:31:33.389559",
+      "tables_found": 50,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 32736,
+      "files": [
+        {
+          "table_id": "0003118884",
+          "title": "統計表 漁業経営体に関する基本的項目 漁業経営体・漁船",
+          "rows": 3720,
+          "file": "data/raw/agriculture/0003118884.csv"
+        },
+        {
+          "table_id": "0003124235",
+          "title": "統計表 漁業経営体に関する基本的項目 海上作業従事者・陸上作業従事者・新規就業者",
+          "rows": 12648,
+          "file": "data/raw/agriculture/0003124235.csv"
+        },
+        {
+          "table_id": "0003117355",
+          "title": "統計表 漁業経営体 出荷先別延べ経営体数",
+          "rows": 6696,
+          "file": "data/raw/agriculture/0003117355.csv"
+        },
+        {
+          "table_id": "0003117368",
+          "title": "統計表 漁業経営体 経営体階層別経営体数 漁業層",
+          "rows": 3720,
+          "file": "data/raw/agriculture/0003117368.csv"
+        },
+        {
+          "table_id": "0003117369",
+          "title": "統計表 漁業経営体 動力漁船保有隻数別経営体数",
+          "rows": 5952,
+          "file": "data/raw/agriculture/0003117369.csv"
+        }
+      ],
+      "errors": [
+        "Search '漁業センサス 経営体': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)"
+      ]
+    },
+    {
       "source_id": "estat-crop",
       "name": "作物統計",
-      "timestamp": "2026-09-15T21:00:22.046109",
+      "timestamp": "2026-10-01T22:32:17.006296",
       "tables_found": 23,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1140,7 +1139,7 @@
     {
       "source_id": "estat-transport-auto",
       "name": "自動車輸送統計",
-      "timestamp": "2026-09-15T21:00:54.862822",
+      "timestamp": "2026-10-01T22:32:51.601748",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1153,7 +1152,7 @@
     {
       "source_id": "estat-port",
       "name": "港湾統計",
-      "timestamp": "2026-09-15T21:01:02.352626",
+      "timestamp": "2026-10-01T22:33:00.922634",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1166,7 +1165,7 @@
     {
       "source_id": "estat-railway",
       "name": "鉄道輸送統計",
-      "timestamp": "2026-09-15T21:01:11.434204",
+      "timestamp": "2026-10-01T22:33:09.865146",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1179,7 +1178,7 @@
     {
       "source_id": "estat-hotel",
       "name": "宿泊旅行統計",
-      "timestamp": "2026-09-15T21:01:20.583894",
+      "timestamp": "2026-10-01T22:33:19.137049",
       "tables_found": 18,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1221,7 +1220,7 @@
     {
       "source_id": "estat-construction-order",
       "name": "建設工事受注動態統計",
-      "timestamp": "2026-09-15T21:01:47.574202",
+      "timestamp": "2026-10-01T22:33:37.972886",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1263,11 +1262,11 @@
     {
       "source_id": "estat-building-starts",
       "name": "建築着工統計",
-      "timestamp": "2026-09-15T21:02:16.657366",
+      "timestamp": "2026-10-01T22:34:06.712954",
       "tables_found": 26,
       "tables_processed": 5,
       "tables_success": 5,
-      "total_rows": 108026,
+      "total_rows": 108074,
       "files": [
         {
           "table_id": "0003125915",
@@ -1290,7 +1289,7 @@
         {
           "table_id": "0003126568",
           "title": "燃料消費量等 用途別、油種別燃料消費量",
-          "rows": 11040,
+          "rows": 11088,
           "file": "data/raw/construction/0003126568.csv"
         },
         {
@@ -1305,49 +1304,21 @@
     {
       "source_id": "estat-energy",
       "name": "資源エネルギー統計",
-      "timestamp": "2026-09-15T21:02:46.946321",
-      "tables_found": 30,
-      "tables_processed": 5,
-      "tables_success": 5,
-      "total_rows": 170,
-      "files": [
-        {
-          "table_id": "0003046635",
-          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
-          "rows": 34,
-          "file": "data/raw/energy/0003046635.csv"
-        },
-        {
-          "table_id": "0003047173",
-          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
-          "rows": 34,
-          "file": "data/raw/energy/0003047173.csv"
-        },
-        {
-          "table_id": "0003047567",
-          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
-          "rows": 34,
-          "file": "data/raw/energy/0003047567.csv"
-        },
-        {
-          "table_id": "0003048081",
-          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
-          "rows": 34,
-          "file": "data/raw/energy/0003048081.csv"
-        },
-        {
-          "table_id": "0003048832",
-          "title": "石油 (４)石油製品需給 ５．製造業者・輸入業者の消費者・販売業者向販売、在庫内訳",
-          "rows": 34,
-          "file": "data/raw/energy/0003048832.csv"
-        }
-      ],
-      "errors": []
+      "timestamp": "2026-10-01T22:34:35.625022",
+      "tables_found": 0,
+      "tables_processed": 0,
+      "tables_success": 0,
+      "total_rows": 0,
+      "files": [],
+      "errors": [
+        "Search '資源エネルギー統計 生産 消費': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
+        "No tables found"
+      ]
     },
     {
       "source_id": "estat-oil",
       "name": "石油製品需給動態統計",
-      "timestamp": "2026-09-15T21:03:22.805489",
+      "timestamp": "2026-10-01T22:35:06.646639",
       "tables_found": 2,
       "tables_processed": 2,
       "tables_success": 2,
@@ -1371,7 +1342,7 @@
     {
       "source_id": "estat-school",
       "name": "学校基本調査",
-      "timestamp": "2026-09-15T21:03:56.200969",
+      "timestamp": "2026-10-01T22:35:26.425664",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1413,7 +1384,7 @@
     {
       "source_id": "estat-econ-structure",
       "name": "経済構造実態調査",
-      "timestamp": "2026-09-15T21:04:25.055071",
+      "timestamp": "2026-10-01T22:35:50.703885",
       "tables_found": 22,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1455,8 +1426,8 @@
     {
       "source_id": "estat-corp-activity",
       "name": "企業活動基本調査",
-      "timestamp": "2026-09-15T21:04:59.266657",
-      "tables_found": 16,
+      "timestamp": "2026-10-01T22:36:18.971474",
+      "tables_found": 17,
       "tables_processed": 5,
       "tables_success": 5,
       "total_rows": 19062,
@@ -1497,21 +1468,49 @@
     {
       "source_id": "estat-sme",
       "name": "中小企業実態基本調査",
-      "timestamp": "2026-09-15T21:05:39.990929",
-      "tables_found": 0,
-      "tables_processed": 0,
-      "tables_success": 0,
-      "total_rows": 0,
-      "files": [],
-      "errors": [
-        "Search '中小企業実態基本調査 売上高': HTTPSConnectionPool(host='api.e-stat.go.jp', port=443): Read timed out. (read timeout=30)",
-        "No tables found"
-      ]
+      "timestamp": "2026-10-01T22:36:49.675290",
+      "tables_found": 24,
+      "tables_processed": 5,
+      "tables_success": 5,
+      "total_rows": 47286,
+      "files": [
+        {
+          "table_id": "0003317770",
+          "title": "統計表 ３．売上高及び営業費用　産業別・売上高階級別表（法人企業）",
+          "rows": 11664,
+          "file": "data/raw/corporate/0003317770.csv"
+        },
+        {
+          "table_id": "0003317771",
+          "title": "統計表 ３．売上高及び営業費用　産業別・売上高階級別表（個人企業）",
+          "rows": 11232,
+          "file": "data/raw/corporate/0003317771.csv"
+        },
+        {
+          "table_id": "0003317788",
+          "title": "統計表 ８．売上高の内訳　産業別・売上高階級別表",
+          "rows": 9720,
+          "file": "data/raw/corporate/0003317788.csv"
+        },
+        {
+          "table_id": "0003287200",
+          "title": "統計表 ８．売上高の内訳　産業中分類別表",
+          "rows": 7110,
+          "file": "data/raw/corporate/0003287200.csv"
+        },
+        {
+          "table_id": "0003317789",
+          "title": "統計表 ８．売上高の内訳　産業別・従業者規模別表",
+          "rows": 7560,
+          "file": "data/raw/corporate/0003317789.csv"
+        }
+      ],
+      "errors": []
     },
     {
       "source_id": "estat-overseas",
       "name": "海外事業活動基本調査",
-      "timestamp": "2026-09-15T21:06:10.120884",
+      "timestamp": "2026-10-01T22:37:22.990899",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1524,7 +1523,7 @@
     {
       "source_id": "estat-household-structure",
       "name": "全国家計構造調査",
-      "timestamp": "2026-09-15T21:06:27.134911",
+      "timestamp": "2026-10-01T22:37:31.201556",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 2,
@@ -1552,7 +1551,7 @@
     {
       "source_id": "estat-individual-biz",
       "name": "個人企業経済調査",
-      "timestamp": "2026-09-15T21:07:03.789266",
+      "timestamp": "2026-10-01T22:38:06.363262",
       "tables_found": 30,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1594,7 +1593,7 @@
     {
       "source_id": "estat-retail-price",
       "name": "小売物価統計調査",
-      "timestamp": "2026-09-15T21:07:45.065306",
+      "timestamp": "2026-10-01T22:38:44.623429",
       "tables_found": 3,
       "tables_processed": 3,
       "tables_success": 3,
@@ -1624,7 +1623,7 @@
     {
       "source_id": "estat-ict-usage",
       "name": "通信利用動向調査",
-      "timestamp": "2026-09-15T21:08:46.250509",
+      "timestamp": "2026-10-01T22:39:42.511572",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1637,7 +1636,7 @@
     {
       "source_id": "estat-bsi",
       "name": "法人企業景気予測調査",
-      "timestamp": "2026-09-15T21:08:56.027032",
+      "timestamp": "2026-10-01T22:39:52.393894",
       "tables_found": 50,
       "tables_processed": 5,
       "tables_success": 5,
@@ -1679,7 +1678,7 @@
     {
       "source_id": "estat-environment",
       "name": "環境統計",
-      "timestamp": "2026-09-15T21:09:14.577554",
+      "timestamp": "2026-10-01T22:40:12.542343",
       "tables_found": 0,
       "tables_processed": 0,
       "tables_success": 0,
@@ -1692,7 +1691,7 @@
     {
       "source_id": "estat-crime",
       "name": "犯罪統計",
-      "timestamp": "2026-09-15T21:09:20.415925",
+      "timestamp": "2026-10-01T22:40:20.881576",
       "tables_found": 4,
       "tables_processed": 4,
       "tables_success": 4,

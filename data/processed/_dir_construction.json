@@ -1,6 +1,6 @@
 {
   "directory": "construction",
-  "updated": "2026-09-15",
+  "updated": "2026-10-01",
   "file_count": 15,
   "tables": [
     {
@@ -58,7 +58,7 @@
           ]
         },
         "time_label": {
-          "count": 230,
+          "count": 231,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -610,7 +610,7 @@
     },
     {
       "table_id": "0003126568",
-      "rows": 11040,
+      "rows": 11088,
       "columns": [
         "value",
         "tab",
@@ -651,7 +651,7 @@
           ]
         },
         "time_label": {
-          "count": 230,
+          "count": 231,
           "samples": [
             "2007年10月",
             "2007年11月",
@@ -1263,5 +1263,5 @@
       }
     }
   ],
-  "total_rows": 336719
+  "total_rows": 336767
 }

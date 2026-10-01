@@ -53,7 +53,7 @@ construction,0003126277,4014,2008-2026,area_label(5),estat-construction
 construction,0003126279,10830,2007-2025,cat01_label(2) / cat02_label(26) / time_label(19),estat-construction
 construction,0003126456,35301,2005-2025,cat01_label(2) / area_label(41) / time_label(21),estat-construction
 construction,0003126559,11109,2005-2025,cat01_label(3) / cat02_label(23) / time_label(21),estat-construction
-construction,0003126568,11040,2007-2026,tab_label(2) / cat01_label(4),estat-construction
+construction,0003126568,11088,2007-2026,tab_label(2) / cat01_label(4),estat-construction
 construction,0003422893,576,1994-2025,tab_label(4) / cat01_label(3) / cat02_label(6) / time_label(32),estat-construction
 construction,0003458612,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
 construction,0003458613,50000,2021-2023,cat04_label(6) / time_label(3),estat-construction
@@ -390,9 +390,9 @@ trade,0003228118,6,2011-2011,cat02_label(3) / area_label(2),estat-trade
 trade,0003258343,12,1988-1990,cat02_label(3) / area_label(2) / time_label(3),estat-trade
 trade,0003258344,21,1991-1995,cat02_label(3) / area_label(3) / time_label(5),estat-trade
 trade,0003425293,51,2021-2025,cat02_label(3) / area_label(6) / time_label(5),estat-trade
-trade,0004002160,6202,2023-2026,cat03_label(9) / time_label(4),estat-trade
+trade,0004002160,6306,2023-2026,cat03_label(9) / time_label(4),estat-trade
 trade,0004002162,45,2023-2026,cat02_label(3) / cat03_label(3) / area_label(4) / time_label(4),estat-trade
-trade,0004002163,10364,2023-2026,cat03_label(3) / time_label(4),estat-trade
+trade,0004002163,10493,2023-2026,cat03_label(3) / time_label(4),estat-trade
 transport,0003175401,864,2006-2015,tab_label(2) / cat01_label(6) / cat02_label(3) / cat03_label(3) / time_label(8),estat-transport
 transport,0003175402,1536,2006-2015,tab_label(2) / cat01_label(15) / area_label(14) / time_label(8),estat-transport
 transport,0003175403,80,2006-2015,cat01_label(10) / time_label(8),estat-transport
