@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T22:43:25.508497",
+  "timestamp": "2026-10-15T21:20:24.177574",
   "files": {
     "B_macro_annual.csv": {
       "rows": 26,
@@ -10,8 +10,8 @@
       "size_kb": 1269.2
     },
     "C_industry_summary.csv": {
-      "rows": 409,
-      "size_kb": 35.7
+      "rows": 411,
+      "size_kb": 35.9
     },
     "corporate_finance.csv": {
       "rows": 10780,

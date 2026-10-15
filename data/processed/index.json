@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01 22:40",
+  "updated": "2026-10-15 21:17",
   "directories": {
     "agriculture": {
       "file_count": 30,
@@ -2546,7 +2546,7 @@
     },
     "construction": {
       "file_count": 15,
-      "total_rows": 336767,
+      "total_rows": 336803,
       "tables": [
         {
           "table_id": "0003125915",
@@ -2630,7 +2630,7 @@
         {
           "table_id": "0003126261",
           "file": "0003126261.csv",
-          "total_rows": 3996,
+          "total_rows": 4014,
           "columns": [
             "value",
             "tab",
@@ -2694,7 +2694,7 @@
               ]
             }
           },
-          "value_count": 3996,
+          "value_count": 4014,
           "value_range": "2.0-3074652.0"
         },
         {
@@ -2855,7 +2855,7 @@
         {
           "table_id": "0003126277",
           "file": "0003126277.csv",
-          "total_rows": 4014,
+          "total_rows": 4032,
           "columns": [
             "value",
             "tab",
@@ -2907,7 +2907,7 @@
               ]
             }
           },
-          "value_count": 4014,
+          "value_count": 4032,
           "value_range": "-84.4-2084366.0"
         },
         {
@@ -8300,7 +8300,7 @@
     },
     "macro": {
       "file_count": 87,
-      "total_rows": 2351957,
+      "total_rows": 2352313,
       "tables": [
         {
           "table_id": "0000010103",
@@ -9929,7 +9929,7 @@
         {
           "table_id": "0002060006",
           "file": "0002060006.csv",
-          "total_rows": 28508,
+          "total_rows": 28611,
           "columns": [
             "value",
             "tab",
@@ -10044,7 +10044,7 @@
               ]
             }
           },
-          "value_count": 27860,
+          "value_count": 27963,
           "value_range": "0.0-100.0"
         },
         {
@@ -10119,7 +10119,7 @@
             "04100 仙台市",
             "05201 秋田市"
           ],
-          "area_count": 64,
+          "area_count": 63,
           "axis_info": {
             "tab_label": {
               "count": 1,
@@ -10140,7 +10140,7 @@
               ]
             }
           },
-          "value_count": 18815,
+          "value_count": 18838,
           "value_range": "5.0-10000.0"
         },
         {
@@ -10456,13 +10456,13 @@
               ]
             }
           },
-          "value_count": 23653,
+          "value_count": 23696,
           "value_range": "0.1-10000.0"
         },
         {
           "table_id": "0003005865",
           "file": "0003005865.csv",
-          "total_rows": 2547,
+          "total_rows": 2556,
           "columns": [
             "value",
             "tab",
@@ -10545,7 +10545,7 @@
               ]
             }
           },
-          "value_count": 2493,
+          "value_count": 2502,
           "value_range": "1.9-76.8"
         },
         {
@@ -10655,13 +10655,13 @@
               ]
             }
           },
-          "value_count": 48656,
+          "value_count": 48662,
           "value_range": "0.3-100.0"
         },
         {
           "table_id": "0003006300",
           "file": "0003006300.csv",
-          "total_rows": 29834,
+          "total_rows": 29939,
           "columns": [
             "value",
             "tab",
@@ -10759,7 +10759,7 @@
               ]
             }
           },
-          "value_count": 29186,
+          "value_count": 29291,
           "value_range": "0.0-100.0"
         },
         {
@@ -13788,7 +13788,7 @@
         {
           "table_id": "0003449369",
           "file": "0003449369.csv",
-          "total_rows": 46035,
+          "total_rows": 46174,
           "columns": [
             "value",
             "tab",
@@ -13868,7 +13868,7 @@
               ]
             }
           },
-          "value_count": 45165,
+          "value_count": 45304,
           "value_range": "0.0-6017260.0"
         },
         {
@@ -25197,8 +25197,8 @@
       ]
     },
     "wage-structure": {
-      "file_count": 10,
-      "total_rows": 942784,
+      "file_count": 12,
+      "total_rows": 1142784,
       "tables": [
         {
           "table_id": "0003029886",
@@ -25889,6 +25889,116 @@
           "value_range": "15.5-97.5"
         },
         {
+          "table_id": "0003425893",
+          "file": "0003425893.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "cat05",
+            "cat05_label",
+            "cat06",
+            "cat06_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "year_range": "2020-2023",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 1,
+              "samples": [
+                "年齢"
+              ]
+            },
+            "cat01_label": {
+              "count": 1,
+              "samples": [
+                "企業規模計（10人以上）"
+              ]
+            },
+            "cat02_label": {
+              "count": 73,
+              "samples": [
+                "Ｃ 鉱業，採石業，砂利採取業",
+                "Ｄ 建設業",
+                "Ｄ０６ 総合工事業",
+                "Ｄ０７ 職別工事業（設備工事業を除く）",
+                "Ｄ０８ 設備工事業",
+                "Ｅ 製造業",
+                "Ｅ０９ 食料品製造業",
+                "Ｅ１０ 飲料・たばこ・飼料製造業",
+                "Ｅ１１ 繊維工業",
+                "Ｅ１２ 木材・木製品製造業(家具を除く)"
+              ]
+            },
+            "cat03_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "男女計"
+              ]
+            },
+            "cat04_label": {
+              "count": 13,
+              "samples": [
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳",
+                "60～64歳",
+                "65～69歳"
+              ]
+            },
+            "cat05_label": {
+              "count": 8,
+              "samples": [
+                "不明",
+                "中学",
+                "大学",
+                "大学院",
+                "学歴計",
+                "専門学校",
+                "高専・短大",
+                "高校"
+              ]
+            },
+            "cat06_label": {
+              "count": 2,
+              "samples": [
+                "民営事業所",
+                "民営＋公営"
+              ]
+            }
+          },
+          "value_count": 86801,
+          "value_range": "15.5-87.2"
+        },
+        {
           "table_id": "0003426315",
           "file": "0003426315.csv",
           "total_rows": 69600,
@@ -26058,6 +26168,111 @@
           },
           "value_count": 77512,
           "value_range": "80.0-4000.0"
+        },
+        {
+          "table_id": "0003439118",
+          "file": "0003439118.csv",
+          "total_rows": 100000,
+          "columns": [
+            "value",
+            "tab",
+            "tab_label",
+            "cat01",
+            "cat01_label",
+            "cat02",
+            "cat02_label",
+            "cat03",
+            "cat03_label",
+            "cat04",
+            "cat04_label",
+            "cat05",
+            "cat05_label",
+            "time",
+            "time_label",
+            "unit"
+          ],
+          "has_time": true,
+          "has_area": false,
+          "years": [
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "year_range": "2020-2023",
+          "areas": [],
+          "area_count": 0,
+          "axis_info": {
+            "tab_label": {
+              "count": 2,
+              "samples": [
+                "勤続年数",
+                "年齢"
+              ]
+            },
+            "cat01_label": {
+              "count": 4,
+              "samples": [
+                "1,000人以上",
+                "100～999人",
+                "10～99人",
+                "企業規模計（10人以上）"
+              ]
+            },
+            "cat02_label": {
+              "count": 3,
+              "samples": [
+                "女",
+                "男",
+                "男女計"
+              ]
+            },
+            "cat03_label": {
+              "count": 13,
+              "samples": [
+                "20～24歳",
+                "25～29歳",
+                "30～34歳",
+                "35～39歳",
+                "40～44歳",
+                "45～49歳",
+                "50～54歳",
+                "55～59歳",
+                "60～64歳",
+                "65～69歳"
+              ]
+            },
+            "cat04_label": {
+              "count": 8,
+              "samples": [
+                "不明",
+                "中学",
+                "大学",
+                "大学院",
+                "学歴計",
+                "専門学校",
+                "高専・短大",
+                "高校"
+              ]
+            },
+            "cat05_label": {
+              "count": 17,
+              "samples": [
+                "Ｃ 鉱業，採石業，砂利採取業",
+                "Ｄ 建設業",
+                "Ｅ 製造業",
+                "Ｆ 電気・ガス・熱供給・水道業",
+                "Ｇ 情報通信業",
+                "Ｈ 運輸業，郵便業",
+                "Ｉ 卸売業，小売業",
+                "Ｊ 金融業，保険業",
+                "Ｋ 不動産業，物品賃貸業",
+                "Ｌ 学術研究，専門・技術サービス業"
+              ]
+            }
+          },
+          "value_count": 81378,
+          "value_range": "0.5-88.6"
         },
         {
           "table_id": "0003446118",
@@ -26246,8 +26461,8 @@
       ]
     }
   },
-  "total_files": 409,
-  "total_rows": 6220627,
+  "total_files": 411,
+  "total_rows": 6421019,
   "processed_files": [
     {
       "file": "_dir_agriculture.json",
@@ -26319,7 +26534,7 @@
     },
     {
       "file": "_dir_wage-structure.json",
-      "size_kb": 27.6
+      "size_kb": 33.0
     },
     {
       "file": "avg-wage.json",
